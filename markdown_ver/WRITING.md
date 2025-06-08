@@ -1,1 +1,37 @@
 # WRITING
+
+**Source**: [Giải đề Writing Task 2 ngày 3/6 và Listening Part 2 cùng anh Huy 9.0 IELTS | THE FORUM CENTER](https://www.youtube.com/watch?v=H0r0gMWAxdw)
+
+**Writing Task 2: Some people claim that public museums and art galleries will not be needed because people can see historical objects and work of arts by using a computer**
+
+**Do you agree or disagree with this opinion?**
+
+**Opening:** Viết lại đề, sau đó trả lời câu hỏi sau đó chỉ cần đồng ý hay không đồng ý do đề đã hỏi là đồng ý hay không thôi.
+
+Some individuals suggest that because of the ability of computers to demonstrate historical objects or arts pieces, we no longer need public museums and art galleries. Personally, I agree/disagree with this way of thinking due to some reasons that are explained in this essay.
+
+**Main 1**: Giải thích tại sao computers không thể thay thế được public museums - historical objects.
+
+Tức là có một khía cạnh nào đó của historical objects, mà chỉ có public museums làm được, còn computers sẽ không thể thay thế được -> **Vẫn cần public museums.**
+
+**Main 2**: Giải thích tại sao computers không thể thay thế được work of arts.
+
+**Shoud not do:** When people go to a museum or a public gallery, they can experience arts or historical objects directly, which helps them learn about their values better.
+
+**1. Tác phẩm nghệ thuật trước:** 
+
+**Version 1:** It is true that understanding the value of historical or artistic objects requires the comprehension of many aspects, such as the texture, the dimension, and the colors of it. Although computers can provide images and descriptions of these objects, they cannot directly provide a tangible connection between observers and these exhibited objects. As a result, computers fail to completely replace public museums or art galleries.
+
+**Version 2:** In order to comprehend the value of historical objects works of arts, it is highly important for observers to feel the texture and the dimensions of them. Although computers can provide desriptions, they cannot help people directly feel these aspects, making it harder for them to understand and respect the value of the exhibited objects.
+
+**Version 3:** Many pieces of arts, especially paintings or sculptures, which hold immense artistic value, often have very complex details, such as textured surfaces or a gradience of color. As a result, computers often fail to completely capture all these values, making pieces of arts look more dull and uninteresting. This is why the value of arts galleries is still unique as they provide a platforms for people to deeply comprehend the value of works created by renowned artists.
+
+**2. Tác phẩm nghệ thuật trước**
+
+Tại sao chúng ta không thể thay thế public museums bằng computers trong việc triển lãm các historical objects?
+
+**Version 1:** Public museums generally do not display historical objects in isolation. In fact, they often try to provide a comprehensive historical story that gradually sheds light on many complex knowledge pieces and immerse observers in a completely new realm. As a result, rather than sporadically viewing each object on computer, people who come to public museums can understand history at a new level, making public museums highly valuable and necessary in this day and age.
+
+**3. Conclusion**
+
+In conclusion, despite the claim that public museums and art galleries have a diminishing role in helping people experience historical and artistic objects, I strongly disagree with this suggestion. Not only can these places provide a detailed observation of pieces of significant value, but they can also heighten the sensation and feeling of observers, leading to a superior experience.
