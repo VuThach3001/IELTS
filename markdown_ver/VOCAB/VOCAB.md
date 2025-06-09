@@ -507,42 +507,42 @@ Extremely good
 - A baby harness.
 - A parachute harness
 
-1.   Harness /ˈhɑːr.nəs/ (v): to put a harness on a horse, or to connect a horse to a vehicle using a harness
+100.   Harness /ˈhɑːr.nəs/ (v): to put a harness on a horse, or to connect a horse to a vehicle using a harness
 To control something, usually in order to use its power:
 - There is a great deal of interest in harnessing wind and waves as new sources of power.
 - Harness energy/ideas/skills: Organizations need to harness the skills and knowledge of people who are retired or unemployed.
 - Harness the power of sth: Plans to help developing countries harness the power of technology are important in the fight against global warming.
 
-1.   Spark /spɑːrk/ (n) [FIRE/ELECTRICITY]: a very small piece of fire that flies out from something that is burning, or one that is made by rubbing two hard things together, or a flash of light made by electricity.
+101.   Spark /spɑːrk/ (n) [FIRE/ELECTRICITY]: a very small piece of fire that flies out from something that is burning, or one that is made by rubbing two hard things together, or a flash of light made by electricity.
 - Sparks were flying out of the bonfire (lửa trại) and blowing everywhere.
 - You can start a fire by rubbing two dry pieces of wood together until you produce a spark.
 
-1.   Spark /spɑːrk/ (n) [CAUSE]: a first small event or problem that causes a much worse situation to develop
+102.   Spark /spɑːrk/ (n) [CAUSE]: a first small event or problem that causes a much worse situation to develop
 - That small incident was the spark that set off the street riots.
 A feeling or quality that cause excitement:
 - They kept running into each other and eventually realized there was a spark between them.
 - The music is mediocre (tầm thường) because there’s no spark, no thrill, no unpredictability.
 
-1.   Spark /spɑːrk/ (n) [ELECTRICIAN]: an electrician (= a person whose job is to put in and repair electrical wires and equipment)
+103.   Spark /spɑːrk/ (n) [ELECTRICIAN]: an electrician (= a person whose job is to put in and repair electrical wires and equipment)
 - You need a brickie (thợ xây) and a sparks.
 
-1.   Spark /spɑːrk/ (v): to cause the start of something, especially an argument or fighting
+104.   Spark /spɑːrk/ (v): to cause the start of something, especially an argument or fighting
 - This proposal will almost certainly spark another countrywide (toàn quốc) debate about immigration.
 - The recent interest-rate rises have sparked new problems for small businesses.
 - The visit of the G20 leaders sparked off (=cause the start of) mass demonstrations (các cuộc biểu tình).
 
-1.   Spark /spɑːrk/ (n): a small amount
+105.   Spark /spɑːrk/ (n): a small amount
 - When students show a spark of interest, I try to give them extra encouragement.
 
-1.   Adhere /ədˈhɪr/ (v): to stick firmly
+106.   Adhere /ədˈhɪr/ (v): to stick firmly
 - A smooth, dry surface helps the tiles adhere to the wall.
 - Glue won’t adhere to any surface that’s wet.
 
-1.   Dietary /ˈdaɪ.ə.ter.i/ (adj): relating to your diet
+107.   Dietary /ˈdaɪ.ə.ter.i/ (adj): relating to your diet
 - Dietary habit: Dietary habits can be very difficult to change.
 - Dietary requirements: Do you have any special dietary requirements?
 
-1.   Regimen /ˈredʒ.ə.mən/ (n): any set of rules about food and exercise that someone follows, especially in order to improve their health
+108.   Regimen /ˈredʒ.ə.mən/ (n): any set of rules about food and exercise that someone follows, especially in order to improve their health
 - After his heart attack the doctor put him on a strict regimen.
 - His doctor put him on a strict regimen of exercise and low-fat food.
 
