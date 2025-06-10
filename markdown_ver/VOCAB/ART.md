@@ -21,7 +21,7 @@
 - His bag had a monogram with his initials.
 
 **6. Globular** /ˈɡlɑːb.jə.lɚ/ (adj): shaped like a ball
-- The globular pendant (mặt dây chuyền) hung beautifully
+- The globular **pendant** (mặt dây chuyền) hung beautifully
 
 **7. Azure** /ˈæʒ.ɚ/ (adj): having the bright blue colour of the sky on a clear day
 - The once azure skies of Athens have been ruined by **atmospheric** (thuộc về khí quyển) pollution.
@@ -38,7 +38,7 @@
 - The Vienna Philharmonic Orchestra
 - He joined the philharmonic groups
 
-**11. Bric-a-brac** (n): small decorative objects of various types and of no great value
+**11. Bric-a-brac** /ˈbrɪk.ə.bræk/ (n): small decorative objects of various types and of no great value
 - They sell **antiques** (đồ cổ) and bric-a-brac.
 
 **12. Incongruous** /ɪnˈkɑːŋ.ɡru.əs/ (adj): unusual or different from what is around or from what is generally happening
@@ -56,4 +56,4 @@
 
 **15. Supple** /ˈsʌp.əl/ (adj) [ABLE TO CHANGE]: able to change quickly and successfully to suit different situations
 - She has shown that she has a supple mind.
-- We need a more supple monetary policy.
+- We need a more supple **monetary** (tiền tệ) policy.
