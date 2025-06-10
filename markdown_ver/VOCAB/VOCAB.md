@@ -355,22 +355,24 @@ To be in charge of making a musical recording and to be responsible for the arra
 In an election, the difference in the number of votes between the winning person or group and the one that comes second
 - The Democratic candidate won by a narrow/large majority.
 
-74.	Majority /məˈdʒɔː.rə.t̬i/ (n) [AGE]: the age when you legally become an adult
+**74.	Majority** /məˈdʒɔː.rə.t̬i/ (n) [AGE]: the age when you legally become an adult
 - The age of majority.
-- She will inherit her father’s estate when she reaches her majority.
+- She will inherit her father’s **estate** (tài sản) when she reaches her majority.
 
-75.	Majority /məˈdʒɔː.rə.t̬i/ (adj): used to refer to the situation when a person or organization owns more shares in a company than any other shareholder, and enough to be in control of the company
+**75.	Majority** /məˈdʒɔː.rə.t̬i/ (adj): used to refer to the situation when a person or organization owns more shares in a company than any other shareholder, and enough to be in control of the company
 - According to government requirements, the airline must not fall into foreign majority control.
-- The group’s majority shareholder has be accused (buộc tội) of withholding (giữ lại) financial data.
+- The group’s majority shareholder has be accused (buộc tội) of **withholding** (giữ lại) financial data.
 - Profits have soared (bay lên), thanks in part to the company’s majority ownership of the country’s most successful newspaper group.
-76.	Distillation /ˌdɪs.təˈleɪ.ʃən/ (n) [C or U]: Purifying (lọc sạch) liquid by heating and cooling / the process of making a liquid stronger or purer (tinh khiết hơn) by heating it until it changes to a gas and then cooling it so that it changes back into a liquid, or a liquid made by this process
+
+**76.	Distillation** /ˌdɪs.təˈleɪ.ʃən/ (n) [C or U]: **Purifying** (lọc sạch) liquid by heating and cooling / the process of making a liquid stronger or **purer** (tinh khiết hơn) by heating it until it changes to a gas and then cooling it so that it changes back into a liquid, or a liquid made by this process
 - Usually the liquid is extracted by distillation.
 - The oil is a mixture of hydrocarbons that can be separated into various distillations.
-Something that gives only the main meaning or the most important parts of something, or the action of reducing something to its main meaning or most important parts - Tóm tắt
+
+**Something that gives only the main meaning or the most important parts of something, or the action of reducing something to its main meaning or most important parts - Tóm tắt**
 - The report is a distillation of hundreds of past studies on the subject.
 - His distillation of Buddhism into six words is “Change is part of the world”.
 
-77.	Numeric /nuˈmerɪk/ (adj): involving or expressed in numbers
+**77.	Numeric** /nuˈmerɪk/ (adj): involving or expressed in numbers
 - Numerical /nuːˈmer.ɪ.kəl/ (adj).
 - Respondents answer questions on a numeric scale – 0 to 6, for example – so the results can be quantified.
 - A numerical calculation.
@@ -378,53 +380,55 @@ Something that gives only the main meaning or the most important parts of someth
 - Keep your files in a numerical order.
 - The UN forces have a numerical superiority over the rebels (= there are more of the UN forces).
 
-78.	Relatively /ˈrel.ə.t̬ɪv.li/ (adv): relatively good, bad, etc.
+**78.	Relatively** /ˈrel.ə.t̬ɪv.li/ (adv): relatively good, bad, etc.
 Quite good, bad, etc. incomparison with other similar things or with what you expect
 - He’s a relatively good squash (bóng quần) player.
 - There was relatively little violence.
 Said when you are judging one thing in comparison with other things
 - Relatively speaking, it’s a fairly poor country.
 
-79.	Tend /tend/ (v) [BE LIKELY]: to be likely to behave in a particular way or have a particular characteristic
-- [+ to infinitive] We tend to get cold winters and warm, dry summers in this part of the country.
+**79.	Tend** /tend/ (v) [BE LIKELY]: to be likely to behave in a particular way or have a particular characteristic
+- **[+ to infinitive]** We tend to get cold winters and warm, dry summers in this part of the country.
 - I think you tend to eat more in the winter.
-- Children tend to get unsettled (bồn chồn) if you keep on changing their routine.
+- Children tend to get **unsettled** (bồn chồn) if you keep on changing their routine.
 
-80.	Tend /tend/ (v) [CARE]: to care for something or someone
+**80.	Tend** /tend/ (v) [CARE]: to care for something or someone
 - He carefully tended his sunflower plants.
-- The nurse gently tended the patient’s cuts (vết cắt) and bruises (vết bầm tím).
-Tend bar: to make and serve drinks in a bar or at a party
+- The nurse gently tended the patient’s **cuts** (vết cắt) and **bruises** (vết bầm tím).
+  
+**Tend bar**: to make and serve drinks in a bar or at a party
 - She tends bar in a hotel in New York.
 - We need two helpers – one to clean during and after the party and one to tend bar.
-Tend goal: (in some sports) to be the player who stands in a team's goal to try to stop the other team from scoring
+
+**Tend goal**: (in some sports) to be the player who stands in a team's goal to try to stop the other team from scoring
 - He biked, hiked, and maintained a passion for soccer – he tended goal – well into old age.
 - He tended goal for the Boston Bruins.
 
-81.	Foster /ˈfɑː.stɚ/ (v) [TAKE CARE OF]: to take care of a child, usually for a limited time, without being the child's legal parent
+**81.	Foster** /ˈfɑː.stɚ/ (v) [TAKE CARE OF]: to take care of a child, usually for a limited time, without being the child's legal parent
 - Would you consider fostering a child?
-- She had always wanted to foster, to help children who might otherwise (nếu không thì) suffer as she had suffered.
+- She had always wanted to foster, to help children who might **otherwise** (nếu không thì) suffer as she had suffered.
 
-82.	Foster /ˈfɑː.stɚ/ (v) [ENCOURAGE]: to encourage the development or growth of something
-- Foster innovation: She believed in fostering innovation through competition.
-- Foster cooperation: the idea is to foster cooperation between small businesses in the local area.
-- Foster development: Early intervention (sự can thiệp) programs can foster an infant’s development from birth.
-- Foster creativity: Perfoming arts in schools have the power to foster creativity
-- Foster understanding: We are taking steps to foster better understanding between our different religions.
-- Foster something in someone: They were discussing the best way to foster democracy (nền dân chủ) and prosperity (sự phồn vinh) in the former communist (Cộng Sản) countries.
+**82.	Foster** /ˈfɑː.stɚ/ (v) [ENCOURAGE]: to encourage the development or growth of something
+- **Foster innovation**: She believed in fostering innovation through competition.
+- **Foster cooperation**: the idea is to foster cooperation between small businesses in the local area.
+- **Foster development**: Early intervention (sự can thiệp) programs can foster an infant’s development from birth.
+- **Foster creativity**: Perfoming arts in schools have the power to foster creativity
+- **Foster understanding**: We are taking steps to foster better understanding between our different religions.
+- **Foster something in someone**: They were discussing the best way to foster **democracy** (nền dân chủ) and **prosperity** (sự phồn vinh) in the former **communist** (Cộng Sản) countries.
 - I’m trying to foster an interest in classical music in my children.
 
-83.	Foster /ˈfɑː.stɚ/ (adj) [before noun]: used to refer to someone or something connected with the care of children, usually for a limited time, by someone who is not the child's legal parent
-- Foster father: I had a really good relationship with my foster father.
-- Foster mother: The boy’s foster mother refused to be interviewed.
-- Foster home: The child was placed in a foster home.
+**83.	Foster** /ˈfɑː.stɚ/ (adj) [before noun]: used to refer to someone or something connected with the care of children, usually for a limited time, by someone who is not the child's legal parent
+- **Foster father**: I had a really good relationship with my foster father.
+- **Foster mother**: The boy’s foster mother refused to be interviewed.
+- **Foster home**: The child was placed in a foster home.
 
-Source Vocab: Writing Task 1
-84.	Remain /rɪˈmeɪn/ (v): to stay in the same place or in the same condition
+**84.	Remain** /rɪˈmeɪn/ (v): to stay in the same place or in the same condition
 - The doctor ordered him to remain in bed for a few days.
-- Most commentators (các nhà bình luận) expect the basic rate of tax to remain at 25 percent.
-- [+ to infinitive] A great many things remain to be done (= have not yet been done).
+- Most **commentators** (các nhà bình luận) expect the basic rate of tax to remain at 25 percent.
+- **[+ to infinitive]** A great many things remain to be done (= have not yet been done).
 - He remained silent
-To continue to exist when other parts or other things no longer exist
+
+**To continue to exist when other parts or other things no longer exist**
 - After the flood, nothing remained of the village.
 - Only a few hundred of these animals remain today.
 
@@ -507,42 +511,42 @@ Extremely good
 - A baby harness.
 - A parachute harness
 
-100.   Harness /ˈhɑːr.nəs/ (v): to put a harness on a horse, or to connect a horse to a vehicle using a harness
+1.     Harness /ˈhɑːr.nəs/ (v): to put a harness on a horse, or to connect a horse to a vehicle using a harness
 To control something, usually in order to use its power:
 - There is a great deal of interest in harnessing wind and waves as new sources of power.
 - Harness energy/ideas/skills: Organizations need to harness the skills and knowledge of people who are retired or unemployed.
 - Harness the power of sth: Plans to help developing countries harness the power of technology are important in the fight against global warming.
 
-101.   Spark /spɑːrk/ (n) [FIRE/ELECTRICITY]: a very small piece of fire that flies out from something that is burning, or one that is made by rubbing two hard things together, or a flash of light made by electricity.
+1.     Spark /spɑːrk/ (n) [FIRE/ELECTRICITY]: a very small piece of fire that flies out from something that is burning, or one that is made by rubbing two hard things together, or a flash of light made by electricity.
 - Sparks were flying out of the bonfire (lửa trại) and blowing everywhere.
 - You can start a fire by rubbing two dry pieces of wood together until you produce a spark.
 
-102.   Spark /spɑːrk/ (n) [CAUSE]: a first small event or problem that causes a much worse situation to develop
+1.     Spark /spɑːrk/ (n) [CAUSE]: a first small event or problem that causes a much worse situation to develop
 - That small incident was the spark that set off the street riots.
 A feeling or quality that cause excitement:
 - They kept running into each other and eventually realized there was a spark between them.
 - The music is mediocre (tầm thường) because there’s no spark, no thrill, no unpredictability.
 
-103.   Spark /spɑːrk/ (n) [ELECTRICIAN]: an electrician (= a person whose job is to put in and repair electrical wires and equipment)
+1.     Spark /spɑːrk/ (n) [ELECTRICIAN]: an electrician (= a person whose job is to put in and repair electrical wires and equipment)
 - You need a brickie (thợ xây) and a sparks.
 
-104.   Spark /spɑːrk/ (v): to cause the start of something, especially an argument or fighting
+1.     Spark /spɑːrk/ (v): to cause the start of something, especially an argument or fighting
 - This proposal will almost certainly spark another countrywide (toàn quốc) debate about immigration.
 - The recent interest-rate rises have sparked new problems for small businesses.
 - The visit of the G20 leaders sparked off (=cause the start of) mass demonstrations (các cuộc biểu tình).
 
-105.   Spark /spɑːrk/ (n): a small amount
+1.     Spark /spɑːrk/ (n): a small amount
 - When students show a spark of interest, I try to give them extra encouragement.
 
-106.   Adhere /ədˈhɪr/ (v): to stick firmly
+1.     Adhere /ədˈhɪr/ (v): to stick firmly
 - A smooth, dry surface helps the tiles adhere to the wall.
 - Glue won’t adhere to any surface that’s wet.
 
-107.   Dietary /ˈdaɪ.ə.ter.i/ (adj): relating to your diet
+1.     Dietary /ˈdaɪ.ə.ter.i/ (adj): relating to your diet
 - Dietary habit: Dietary habits can be very difficult to change.
 - Dietary requirements: Do you have any special dietary requirements?
 
-108.   Regimen /ˈredʒ.ə.mən/ (n): any set of rules about food and exercise that someone follows, especially in order to improve their health
+1.     Regimen /ˈredʒ.ə.mən/ (n): any set of rules about food and exercise that someone follows, especially in order to improve their health
 - After his heart attack the doctor put him on a strict regimen.
 - His doctor put him on a strict regimen of exercise and low-fat food.
 
