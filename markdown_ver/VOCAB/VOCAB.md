@@ -85,7 +85,7 @@
 - College Board officials said the difficulties arise more from socioeconomic that from ethnic (dân tộc) differences.
 
 **18.	Regardless** /rɪˈɡɑːrd.ləs/ (adv): despite; not being affected by something
-- regardless of something: The plan for new office building went ahead regardless of local opposition (sự phản đối).
+- **regardless of something**: The plan for new office building went ahead regardless of local opposition (sự phản đối).
 - She knew it was dangerous to visit him except at night, but she set out regardless (of the risk).
 - This job is open to all, regardless of previous experience.
 - We want tax cuts, but regardless, we need to limit expenditures.
@@ -118,7 +118,7 @@
 
 **25.	Inflict** /ɪnˈflɪkt/ (v): to force someone to experience something very unpleasant
 - These new bullets are capable of inflicting massive injuries.
-- (be) inflicted on: The suffering (sự chịu đựng) inflicted on these children was unimaginable.
+- (be) **inflicted on**: The suffering (sự chịu đựng) inflicted on these children was unimaginable.
 
 **26.	Urban** /ˈɝː.bən/ (adj):  of or in a city or town
 - Urban development.
