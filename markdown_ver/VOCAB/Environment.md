@@ -15,7 +15,6 @@
 - The desert traveler was fooled by a mirage
 - Up ahead she saw a slight shimmer that looked like water, a road mirage.
 
-
 **A hope or wish that has no chance of being achieved**
 
 - Electoral victory is just a distant mirage
@@ -42,7 +41,7 @@
 - There was a brown sediment in the bottom of the bottle
 - Sediment collected at the bottle's bottom.
 
-**9. Morass** /məˈræs/ (n) [COMPLICATED SSITUATION]: something that is extremely complicated and difficult to deal with and makes any progress almost impossible
+**9. Morass** /məˈræs/ (n) [COMPLICATED SITUATION]: something that is extremely complicated and difficult to deal with and makes any progress almost impossible
 
 - The morass of rules and regulations is delaying the start of the project.
 

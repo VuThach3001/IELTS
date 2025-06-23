@@ -75,37 +75,37 @@
 - He was granted **asylum** (tị nạn).
 - She granted their request/wish.
 
-**16.	Grant** /ɡrænt/ (v) [ACCEPT]: to accept that something is true, often before expressing an opposite opinion
+**16. Grant** /ɡrænt/ (v) [ACCEPT]: to accept that something is true, often before expressing an opposite opinion
 - grant that: I grant that it must have been upsetting but even so I think se overreacted.
 - I grant you = it is true that: I grant you, it’s a difficult situation but I feel sure he could have handled it more sensitively.
 
-**17.	Socioeconomic** /ˌsoʊ.si.oʊˌiː.kəˈnɑː.mɪk/ (adj): related to the differences between groups of people caused mainly by their financial situation.
+**17. Socioeconomic** /ˌsoʊ.si.oʊˌiː.kəˈnɑː.mɪk/ (adj): related to the differences between groups of people caused mainly by their financial situation.
 - Socioeconomic groups/groupings.
 - Socioeconomic factors.
 - College Board officials said the difficulties arise more from socioeconomic that from ethnic (dân tộc) differences.
 
-**18.	Regardless** /rɪˈɡɑːrd.ləs/ (adv): despite; not being affected by something
+**18. Regardless** /rɪˈɡɑːrd.ləs/ (adv): despite; not being affected by something
 - **regardless of something**: The plan for new office building went ahead regardless of local opposition (sự phản đối).
 - She knew it was dangerous to visit him except at night, but she set out regardless (of the risk).
 - This job is open to all, regardless of previous experience.
 - We want tax cuts, but regardless, we need to limit expenditures.
 
-**19.	Societal** /səˈsaɪ.ə.t̬əl/ (adj): relating to or involving society
+**19. Societal** /səˈsaɪ.ə.t̬əl/ (adj): relating to or involving society
 - Societal change/concerns/problems/values.
 - Rapid societal changes have complicated parents’ task.
 
-**20.	Prerequisite** /ˌpriːˈrek.wɪ.zɪt/ (n): something that must exist or happen before something else can exist or happen
+**20. Prerequisite** /ˌpriːˈrek.wɪ.zɪt/ (n): something that must exist or happen before something else can exist or happen
 - Passing a written test is a prerequisite for taking the advanced course.
 - Public support is a prerequisite for/to the success of this project.
 - They had to agree to certain conditions as a prerequisite of being lent the money.
 
-**21.	Tangible** /ˈtæn.dʒə.bəl/ (adj): real and not imaginary; able to be shown, touched, or experienced
+**21. Tangible** /ˈtæn.dʒə.bəl/ (adj): real and not imaginary; able to be shown, touched, or experienced
 - We need tangible evidence if we’re going to take legal action
 - Other tangible benefits include an increase in salary and shorter working hours
 - Driver will see tangible improvements on major roadways
 - The hope the meeting will achieve tangible results
 
-**22.	Deteriorate** /dɪˈtɪr.i.ə.reɪt/ (v): to become worse
+**22. Deteriorate** /dɪˈtɪr.i.ə.reɪt/ (v): to become worse
 - She was taken into hospital last week when her condition suddenly deteriorated.
 - The political situation in the region has deteriorated rapidly.
 
