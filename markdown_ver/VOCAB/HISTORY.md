@@ -28,6 +28,22 @@
 - She subjugated herself to her mother's needs.
 - Reporters must subjugate personal political convictions to their professional commitment to balance.
 
-**4. Aggregate** /ˈæɡ.rə.ɡət/ (n) [TOTAL]: something formed by adding together several amounts or things
+**6. Aggregate** /ˈæɡ.rə.ɡət/ (n) [TOTAL]: something formed by adding together several amounts or things
+
+- **aggregate of** The purchased an aggregate of 3000 shares in the company.
+- Snowflakes are loose aggregate of ice crystals.
+
+**7. Aggregate** /ˈæɡ.rə.ɡət/ (n) [BUILDING STONES]: small stones used in building
+
+- Volumes of aggregates, cement, and concrete used in the UK will rise this year.
+
+**8. Aggregate** /ˈæɡ.rə.ɡət/ (adj): total
+
+- The seven companies have an aggregate turnover of £5.2 million.
+
+**9. Aggregate** /ˈæɡ.rə.ɡət/ (v): to combine into a single group or total
+
+- They collect data from UK students about the discrimination at school and aggregate them in a secured box.
+
 
 
