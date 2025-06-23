@@ -13,3 +13,6 @@
 **3. Reseat yourself [ usually + adv/prep ]**: to sit down again
 - On reseating herself at the table, she called the waiter and asked for a glass of water.
 - Vince returned to the car, reseated himself, and threw his file on the seat next to him.
+
+**4. On aggregate**: If one team beats another on aggregate, it wins after adding together the goals in two or more matches
+- Arsenal lost the second game, but got through to the final on aggregate.
