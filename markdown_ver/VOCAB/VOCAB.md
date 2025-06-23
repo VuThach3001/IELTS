@@ -35,42 +35,42 @@
 - I fail to comprehend their attitude.
 - He doesn’t seem to comprehend the scale of the problem.
 
-**8.	Idealistic** /ˌaɪ.dɪəˈlɪs.tɪk/ (adj): believing that very good things can be achieved, often when this does not seem likely to other people.
+**8. Idealistic** /ˌaɪ.dɪəˈlɪs.tɪk/ (adj): believing that very good things can be achieved, often when this does not seem likely to other people.
 - When I was young and idealistic I believed it was possible to change the world.
 - She supports a number of idealistic causes.
 - A lot of people think I’m idealistic and can’t cope with the real world.
 - Apathetic (thờ ơ) parents and long hours make even idealistic teachers give up.
 - He’s idealistic but might not be very practical.
 
-**9.	Entitle** /ɪnˈtaɪ.t̬əl/ (v) [ALLOW]: to give someone the right to do or have something
+**9. Entitle** /ɪnˈtaɪ.t̬əl/ (v) [ALLOW]: to give someone the right to do or have something
 - entitle someone to (do) something: Being unemployed entitles you to free medical treatment.
 - [+ to infinitive] The employer is entitled to ask for references.
 - The voucher is valid between July and December and entitles you to 10% off all overseas flights.
 - be entitled to (do) sth: He was not entitled to receive any compensation.
 
-**10.	Entitle** /ɪnˈtaɪ.t̬əl/ (v) [GIVE TITLE]: to give a title to a book, film…
+**10. Entitle** /ɪnˈtaɪ.t̬əl/ (v) [GIVE TITLE]: to give a title to a book, film…
 - Her latest novel, entitled “The Forgotten Sex”, is out this week.
 
-**11.	Pursue** /pəˈsjuː/ (v) [FOLLOW]:  to follow someone or something, usually to try to catch him, her, or it
+**11. Pursue** /pəˈsjuː/ (v) [FOLLOW]:  to follow someone or something, usually to try to catch him, her, or it
 - The car was pursued by helicopters.
 - The hunters spent hours pursuing their prey (con mồi).
 - He was killed by the driver of a stolen car who was being hotly (một cách tập trung cao độ) pursued by the police.
 
-**12.	Pursue** /pəˈsjuː/ (v) [ATTEMPT]: to try to achieve something
+**12. Pursue** /pəˈsjuː/ (v) [ATTEMPT]: to try to achieve something
 - He plans to pursue a career in advertising.
 - To pursue a goal/dream/solution.
 - She single-mindedly pursued her goal of earning a law degree.
 
-**13.	Pursue** /pəˈsjuː/ (v) [CONTINUE]: to continue to do or consider something
+**13. Pursue** /pəˈsjuː/ (v) [CONTINUE]: to continue to do or consider something
 - The hobbies that I pursue in my spare time are crafts – woodworking, mainly. 
 - I don’t think the idea is worth pursuing.
 
-**14.	Grant** /ɡrænt/ (n): an amount of money given especially by the government to a person or organization for a special purpose
+**14. Grant** /ɡrænt/ (n): an amount of money given especially by the government to a person or organization for a special purpose
 - A student/research grant.
 - A local authority/government grant.
 - [+ to infinitive] They gave/awarded her a grant to study abroad for one year.
 
-**15.	Grant** /ɡrænt/ (v) [GIVE]: to give or allow someone something, usually in an official way
+**15. Grant** /ɡrænt/ (v) [GIVE]: to give or allow someone something, usually in an official way
 - [+ two objects] They granted her [object 1] an entry visa [object 2].
 - He was granted **asylum** (tị nạn).
 - She granted their request/wish.
