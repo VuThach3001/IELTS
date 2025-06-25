@@ -42,8 +42,34 @@
 - The seven companies have an aggregate turnover of £5.2 million.
 
 **9. Aggregate** /ˈæɡ.rə.ɡət/ (v): to combine into a single group or total
-
 - They collect data from UK students about the discrimination at school and aggregate them in a secured box.
 
+**10. Partisan** /ˈpɑːr.t̬ə.zən/ (adj): strongly supporting a person, principle, or political party, often without considering or judging the matter very carefully
+- The audience was very partisan, and refused to listen to her speech.
+- Partisan politics.
 
+**11. Partisan** /ˈpɑːr.t̬ə.zən/ (n): someone who supports a person, principle, or political party
+- The king did not believe that his rival could round up enough partisans to overthrow the monarchy.
 
+**12. Potentate** /ˈpɑːr.t̬ə.zən/ (n): a ruler who has a lot of power, especially one whose power is not limited, for example by the existence of a parliament
+- The villagers stood along the town's main road to observe as the pontentate's procession headed towards the capital.
+
+**13. Originate** /əˈrɪdʒ.ən.eɪt/ (v): to come from a particular place, time, situation, etc.
+- **originate in** Although the technology originated in the UK, it has been developed in the US
+- **originate among** The game is thought to have originated among the native peoples of Alaska
+- **originate at** This flight originated at Los Angeles airport and is continuing to Boston and then Madrid.
+- **originate from sb/sth** They are studying complaints believed to have originated from retailers
+
+**to start something or cause it to happen**
+- Who originated the saying "Small is beautiful"?
+
+**to arrange a new loan or investment**
+- A **mortgage** (thế chấp) broker matches borrowers with lenders but does not originate or service mortgages
+
+**14. Conflagration** /ˌkɑːn.fləˈɡreɪ.ʃən/ (n): a large fire that causes a lot of damage
+- The conflagration consumed the entire building.
+
+**a large and violent event, such as a war, involving a lot of people**
+- The government has turned a minor local problem into a full-blown regional conflagration.
+
+**15. Multiculturalism** /ˌmʌl.tiˈkʌl.tʃɚ.əl.ɪ.zəm/ (n): the belief that different cultures within a society should all be given importance
