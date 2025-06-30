@@ -53,3 +53,23 @@
 - **hair extensions**
 - **eyelash extensions** Women are adding eyelash extensions to their maintenance rituals (nghi thức)
 - **lash (mi) extensions** Lots of girls are treating themselves to lash extensions
+
+**12. Abscission** /æbˈsɪʃ.ən/ (n): the separation or falling off of part of a plant
+- The flower **buds** (nụ) and immature fruit frequently drop off; researchers have tried to determine the role growth hormones play in this abscission
+- The **abrupt** (đột ngột) abscission of funding left the researchers **scrambling** (xáo trộn)
+
+**13. Interim** /ˈɪn.t̬ɚ.ɪm/ (adj): temporary and intended to be used or accepted until something permanent exists
+- An interim solution
+- An interim government was set up for the period before the country's first free election.
+- He was the interim manager.
+
+**Used to describe part of a company's business year, rather than the whole year**
+- Directors declared an interim **dividend** (cổ tức) of 30 cents.
+
+**14. Enthusiasm** /ɪnˈθuː.zi.æz.əm/ (n): a feeling of energetic interest in a particular subject or activity and an eagerness to be involved in it
+- One of the good things about teaching young children is their enthusiasm.
+- **enthusiasm for** After the accident he lost his enthusiasm for the sport.
+- **work up enthusiasm** I just can't **work up** (= start to feel) any enthusiasm for the whole project.
+- His enthusiasm for the project inspired the entire team.
+
+**A subject or activity that interests you very much**
