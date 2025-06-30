@@ -60,3 +60,59 @@
 
 **Happening within or involving the members of one school**
 - At college she was active in intramural sports
+
+**11. Anonymity** /ˌæn.əˈnɪm.ə.t̬i/ (n): the situation in which someone's name is not given or known
+- The police have reassured (yên tâm) witnesses that they will be guaranteed anonymity.
+- For witnesses who may be afraid to speak out, the police have guaranteed anonymity.
+
+**12. Neuter** /ˈnuː.t̬ɚ/ (adj): relating to a particular gender (= class of nouns) in some languages
+- In German, most nouns related to chemistry are neuter
+- The neuter cat slept quietly.
+
+**13. Neuter** /ˈnuː.t̬ɚ/ (v): to remove part of an animal's sexual organs, so that it cannot produce young animals
+- Has your dog been neutered?
+
+**to take the power away from something**
+
+**14. Admissible** /ədˈmɪs.ə.bəl/ (adj): considered satisfactory and acceptable in a law court
+- The judge ruled that new evidence was admissible.
+- His ticket was admissible at the concert.
+- The board's findings would be admissible in criminal court.
+
+**15. Well-bred** /ˌwel ˈbred/ (adj) [PERSON]: coming from a family that has a high social position
+- [before noun] A well-bred young English woman
+
+**speaking or behaving in a way that is generally considered correct and polite**
+- The well-bred gentleman held the door open.
+
+**16. Well-bred** /ˌwel ˈbred/ (adj) [ANIMAL]: (of horses, dogs, etc.) bred from parents who are both considered to be good quality animals
+
+**17. Commitment** /kəˈmɪt.mənt/ (n): a promise or firm decision to do something
+
+- Players must make a commitment to play for a full season.
+- Can you give a commitment that the money will be made available?
+- He showed his commitment by volunteering weekly.
+
+**willingness to give your time and energy to a job, activity, or something that you believe in**
+- I'd like to thank the staff for having shown such commitment.
+- They don't want to promote me because they think I lack commitment.
+
+**18. Reciprocal** /rɪˈsɪp.rə.kəl/ (adj): A reciprocal action or arrangement involves two people or groups of people who behave in the same way or agree to help each other and give each other advantages
+- They share a truly reciprocal relationship
+- We have agreed to exchange information about our two companies, but strictly on a reciprocal basis.
+
+**a number that, when multiplied by another number, results in 1**
+
+**19. Divulgence** /daɪˈvʌl.dʒəns/ (n): the act of making known something that was secret
+- How can we protect press freedom while preventing the divulgence of classified information? 
+- His divulgence of the secret surprised everyone.
+
+**20. Secrecy** /ˈsiː.krə.si/ (n): the state of being secret or of keeping something secret
+- The content of her report is **shrouded in secrecy** (= being kept secret).
+- I'd love to tell you about it, but Martin's **sworn** me to secrecy (= made me promise not to tell anyone)
+- There has been strong criticism of the secrecy surrounding the negotiations.
+- The recipe was **passed down** in secrecy
+
+**21. Indiscriminately** (adv): in a way that does not show careful choice or planning, usually with harmful results
+- They fired indiscriminately into the crowd.
+- Chlorine **bleach** (thuốc tẩy) removes colour indiscriminately, attacking **stains** (vết bẩn) and **dyes** (thuốc nhuộm) alike.

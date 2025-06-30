@@ -16,3 +16,9 @@
 
 **4. On aggregate**: If one team beats another on aggregate, it wins after adding together the goals in two or more matches
 - Arsenal lost the second game, but got through to the final on aggregate.
+
+**5. Pass something down**: to teach or give something to someone who will be alive after you have died
+- **be passed down from something to something** His is a family trade, passed down from generation to generation
+
+**to give something to someone who is younger, less important, or at a lower level than you**
+- The word being passed down from the leadership is that the polls are showing good results.
