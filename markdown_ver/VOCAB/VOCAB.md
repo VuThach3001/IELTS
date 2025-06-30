@@ -109,18 +109,18 @@
 - She was taken into hospital last week when her condition suddenly deteriorated.
 - The political situation in the region has deteriorated rapidly.
 
-**23.	Rubber** /ˈrʌb.ɚ/ (n) [SUBSTANCE]: An elastic substance (= that stretches) made either from the juice of particular tropical trees or artificially
+**23. Rubber** /ˈrʌb.ɚ/ (n) [SUBSTANCE]: An elastic substance (= that stretches) made either from the juice of particular tropical trees or artificially
 - Types are almost always made of rubber.
 - Tires are made of rubber.
 
-**24.	Rubber** /ˈrʌb.ɚ/ (n) [GAME]: a series of three or five games between two teams, especially in card games or cricket
+**24. Rubber** /ˈrʌb.ɚ/ (n) [GAME]: a series of three or five games between two teams, especially in card games or cricket
 - We played a rubber of bridge.
 
-**25.	Inflict** /ɪnˈflɪkt/ (v): to force someone to experience something very unpleasant
+**25. Inflict** /ɪnˈflɪkt/ (v): to force someone to experience something very unpleasant
 - These new bullets are capable of inflicting massive injuries.
 - (be) **inflicted on**: The suffering (sự chịu đựng) inflicted on these children was unimaginable.
 
-**26.	Urban** /ˈɝː.bən/ (adj):  of or in a city or town
+**26. Urban** /ˈɝː.bən/ (adj):  of or in a city or town
 - Urban development.
 - Urban decay (sự phân rã).
 - Many Americans were leaving the farm for the promise of urban life.
@@ -132,96 +132,96 @@
 - The difficulties facing rural communities today are very real.
 - He has a great ability to connect with rural voters.
 
-**28.	Modernity** /mɒdˈɜː.nə.ti/ (n): the condition of being modern.
+**28. Modernity** /mɒdˈɜː.nə.ti/ (n): the condition of being modern.
 - There is a stark (rõ ràng) contrast between tradition and modernity.
 - Second, it gets at a kind of cultural formation which is typical of globalizing modernity.
 
-**29.	Tradition** /trəˈdɪʃ.ən/ (n): a belief, principle, or way of acting that people in a particular society or group have continued to follow for a long time, or all of these beliefs, etc. in a particular society or group.
+**29. Tradition** /trəˈdɪʃ.ən/ (n): a belief, principle, or way of acting that people in a particular society or group have continued to follow for a long time, or all of these beliefs, etc. in a particular society or group.
 - Fireworks have long been an American tradition on the Fourth of July.
 - Switzerland has a long tradition of neutrality.
 - [+ that] There’s a tradition in our office that when it’s somebody’s birthday, they bring in a cake for all of us to share.
 - According to tradition, a headless ghost walks through the corridors (hành lang) of the house at night.
 
-**30.	The outskirts** /ˈaʊt.skɝːts/ (n): the areas that form the edge of a town or city
+**30. The outskirts** /ˈaʊt.skɝːts/ (n): the areas that form the edge of a town or city
 - The factory is in/on the outskirts of New Delhi.
 - The outskirts of town.
 
-**31.	Suburb** /ˈsʌb.ɝːb/ (n): an area on the edge of a large town or city where people who work in the town or city often live.
+**31. Suburb** /ˈsʌb.ɝːb/ (n): an area on the edge of a large town or city where people who work in the town or city often live.
 - Box Hill is a suburb of Melbourne.
 - We drove from middle-class suburbs to a very poor inner-city area.
 - The publishing company relocated out of central London to the suburbs.
 - She opened a new location in the Dallas suburb of Richardson.
 
-**32.	The suburbs** /ˈsʌb.ɝːb/ (n): the outer area of a town, rather than the shopping and business centre in the middle
+**32. The suburbs** /ˈsʌb.ɝːb/ (n): the outer area of a town, rather than the shopping and business centre in the middle
 - The company decided to relocate to the suburbs because the rent was much cheaper.
 
-**33.	Charm** /tʃɑːrm/ (n) [ATTRACTION]: a quality that makes you like or feel attracted to someone or something
+**33. Charm** /tʃɑːrm/ (n) [ATTRACTION]: a quality that makes you like or feel attracted to someone or something
 - A woman of great charm.
 - It’s a town with a lot of old-world charm.
 - Even as a young boy he knew how to turn on the charm (be pleasant intentionally) when he wanted something.
 - I had to use all my charms to get them to lend us the hall (sảnh).
 
-**34.	Charm** /tʃɑːrm/ (n) [LUCKY OBJECT]: an object or saying that is thought to have magical powers, such as the ability to bring good luck
+**34. Charm** /tʃɑːrm/ (n) [LUCKY OBJECT]: an object or saying that is thought to have magical powers, such as the ability to bring good luck
 - He keeps a rabbit’s paw (chân của thú) as a lucky charm.
 - The shop sold **amulets** (bùa hộ mệnh), **crystals** (pha lê) and other good luck charms.
 - The make traditional dolls that are supposed to serve as a charm to keep the rain away.
 
-**35.	Charm** /tʃɑːrm/ (n) [JEWELLERY]: a small object, especially one made of gold or silver, worn on a chain as jewellery.
+**35. Charm** /tʃɑːrm/ (n) [JEWELLERY]: a small object, especially one made of gold or silver, worn on a chain as jewellery.
 
-**36.	Charm** /tʃɑːrm/ (v) [often passive]: to attract someone or persuade someone to do something because of your charm
+**36. Charm** /tʃɑːrm/ (v) [often passive]: to attract someone or persuade someone to do something because of your charm
 - We were charmed by his boyish (trẻ con) manner (thái độ).
 
-**37.	Quaint** /kweɪnt/ (adj): attractive because of being unusual and especially old-fashioned
+**37. Quaint** /kweɪnt/ (adj): attractive because of being unusual and especially old-fashioned
 - A quaint old **cottage** (ngôi nhà tranh).
 
-**38.	Quaint** /kweɪnt/ (adj): can also be used to show that you do not approve of something, especially an opinion, belief, or way of behaving, because it is strange or old-fashioned
+**38. Quaint** /kweɪnt/ (adj): can also be used to show that you do not approve of something, especially an opinion, belief, or way of behaving, because it is strange or old-fashioned
 - “What a quaint idea” she said, laughing at him.
 
-**39.	Nostalgic** /nɑːˈstæl.dʒɪk/ (adj): feeling happy and also slightly sad when you think about things that happened in the past
+**39. Nostalgic** /nɑːˈstæl.dʒɪk/ (adj): feeling happy and also slightly sad when you think about things that happened in the past
 - Talking about our old family holidays has made me feel all nostalgic.
 - We’ll take a nostalgic look at the musical hits of the 60s.
 
-**40.	Transformation** /ˌtræns.fɚˈmeɪ.ʃən/ (n): a complete change in the appearance or character of something or someone, especially so that that thing or person is improved
+**40. Transformation** /ˌtræns.fɚˈmeɪ.ʃən/ (n): a complete change in the appearance or character of something or someone, especially so that that thing or person is improved
 - Local people have mixed feelings about the planned transformation of their town into a regional capital.
 - I’d never seen Jose in a tuxedo (bộ lễ phục) before – it was quite a transformation.
 - A good robotic design achieves high efficiency of this motion transformation.
 
-**41.	Skyscraper** /ˈskaɪˌskreɪ.pɚ/ (n): a very tall modern building, usually in a city
+**41. Skyscraper** /ˈskaɪˌskreɪ.pɚ/ (n): a very tall modern building, usually in a city
 - The restaurant is at the top of one of the big downtown skyscrapers.
 - The soaring skyscrapers of New York City.
 
-**42.	Sprawling** /ˈsprɑː.lɪŋ/ (adj): (of a city) covered with buildings across a large area, often ones that have been added gradually over a period of time
+**42. Sprawling** /ˈsprɑː.lɪŋ/ (adj): (of a city) covered with buildings across a large area, often ones that have been added gradually over a period of time
 - Sprawling suburbs.
 - Somewhere in this sprawling metropolis, there is a secret military laboratory.
 - The sprawling city of Los Angeles
 
-**43.	Portray** /pɔːrˈtreɪ/ (v): to represent or describe someone or something in a painting, film, book, or other artistic work
+**43. Portray** /pɔːrˈtreɪ/ (v): to represent or describe someone or something in a painting, film, book, or other artistic work
 - The painting portrays a beautiful young woman in a blue dress.
 - The writer portrays life in a small village at the turn of the century.
 Portray someone as something: If a person in a film, book, etc. is portrayed as a particular type of character, they are represented in that way
 - The father in the film is portrayed as a fairly unpleasant character.
 - The book portrays him as a hero of the Wild West.
 
-**44.	Prefer** /prɪˈfɝː/ (v) [CHOOSE]:  to like, choose, or want one thing rather than another
+**44. Prefer** /prɪˈfɝː/ (v) [CHOOSE]: to like, choose, or want one thing rather than another
 - Do you prefer hot or cold weather?
 - I prefer red wine to white.
 - **[+ -Ing verb]** He prefers watching football to playing it.
 - **[+ to infinitive]** I’d prefer not to discuss this issue.
 - I’d prefer you not to smoke (= I would like it better if you did not smoke), please.
 
-**45.	Prefer** /prɪˈfɝː/ (v) [ACCUSE]:   to accuse someone officially
+**45. Prefer** /prɪˈfɝː/ (v) [ACCUSE]: to accuse someone officially
 - The police have decided not to prefer charges against them because of insufficient evidence.
 
-**46.	Intricate** /ˈɪn.trə.kət/ (adj): having a lot of small parts that are arranged in a complicated or delicate way
+**46.Intricate** /ˈɪn.trə.kət/ (adj): having a lot of small parts that are arranged in a complicated or delicate way
 - The watch mechanism is extremely intricate and very difficult to repair.
 - The tiled floor is installed in an intricate system.
 With many complicated details that make something difficult to understand
 - Police officers uncovered an intricate web of deceit (sự lừa dối).
 
-**47.	Politic** /ˈpɑː.lə.tɪk/ (adj): wise and showing the ability to make the right decisions
+**47. Politic** /ˈpɑː.lə.tɪk/ (adj): wise and showing the ability to make the right decisions
 - It would not be politic for you to be seen there.
 
-**48.	Politics** /ˈpɑː.lə.tɪks/ (n): the activities of the government, members of law-making organizations, or people who try to influence the way a country is governed
+**48. Politics** /ˈpɑː.lə.tɪks/ (n): the activities of the government, members of law-making organizations, or people who try to influence the way a country is governed
 - Joe is very active in left-wing (Liên quan đến hoặc đặc điểm của người, nhóm hoặc ý tưởng có quan điểm tự do hoặc xã hội chủ nghĩa) politics.
   
 **The job of holding a position of power in the government:**
@@ -234,74 +234,74 @@ The study of the ways in which a country is governed:
 - I don’t like to get involved in office politics.
 - They know how to get on with people and they understand the politics of a social group.
 
-**49.	Political** /pəˈlɪt.ɪ.kəl/ (adj): related to politics
+**49. Political** /pəˈlɪt.ɪ.kəl/ (adj): related to politics
 - Political leaders.
 - There are two major political parties in the US – the Democratic Party and the Republican Party.
 - Education is back at the top of the political agenda (= the matters that the government is considering).
 
-**50.	Politician** /ˌpɑː.ləˈtɪʃ.ən/ (n): a member of a government or law-making organization.
+**50. Politician** /ˌpɑː.ləˈtɪʃ.ən/ (n): a member of a government or law-making organization.
 - A distinguished/disgraced politician
 
-**51.	Scholar** /ˈskɑː.lɚ/ (n): a person who studies a subject in great detail, especially at a university
+**51. Scholar** /ˈskɑː.lɚ/ (n): a person who studies a subject in great detail, especially at a university
 - A classics/history scholar.
 - Dr Miles was a distinguished scholar of Russian history.
 Someone who is intelligent or good at learning by studying
 - David’s never been much of a scholar.
 - A visiting scholar at the University of Tokyo.
 
-**52.	Interest** /ˈɪn.trɪst/ (n) [INVOLVMENT]: the feeling of wanting to give your attention to something or of wanting to be involved with and to discover more about something
+**52. Interest** /ˈɪn.trɪst/ (n) [INVOLVMENT]: the feeling of wanting to give your attention to something or of wanting to be involved with and to discover more about something
 - I’ve always had an interest in astronomy.
 - He never seems to show any interest in his children.
 - Unfortunately, I lost interest halfway through the film.
 
-**53.	Interest** /ˈɪn.trɪst/ (n) [ADVANTAGE]: something that brings advantages to or affects someone or something
+**53. Interest** /ˈɪn.trɪst/ (n) [ADVANTAGE]: something that brings advantages to or affects someone or something
 - An union looks after the interests of its members.
 - It’s in his interests to keep careful records.
 - In the interests of safety, please do not smoke.
 
-**54.	Interest** /ˈɪn.trɪst/ (n) [MONEY]: money that is charged by a bank or other financial organization for borrowing money
+**54. Interest** /ˈɪn.trɪst/ (n) [MONEY]: money that is charged by a bank or other financial organization for borrowing money
 - Interest charges on an overdraft are usually quite high.
 Money that you earn from keeping your money in an account in a bank or other financial organization
 - You should put the money in a savings account where it will earn interest.
 
-**55.	Interest** /ˈɪn.trɪst/ (n) [LEGAL RIGHT]: an involvement or a legal right, usually relating to a business or possessions
+**55. Interest** /ˈɪn.trɪst/ (n) [LEGAL RIGHT]: an involvement or a legal right, usually relating to a business or possessions
 - He is a multi-millionaire with business interests around the world.
 - When they divorced, she retained a legal interest in the property.
 
-**56.	Interest** /ˈɪn.trɪst/ (v): If someone or something interests you, you want to give that person or thing your attention and discover more about him, her, or it
+**56. Interest** /ˈɪn.trɪst/ (v): If someone or something interests you, you want to give that person or thing your attention and discover more about him, her, or it
 - Sport has never really interested me.
 
-**57.	Divergent** /dɪˈvɝː.dʒənt/ (adj): different or becoming different from something else
+**57. Divergent** /dɪˈvɝː.dʒənt/ (adj): different or becoming different from something else
 - They hold widely divergent (trái nhau) opinions on controversial (gây tranh cãi) issues like religion.
 - In his book, he claims that the choices men and women make put them on divergent career paths.
 - She is a divergent thinker with an insatiable (không thể thỏa mãn) curiosity (sự tò mò).
 
-**58.	Proportional** /prəˈpɔːr.ʃən.əl/ (adj): If two amounts are proportional, they change at the same rate so that the relationship between them does not change
+**58. Proportional** /prəˈpɔːr.ʃən.əl/ (adj): If two amounts are proportional, they change at the same rate so that the relationship between them does not change
 - Weight is proportional to size.
 - How far you go is directly proportional to how fast you go (= as one thing increases, the other increases at exactly the same rate).
 
-**59.	Candidates** /ˈkæn.dɪ.dət/ (n): a person who is competing to get a job or elected position
+**59. Candidates** /ˈkæn.dɪ.dət/ (n): a person who is competing to get a job or elected position
 - There are three candidates standing in the election.
 A person or thing considered likely to receive or experience something
 - The English Department is a likely candidate for staff cuts.
 Someone who is taking an exam
 - Candidates must write their names on the top page of the exam paper.
 
-**60.	Candidacy** /ˈkæn.dɪ.də.si/ (n): The fact of being a candidate in an election
+**60. Candidacy** /ˈkæn.dɪ.də.si/ (n): The fact of being a candidate in an election
 - She is expected to announce officially her candidacy for president early next week.
 A situation in which someone is competing for an elected position
 - He waited until the end of August to announce his candidacy.
 
-**61.	Candidature** /ˈkændɪdətʃər/ (n): the same meaning as Candidacy
+**61. Candidature** /ˈkændɪdətʃər/ (n): the same meaning as Candidacy
 - Consultations on these two sites are ongoing in the light of scientific objections raised about their candidature.
 - The lack of conflict cannot stand as a possible justification for allowing these candidatures.
 
-**62.	Electorate** /ɪˈlek.tɚ.ət/ (n): all the people who are allowed to vote
+**62. Electorate** /ɪˈlek.tɚ.ət/ (n): all the people who are allowed to vote
 - The present voting system distorts (bóp méo) the wishes of the electorate.
 The people who are allowed to vote
 - The party’s electorate basically resembles the complexion of society.
 
-**63.	Elect**  /ɪˈlekt/ (v): to decide on or choose, especially to choose a person for a particular job, by voting
+**63. Elect**  /ɪˈlekt/ (v): to decide on or choose, especially to choose a person for a particular job, by voting
 - The President is elected for a four-year term of office.
 - **[+ as + noun]** We elected him as our representative.
 - **[+ noun] **She was elected Chair of the Board of Governors (thống đốc).
@@ -310,12 +310,12 @@ The people who are allowed to vote
 **Elect to do something:** to choose to do a particular thing
 - She elected to take early retirement instead of moving to the new location.
 
-**64.	Elect** /ɪˈlekt/ (n): in the Bible, people who are chosen by God, any group of people who have been specially chosen for their particular qualities.
+**64. Elect** /ɪˈlekt/ (n): in the Bible, people who are chosen by God, any group of people who have been specially chosen for their particular qualities.
 
-**65.	Elect** /ɪˈlekt/ (adj) [after noun, not gradable (An adjective that has no comparative or superlative form)]:  the person who has been voted to be president, prime minister, etc. but has not yet started work
+**65. Elect** /ɪˈlekt/ (adj) [after noun, not gradable (An adjective that has no comparative or superlative form)]:  the person who has been voted to be president, prime minister, etc. but has not yet started work
 - The president elect has been preparing to take office in January.
 
-**66.	Undesirable** /ˌʌn.dɪˈzaɪr.ə.bəl/ (adj): not wanted, approved of, or popular
+**66. Undesirable** /ˌʌn.dɪˈzaɪr.ə.bəl/ (adj): not wanted, approved of, or popular
 - Houses near industrial sites often do not sell so quickly because they are regarded as undesirable.
 Not wanted or welcomed; disliked
 - Undesirable body fat.
