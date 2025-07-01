@@ -22,3 +22,18 @@
 
 **to give something to someone who is younger, less important, or at a lower level than you**
 - The word being passed down from the leadership is that the polls are showing good results.
+
+**6. be on the lookout for something/someone**: to search for something or someone
+- I'm always on the lookout for interesting new recipes.
+
+**7. keep a lookout for something/someone**: to continue to watch carefully for something or someone, especially in order to avoid danger
+- Keep a lookout for small objects that a baby might swallow
+
+**8. it's your own lookout** [IDIOM]:  used to tell someone that they are responsible for their own problems
+- It's your own lookout if you're not properly insured.
+
+**9. At the helm**: officially controlling an organization or company
+- With Steve Lewis at the helm, we are certain of success.
+
+**10. Take the helm**: to start to officially control an organization or company
+- She was the first person from outside the family to take the helm at the privately held company
