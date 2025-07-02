@@ -37,3 +37,6 @@
 
 **10. Take the helm**: to start to officially control an organization or company
 - She was the first person from outside the family to take the helm at the privately held company
+
+**11. Be the belle of the ball**: to be the most attractive woman at a party or similar event
+- She wore a dress of **crimson** (đỏ thẫm) **silk** (lụa) to the dinner and was the belle of the ball.
