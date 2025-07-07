@@ -116,3 +116,9 @@
 **21. Indiscriminately** (adv): in a way that does not show careful choice or planning, usually with harmful results
 - They fired indiscriminately into the crowd.
 - Chlorine **bleach** (thuốc tẩy) removes colour indiscriminately, attacking **stains** (vết bẩn) and **dyes** (thuốc nhuộm) alike.
+
+**22. Linguist** (n): Someone who knows many languages
+- He became a linguist to explore cultures
+
+**23. Eclectic** (adj): consisting of a diverse variety of elements.
+- Her eclectic taste in music ranges from classical to pop.
