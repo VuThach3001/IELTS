@@ -45,11 +45,6 @@
 - Once the printing processes have been put in motion, they're not so easy to stop.
 - We filled in a form to set the whole process in motion.
 
-**13. Strike** /straɪk/ (v) [STOP WORK]: to refuse to continue working because of an argument with an employer about working conditions, pay levels, or job losses
-- **the right to strike** **Democratization** (Dân chủ hóa) has brought workers the right to strike and join a trade union.
-- **strike for** We're striking for better pay and improved safety standards.
-
-**13. Strike** /straɪk/ (v) [CAUSE SUFFERING]: to cause a person or place to suffer severely from the effects of something very unpleasant that happens suddenly
-- **disaster strikes** I have a life insurance policy that will take care of my family if disaster strikes
-- The disease has struck the whole community, sometimes wiping out whole families.
-- **earthquake strikes** They predict that a large earthquake will strike the west coast before the end of the decade.
+**13. Wipe something out**: to destroy something completely
+- Whole villages were wiped out in the fighting.
+- One bad harvest could wipe out all of a grower's profits for the previous two years.
