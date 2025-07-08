@@ -51,7 +51,7 @@
 **11. Partisan** /ˈpɑːr.t̬ə.zən/ (n): someone who supports a person, principle, or political party
 - The king did not believe that his rival could round up enough partisans to overthrow the monarchy.
 
-**12. Potentate** /ˈpɑːr.t̬ə.zən/ (n): a ruler who has a lot of power, especially one whose power is not limited, for example by the existence of a parliament
+**12. Potentate** /ˈpoʊ.t̬ən.teɪt/ (n): a ruler who has a lot of power, especially one whose power is not limited, for example by the existence of a parliament
 - The villagers stood along the town's main road to observe as the pontentate's procession headed towards the capital.
 
 **13. Originate** /əˈrɪdʒ.ən.eɪt/ (v): to come from a particular place, time, situation, etc.

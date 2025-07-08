@@ -57,3 +57,4 @@
 
 **15. Rancid** /ˈræn.sɪd/ (adj): (of butter, oil, etc.) tasting or smelling unpleasant because of not being fresh
 - Rob was double-dog-dared (thử thách gấp đôi) to eat the rancid egg salad sandwich.
+

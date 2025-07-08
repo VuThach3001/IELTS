@@ -122,3 +122,54 @@
 
 **23. Eclectic** (adj): consisting of a diverse variety of elements.
 - Her eclectic taste in music ranges from classical to pop.
+
+**24. Punitive** /ˈpjuː.nə.t̬ɪv/ (adj): intended as a punishment
+- Punitive action
+- The UN has **imposed** (áp đặt) punitive **sanctions** (lệnh trừng phạt) on the **invading** (xâm lược) country.
+- She is **suing** (kiện tụng) the newspaper for $5 million punitive damages, claiming they knew the article about her was untrue.
+- If caught smoking in the boys' room, the punitive result is immediate **expulsion** (trục xuất) from school.
+
+**25. Retroactive** /ˌret.roʊˈæk.tɪv/ (adj): If a law or decision is retroactive, it has effect from a date before it was approved
+- **retroactive effect** It was the first British law to have retroactive effect.
+- I’m getting a retroactive salary increase
+- The law was made retroactive to January.
+
+**26. Ostensible** /ɑːˈsten.sə.bəl/ (adj): appearing or claiming to be one thing when it is really something else
+- Their ostensible goal was to clean up government corruption, but their real aim was to unseat the government.
+- Rous published 60 scientific papers after his ostensible retirement.
+- Her ostensible goal for going to the gym was to get strong but really she just enjoyed socializing with the other members.
+
+**27. Sovereign** /ˈsɑːv.rən/ (n) [RULER]: a king or queen
+- A new sovereign of England will be introduced to the people soon.
+
+**28. Sovereign** /ˈsɑːv.rən/ (n) [COIN]: used to describe money that is borrowed or invested by national governments
+- Asian sovereign funds are increasingly investing in European and US companies.
+
+**29. Sovereign** /ˈsɑːv.rən/ (adj) [GOVERNMENT]: having the highest power or being completely independent
+- **sovereign power** Sovereign power is said to lie with the people in some countries, and with a ruler in others.
+- **sovereign state** We must respect the rights of sovereign states to conduct their own **affairs** (công việc).
+- **sovereign nation** The **raid** (cuộc đột kích) was **condemned** (bị lên án) as an unprovoked (không có lý do) attack on a sovereign nation.
+
+**30. Sovereign** /ˈsɑːv.rən/ (adj) [EXCELLENT]: **sovereign remedy** an extremely successful way of dealing with a problem
+- **sovereign remedy** Love is a sovereign remedy for unhappiness
+
+**31. Zealot** /ˈzel.ət/ (n): a person who has very strong opinions about something, and tries to make other people have them too
+- A religious zealot.
+- The political zealot walked over a thousand miles to get people to sign his **petition** (đơn kiến ​​nghị).
+
+**32. Arable** /ˈer.ə.bəl/ (adj): Arable farming land is used for, or is suitable for, growing crops
+- Arable farming/farmers/farms/land.
+- The country is rich in arable land.
+- The farmer purchased a plot of arable land on which he will grow corn and **sprouts** (mầm).
+
+**33. Onerous** /ˈɑː.nɚ.əs/ (adj): difficult to do or needing a lot of effort
+- The onerous task of finding a peaceful solution.
+- She found the duties of motherhood onerous.
+- My parents **lamented** (than thở) that the pleasures of living in a beautiful **country estate** (điền trang nông thôn) no longer outweighed the onerous **mortgage** (thế chấp) **payments** (thanh toán).
+
+**34. Expedient** /ɪkˈspiː.di.ənt/ (adj): helpful or useful in a particular situation, but sometimes not morally acceptable
+- In his **bid** (đấu giá) for reelection, the **governor** (thống đốc) made an expedient move by tabling all **controversial** (gây tranh cãi) **legislation** (luật).
+- It might be expedient not to pay him until the work is finished.
+
+**35. Expedient** /ɪkˈspiː.di.ənt/ (adj): an action that is expedient
+- A political expedient
