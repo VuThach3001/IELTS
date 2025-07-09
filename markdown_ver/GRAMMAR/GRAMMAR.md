@@ -48,3 +48,34 @@
 **13. Wipe something out**: to destroy something completely
 - Whole villages were wiped out in the fighting.
 - One bad harvest could wipe out all of a grower's profits for the previous two years.
+
+**14. Face the music**: to accept responsibility for something you have done
+- If she lied to me, then she'll just have to face the music
+- He was **reluctant** (miễn cưỡng) to face the music after his mistakes were revealed.
+
+**15. Zip your lip**: to say nothing or stop talking
+- He's the sort of man who rarely bothers to zip his lip
+- The **sulker** (người hờn dỗi) does not dare let her **hostile** (thù địch) feelings out. So she zips her lips.
+- During the movie, he whispered to her to zip her lip.
+
+**16. In hot water**: in a difficult situation in which you are likely to be punished
+- Emails that criticize others can **land** you in hot water, so be careful what you write.
+- He found himself in hot water over the missed deadline.
+
+**17. Get a kick out of**: Enjoy greatly
+- She gets a kick out of watching old comedies.
+
+**18. Lay someone low**: to cause someone to be unable to do what they usually do
+- A **kidney** (quả thận) **infection** (sự nhiễm trùng) laid her low for a couple of months.
+- After the scandal, he decided to lay low for a while.
+
+**19. No dice**: Something that people say when you may not or cannot do something
+- I asked if we could go to the party, but Mom said no dice.
+- His request for a raise met with no dice.
+
+**20. Shoot the breeze**: to spend time talking about things that are not important
+- We sat out on the **porch** (hiên nhà), just shooting the breeze.
+- We just sat on the porch and shot the breeze.
+
+**21. Go for broke**: to risk everything in the hope of having great success
+- He decided to go for broke and invest all his savings.
