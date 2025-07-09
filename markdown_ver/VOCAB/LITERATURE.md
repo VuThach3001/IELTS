@@ -27,7 +27,7 @@
 **7. Parallelism** /ˈper.ə.lelˌɪz.əm/ (n): the use of matching sentence structure, phrases, or longer parts so as to balance ideas of equal importance
 - Their writing styles show remarkable parallelism.
 
-**8. Bombastic** /bɑːmˈbæs.tɪk/ (adj): forceful and confident in a way that is intended to be very powerful and impressive, but may not have much real meaning or effect
+**8. [Bombastic](https://dictionary.cambridge.org/media/english/us_pron/u/usb/usbof/usboff_018.mp3)** /bɑːmˈbæs.tɪk/ (adj): forceful and confident in a way that is intended to be very powerful and impressive, but may not have much real meaning or effect
 
 <audio controls>
   <source src="https://dictionary.cambridge.org/media/english/us_pron/u/usb/usbof/usboff_018.mp3" type="audio/mpeg">
