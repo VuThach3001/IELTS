@@ -28,17 +28,36 @@
 - Their writing styles show remarkable parallelism.
 
 **8. Bombastic** /bɑːmˈbæs.tɪk/ (adj): forceful and confident in a way that is intended to be very powerful and impressive, but may not have much real meaning or effect
+
+<audio controls>
+  <source src="https://dictionary.cambridge.org/media/english/us_pron/u/usb/usbof/usboff_018.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 - His bombastic behavior is a front to hide that he is actually quite insecure.
 - A bombastic **preacher** (người thuyết giáo).
 - A bombastic **statement** (tuyên bố).
 
+
 **9. Sublime** /səˈblaɪm/ (adj): extremely good, beautiful, or enjoyable
+
+<audio controls>
+  <source src="https://dictionary.cambridge.org/media/english/us_pron/s/sub/subli/sublime.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 - Sublime beauty
 - The book has sublime **descriptive** (mô tả) passages.
 - He possesses sublime self-confidence.
 - The homeless man sadly **pondered** (suy nghĩ) his former wealth and once sublime existence.
 
 **10. Sublime** /səˈblaɪm/ (n): extremely good, beautiful, or enjoyable
+
+<audio controls>
+  <source src="https://dictionary.cambridge.org/media/english/us_pron/s/sub/subli/sublime.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 - A great deal of literature is only the obvious transformed into the sublime
 
 **11. Sublime** /səˈblaɪm/ (v): to change a solid directly into a gas without the solid first becoming a liquid, or to be changed in this way.
