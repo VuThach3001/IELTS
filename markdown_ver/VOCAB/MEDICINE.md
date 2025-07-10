@@ -80,3 +80,16 @@
 - She gave a clear and lucid account of her plans for the company's future.
 - The drugs she's taking make her drowsy (buồn ngủ) and confused, but there are times when she's quite lucid.
 - Because the medicine made Lisa drowsy, she was not very lucid.
+
+**16. Remedy** /ˈrem.ə.di/ (n): a successful way of curing an illness or dealing with a problem or difficulty
+- An effective **herbal** (thảo dược) remedy for headaches
+- The best remedy for **grief** (đau buồn) is hard work
+- The natural remedy helped **alleviate** (làm giảm nhẹ) her chronic headaches.
+
+**17. Remedy** /ˈrem.ə.di/ (v): to do something to correct or improve something that is wrong
+- This mistake must be remedied immediately.
+
+**18. Efficacious** /ˌef.əˈkeɪ.ʃəs/ (adj): able to produce the intended result
+- We believe that educational or **counselling** (tư vấn) **schemes** (các kế hoạch) are a more efficacious way of dealing with this problem than **harsh** (thô ráp) **sanctions** (lệnh trừng phạt).
+- Two versions of the vaccine have been shown in trials to be between 90% and 95% efficacious.
+- My doctor promised me that the cold medicine was efficacious, but I'm still **sniffing** (hít ngửi)
