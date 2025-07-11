@@ -10,3 +10,16 @@
 **3. Rain check** /ˈreɪn ˌtʃek/ (n) [DELAY IN ACCEPTING]: an offer or request to do or get something at a later time than was originally intended
 - I’m busy now, but can I take a rain check on that cup of coffee?
 - I'll have to take a rain check on that offer.
+
+**4. Relish** /ˈrel.ɪʃ/ (v): to like or enjoy something
+- I always relish a challenge.
+-  **[ + -ing verb ]** I don't relish telling her that her son has been arrested.
+- Pete always relished his bedtime snack.
+
+**5. Relish** /ˈrel.ɪʃ/ (n) [SAUCE]: a type of sauce that is eaten with food to add flavour to it
+- Tomato and onion relish
+- Would you like relish on your burger?
+
+**6. Relish** /ˈrel.ɪʃ/ (n) [ENJOYMENT]: the enjoyment you get from doing something
+- She ate her cake slowly and with relish
+- I have no relish for hunting and killing animals.

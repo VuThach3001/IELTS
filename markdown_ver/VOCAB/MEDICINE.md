@@ -93,3 +93,14 @@
 - We believe that educational or **counselling** (tư vấn) **schemes** (các kế hoạch) are a more efficacious way of dealing with this problem than **harsh** (thô ráp) **sanctions** (lệnh trừng phạt).
 - Two versions of the vaccine have been shown in trials to be between 90% and 95% efficacious.
 - My doctor promised me that the cold medicine was efficacious, but I'm still **sniffing** (hít ngửi)
+
+**19. Adipose** /ˈæd.ə.poʊs/ (adj): relating to animal fat
+- Adipose tissue (= fat)
+- The adipose tissue helps in storing **excess** (dư thừa) energy in body.
+
+**20. Bladder** /ˈblæd.ɚ/ (n): an organ like a bag inside the body of a person or animal, where urine is stored before it leaves the body
+- To empty your bladder (= urinate)
+- The blaader stores urine before it is **excreted** (bài tiết).
+
+**21. Air sac** /ˈer ˌsæk/ (n): a space filled with air that continues from a bird's lungs into one of its bones or another body area, used in breathing
+- Air sacs in the lungs **facilitate** (tạo điều kiện) gas exchange during breathing.

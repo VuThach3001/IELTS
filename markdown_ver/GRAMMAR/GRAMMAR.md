@@ -79,3 +79,10 @@
 
 **21. Go for broke**: to risk everything in the hope of having great success
 - He decided to go for broke and invest all his savings.
+
+**22. Propel someone into/to/towards something**: to cause someone to do an activity or be in a situation
+- The film propelled him to international **stardom** (ngôi sao)
+
+**23. Accustomed to something**: familiar with something
+- She quickly became accustomed to his messy ways.
+- People have grown accustomed to seeing corporate names on sports **arenas** (đấu trường).
