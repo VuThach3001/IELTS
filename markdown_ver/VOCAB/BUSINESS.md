@@ -73,3 +73,12 @@
 - His enthusiasm for the project inspired the entire team.
 
 **A subject or activity that interests you very much**
+
+**15. Buttress** /ˈbʌt.rəs/ (v): to build buttresses to support a building or structure
+- It was decided to buttress the **crumbling** (đang sụp đổ) walls.
+
+**To make support for an idea or argument stronger by providing a good reason for it**
+- The arguments for change are buttressed by events elsewhere.
+- The column buttresses the roof above the statue.
+
+**16. Buttress** /ˈbʌt.rəs/ (m): a structure made of stone or brick that sticks out from and supports a wall of a building
