@@ -51,7 +51,7 @@
 - He possesses sublime self-confidence.
 - The homeless man sadly **pondered** (suy nghĩ) his former wealth and once sublime existence.
 
-**10. Sublime** /səˈblaɪm/ (n): extremely good, beautiful, or enjoyable
+**10. Sublime** /səˈblaɪm/ (n): something that is sublime
 
 <audio controls>
   <source src="https://dictionary.cambridge.org/media/english/us_pron/s/sub/subli/sublime.mp3" type="audio/mpeg">
