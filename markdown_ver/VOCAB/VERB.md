@@ -53,3 +53,53 @@
 
 **If a part of a machine reciprocates, it moves backwards and forwards**
 - Some electric razors have reciprocating heads.
+
+**11. Circumvent** /ˌsɝː.kəmˈvent/ (v): to avoid something, especially cleverly or illegally
+- Ships were registered abroad to circumvent employment and safety regulations
+- Young people still want to circumvent their parents’ control.
+- Aware of the road closure, they took a **detour** (đường vòng) to circumvent the heavy traffic and reach their destination faster.
+
+**12. Buttress** /ˈbʌt.rəs/ (v): to build buttresses to support a building or structure
+- It was decided to buttress the **crumbling** (đang sụp đổ) walls.
+
+**To make support for an idea or argument stronger by providing a good reason for it**
+- The arguments for change are buttressed by events elsewhere.
+- The column buttresses the roof above the statue.
+
+**13. Discomfit** /dɪˈskʌm.fɪt/ (v): to make someone feel uncomfortable, especially mentally
+- The normally cheery and playful children's sudden **misery** (sự đau khổ) discomfited the teacher
+
+**14. Abstain**  /æbˈsteɪn/ (v) [NOT DO]: to not do something, especially something enjoyable that you think might be bad
+- **abstain from** He took a **vow** (lời thề) to abstain from alcohol/smoking/sex
+- Everyone demanded that Angus put on the kilt, but he did not want to do it and abstained.
+
+**15. Abstain**  /æbˈsteɪn/ (v) [NOT VOTE]: to decide not to use your vote
+- 63 members voted in favour, 39 opposed, and 15 abstained.
+
+**16. Abstain**  /æbˈsteɪn/ (v) [STAY AWAY]: to stay away from work
+- During a recent general strike, employees of all major trade unions abstained
+
+**17. Annul** /əˈnʌl/ (v): to officially announce that something such as a law, agreement, or marriage no longer exists
+- His second marriage was annulled because he never divorced his first wife
+- The contract was finally annulled.
+- After seeing its **unforeseen** (không lường trước được) and **catastrophic** (thảm khốc) effects, **congress** (quốc hội) sought to annul the law
+
+**18. Regurgitate** /rɪˈɡɝː.dʒə.teɪt/ (v): to bring back swallowed food into the mouth
+- Owls regurgitate partly digested food to feed their young.
+
+**If you regurgitate facts, you just repeat what you have heard without thinking about it**
+- Many students simply regurgitate what they hear in lectures.
+- Feeling sick, Chuck regurgitate his dinner.
+
+**19. Venerate** /ˈven.ɚ.eɪt/ (v): to honour or very much respect a person or thing
+- Robert Burns is Scotland's most venerated poet.
+- The **tribute** (Lời tri ân) to John Lennon sought to venerate his music, his words, and his legend.
+
+**20. Wane** /weɪn/ (v): to become weaker in strength or influence
+- By the late 70s the band's popularity was beginning to wane.
+- The moon wanes when it gradually appears less and less round, after the full moon.
+- Don't be so afraid of his **wrath** (cơn thịnh nộ) because his influence with the president is already beginning to wane.
+
+
+
+

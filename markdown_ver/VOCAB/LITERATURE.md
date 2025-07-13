@@ -9,7 +9,7 @@
 - The words "small" and "little" are synonyms
 - "Big" is a synonym for "Large".
 
-**3. Dramalist** /ˈdræm.ə.t̬ɪst/ (n): a person who writes plays
+**3. Dramatist** /ˈdræm.ə.t̬ɪst/ (n): a person who writes plays
 - Shakespeare was a famous dramatist.
 
 **4. Rote** /roʊt/ (n): learning something in order to be able to repeat it from memory, rather than in order to understand it
