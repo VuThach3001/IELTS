@@ -51,3 +51,17 @@
 **10. Halcyon** /ˌhæl.si.ən/ (adj): tranquil, joyful, and successful
 - **Halcyon days** She recalled the halcyon days of her youth
 - The halcyon days of summer were spent lazing on the beach with friends.
+
+**11. Detrimental** /ˌdet.rəˈmen.t̬əl/ (adj): causing harm or damage
+- **detrimental effect/impact** These chemicals have a detrimental effect/impact on the environment.
+- **detrimental to** Their decision could be detrimental to the future of the company.
+
+**12. Exponential** /ˌek.spoʊˈnen.ʃəl/ (adj) [INCREASE]: An exponential rate of increase becomes quicker and quicker as the thing that increases becomes larger
+- **exponential growth** We are looking for exponential growth in our investment.
+- **exponential increase** There has been an exponential increase in the world population this century.
+
+**13. Exponential** /ˌek.spoʊˈnen.ʃəl/ (adj) [NUMBER]: containing an exponent (= a number or sign that shows how many times another number is to be multiplied by itself)
+- **exponential expression** 6^4 is an exponential expression.
+
+**14. Perilous** /ˈper.əl.əs/ (adj): extremely dangerous
+- The country roads are quite perilous

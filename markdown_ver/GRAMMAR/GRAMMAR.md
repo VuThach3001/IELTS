@@ -86,3 +86,14 @@
 **23. Accustomed to something**: familiar with something
 - She quickly became accustomed to his messy ways.
 - People have grown accustomed to seeing corporate names on sports **arenas** (đấu trường).
+
+**24. Know of someone/something**: to have heard of someone or something and be able to give a small amount of information about him, her, or it
+- Do you know of a good doctor?
+
+**25. Be on the hook (for sth/to do sth)**: to owe money or be legally responsible for something
+- If the investment company fails, they are on the hook to pay the loan
+- The cleanup plan called for the companies, which are on the hook for cleanup costs, to dredge contaminated sediments from the river.
+
+**26. Off the hook**: having escaped from a difficult situation or punishment
+- **be/get off the hook** Don't think you're off the hook on taxes just because you were paid in cash.
+- **get/let sb off the hook** The minister was last night under fire for letting the big banks off the hook.

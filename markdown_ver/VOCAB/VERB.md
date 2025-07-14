@@ -100,6 +100,30 @@
 - The moon wanes when it gradually appears less and less round, after the full moon.
 - Don't be so afraid of his **wrath** (cơn thịnh nộ) because his influence with the president is already beginning to wane.
 
+**21. Adopt** /əˈdɑːpt/ (v) [TAKE INTO HOME]: to legally take another person's child into your own family and take care of him or her as your own child
+- She had the child adopted (= she gave her baby to someone else to take care of).
+- They have no children of their own, but they're hoping to adopt.
 
+**22. Adopt** /əˈdɑːpt/ (v) [START USING]: to accept or start to use something new
+- I think it's time to adopt a different strategy in my dealings with him.
+- The new tax would force companies to adopt energy-saving measures
 
+**23. Adopt** /əˈdɑːpt/ (v) [CHOOSE]: to choose someone or something or take something as your own
+- Dr Kennedy has been adopted as the party's candidate for South Cambridge.
 
+**24. Emerge** /ɪˈmɝːdʒ/ (v) [APPEAR]: to appear by coming out of something or out from behind something
+- **emerge from** She emerged from the sea, blue with cold.
+
+**to come to the end of a difficult period or experience**
+- **emerge from** The Prince emerged **unscathed** (không hề hấn gì) from the scandal.
+
+**25. Emerge** /ɪˈmɝːdʒ/ (v) [BECOME KNOWN]: to become known, especially as a result of examining something or asking questions about it
+- The facts behind the scandal are sure to emerge eventually.
+- It has emerged that secret talks had been going on between the two companies before the takeover was announced.
+
+**26. Hook** /hʊk/ (v) [FASTEN]: to fasten something with a hook, hang something on a hook, or catch something with a hook
+- He hooked the trailer (= joined it with a hook) to his car.
+
+**27. Deplete** /dɪˈpliːt/ (v): to reduce something in size or amount, especially supplies of energy, money, etc.
+- If we continue to deplete the earth's natural resources, we will cause serious damage to the environment.
+- **deplete something of something** The illness depletes the body of important vitamins.
