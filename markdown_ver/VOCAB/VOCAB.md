@@ -580,11 +580,12 @@ Source Vocab: IELTS Simulation Reading test 7 - STUDY4
 To stop someone taking an active and important part in something
 - He was sidelined after criticzing the policy.
 
-116. Vague /veɪɡ/ (adj): not clearly expressed, known, described, or decided
+**116. Vague** /veɪɡ/ (adj): not clearly expressed, known, described, or decided
 - I do have a vague memory of meeting her many years ago.
 - The patient had complained of vague pains and backache.
- Not clear in shape, or not clearly seen
-- Through the mist (sương mù) I could just make out a vague figure.
+
+**Not clear in shape, or not clearly seen**
+- Through the **mist** (sương mù) I could just make out a vague figure.
 
 **117. Make-out** /ˈmeɪkˌaʊt/ (n): The activity of making out with someone (= kissing and holding them in a sexual way, or having sex with them)
 - NCMO stands for “non-committal make-out” and means kissing someone, then saying goodbye.

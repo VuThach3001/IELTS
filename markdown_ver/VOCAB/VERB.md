@@ -138,4 +138,4 @@
 
 **21. Withold** /wɪðˈhoʊld/ (v): to refuse to give something or to keep back something
 - To withhold information/support
-- During the trial, the **prosecution** was **accused** (bị buộc tội) of withholding crucial evidence from the **defence** (phòng thủ).
+- During the trial, the **prosecution** (truy tố) was **accused** (bị buộc tội) of withholding crucial evidence from the **defence** (phòng thủ).

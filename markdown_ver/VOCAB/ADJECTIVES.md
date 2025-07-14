@@ -69,3 +69,18 @@
 **15. Apprehensive** /ˌæp.rəˈhen.sɪv/ (adj): feeling worried about something that you are going to do or that is going to happen:
 - I'm very apprehensive about tomorrow's meeting.
 - I've invited a lot of people to the party, but I'm a little apprehensive that no one will come.
+
+**16. Sophisticated** /səˈfɪs.tə.keɪ.t̬ɪd/ (adj): having a good understanding of the way people behave and/or a good knowledge of culture and fashion
+- I don't think I have any books that would suit your sophisticated tastes.
+- He was older than me and from London and I thought him very sophisticated.
+
+Intelligent or made in a complicated way and therefore able to do complicated tasks
+- I think a more sophisticated approach is needed to solve this problem.
+- These are among the most sophisticated weapons in the world.
+
+**17. Spotty** /ˈspɑː.t̬i/ (adj) [SKIN]: used to describe a person with spots on their skin
+- I knew him when he was just a spotty youth.
+
+**18. Spotty** /ˈspɑː.t̬i/ (adj) [NOT ALWAYS GOOD]: bad in some parts
+- She has a fairly spotty work record.
+- Sales have picked up a little but they're still spotty.
