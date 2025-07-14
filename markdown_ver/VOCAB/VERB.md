@@ -127,3 +127,15 @@
 **27. Deplete** /dɪˈpliːt/ (v): to reduce something in size or amount, especially supplies of energy, money, etc.
 - If we continue to deplete the earth's natural resources, we will cause serious damage to the environment.
 - **deplete something of something** The illness depletes the body of important vitamins.
+
+**28, Triumph** /ˈtraɪ.əmf/ (v): to have a very great success or victory
+- I believe that sooner or later good must triumph over evil.
+- The Democrats once again triumphed in recent elections.
+
+**29. Auction** /ˈɑːk.ʃən/ (v): to sell something in a public auction
+- The stamps will be auctioned tomorrow.
+- The family is auctioning (**off**) its art collection.
+
+**21. Withold** /wɪðˈhoʊld/ (v): to refuse to give something or to keep back something
+- To withhold information/support
+- During the trial, the **prosecution** was **accused** (bị buộc tội) of withholding crucial evidence from the **defence** (phòng thủ).

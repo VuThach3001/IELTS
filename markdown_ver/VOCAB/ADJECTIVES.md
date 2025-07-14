@@ -65,3 +65,7 @@
 
 **14. Perilous** /ˈper.əl.əs/ (adj): extremely dangerous
 - The country roads are quite perilous
+
+**15. Apprehensive** /ˌæp.rəˈhen.sɪv/ (adj): feeling worried about something that you are going to do or that is going to happen:
+- I'm very apprehensive about tomorrow's meeting.
+- I've invited a lot of people to the party, but I'm a little apprehensive that no one will come.

@@ -42,3 +42,16 @@
 - I never felt that my life was in peril.
 - Teenagers must be warned about the perils of unsafe sex.
 - That last holiday seriously depleted my bank account!
+
+**11. Triumph** /ˈtraɪ.əmf/ (n): a very great success, achievement, or victory (= when you win a war, fight, or competition), or a feeling of great satisfaction or pleasure caused by this
+- The book celebrates the **hostages**' (con tin) remarkable triumph over **appalling** (kinh khủng) **adversity** (nghịch cảnh).
+- The **constitutional** (hiến pháp) changes have been **hailed** (được chào đón) as a triumph for **democracy** (nền dân chủ).
+ 
+**12. Auction** /ˈɑːk.ʃən/ (n): a usually public sale of goods or property, where people make higher and higher bids (= offers of money) for each thing, until the thing is sold to the person who will pay most
+- A furniture auction
+- They're holding an auction of jewellery on Thursday.
+- The house and its contents are being put up for auction.
+
+**13. Mediation** /ˌmiː.diˈeɪ.ʃən/ (n): the process of talking to two separate people or groups involved in a disagreement to try to help them to agree or find a solution to their problems
+- Last-minute attempts at mediation failed.
+- In divorce cases where there are children, mediation is preferable to going to court.
