@@ -74,7 +74,7 @@
 - I don't think I have any books that would suit your sophisticated tastes.
 - He was older than me and from London and I thought him very sophisticated.
 
-Intelligent or made in a complicated way and therefore able to do complicated tasks
+**Intelligent or made in a complicated way and therefore able to do complicated tasks**
 - I think a more sophisticated approach is needed to solve this problem.
 - These are among the most sophisticated weapons in the world.
 
