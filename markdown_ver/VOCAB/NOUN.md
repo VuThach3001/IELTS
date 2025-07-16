@@ -55,3 +55,28 @@
 **13. Mediation** /ˌmiː.diˈeɪ.ʃən/ (n): the process of talking to two separate people or groups involved in a disagreement to try to help them to agree or find a solution to their problems
 - Last-minute attempts at mediation failed.
 - In divorce cases where there are children, mediation is preferable to going to court.
+
+**14. Offender** /əˈfen.dɚ/ (n): a person who is guilty of a crime
+- First-time offenders
+- Sex offenders
+- Young offenders
+
+**15. Imprisonment** /ɪmˈprɪz.ən.mənt/ (n): the act of putting someone in prison or the condition of being kept in prison
+- She was sentenced to five years' imprisonment
+- He could win damages for his father's wrongful imprisonment.
+
+**16. Rehabilitation** /ˌriː.həˌbɪl.əˈteɪ.ʃən/ (n): the process of returning to a healthy or good way of life, or the process of helping someone to do this after they have been in prison, been very ill, etc.
+- Many **amputees** (người cụt chân tay) in the early stages of their rehabilitation feel **despair** (tuyệt vọng).
+- The rehabilitation of violent offenders
+
+**the process of returning something to a good condition**
+- The rehabilitation of derelict buildings.
+
+**17. Exposé** /ˌek.spəˈzeɪ/ (n): a public report about a situation that is shocking or that has been kept secret
+
+**18. Restorative justice** /rɪˌstɔːr.ə.t̬ɪv ˈdʒʌs.tɪs/ (n): a way of dealing with crime that emphasizes taking responsibility for the effect of your crime on others, and trying to do something that makes things better for the victims
+- She believes restorative justice can help offenders change their thinking.
+- Participants in a restorative justice scheme
+
+**19. Restorative** /rɪˈstɔːr.ə.t̬ɪv/ (n): something that makes you feel better or more energetic if you are feeling tired or ill
+- After a hard day at the office, a hot bath is a welcome restorative.
