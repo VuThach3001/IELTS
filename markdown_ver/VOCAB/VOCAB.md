@@ -212,7 +212,7 @@ Portray someone as something: If a person in a film, book, etc. is portrayed as 
 **45. Prefer** /prɪˈfɝː/ (v) [ACCUSE]: to accuse someone officially
 - The police have decided not to prefer charges against them because of insufficient evidence.
 
-**46.Intricate** /ˈɪn.trə.kət/ (adj): having a lot of small parts that are arranged in a complicated or delicate way
+**46. Intricate** /ˈɪn.trə.kət/ (adj): having a lot of small parts that are arranged in a complicated or delicate way
 - The watch mechanism is extremely intricate and very difficult to repair.
 - The tiled floor is installed in an intricate system.
 With many complicated details that make something difficult to understand

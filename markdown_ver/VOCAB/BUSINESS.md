@@ -82,3 +82,40 @@
 - The column buttresses the roof above the statue.
 
 **16. Buttress** /ˈbʌt.rəs/ (m): a structure made of stone or brick that sticks out from and supports a wall of a building
+
+**17. Hiatus** /haɪˈeɪ.t̬əs/ (n): a short pause in which nothing happens or is said, or a space where something is missing
+- The company expects to resume production of the vehicle again after a two-month hiatus.
+- Peace talks resumed this week after a five-month hiatus.
+- The hiatus in service should last two or three months until the cable lines are repaired.
+
+**18. Blueprint** /ˈbluː.prɪnt/ (n): a plan or design that explains how something might be achieved
+- **blueprint for** Their blueprint for economic reform was published yesterday.
+- The report provided a blueprint for relieving the county’s crowded jail facilities.
+- The architect provided a blueprint for the new office layout
+
+**19. Juxtaposition** /ˌdʒʌk.stə.pəˈzɪʃ.ən/ (n): the fact of putting things that are not similar next to each other
+- The juxtaposition of two very different cultures
+- An odd juxtaposition of talents worked exceedingly well on the project.
+- The interior designer admired my juxtaposition of the yellow couch and green table
+
+**20. Ramification** /ˌræm.ə.fəˈkeɪ.ʃən/ (n): the possible results of an action
+- **Ramification of** Have you considered all the ramifications of your suggestion?
+- Have you considered all the ramifications of changing careers at this stage of your life?
+- We considered the proposal and all it ramifications.
+
+**21. Burgeon** /ˈbɝː.dʒən/ (v): to develop or grow quickly
+- Love burgeoned between them.
+- Product placement has burgeoned to the extent that corporate logos are now found in most mainstream films.
+- Car prices go down, car dealers are expecting sales to burgeon.
+
+**22. Disavow** /ˌdɪs.əˈvaʊ/ (v): to say that you know nothing about something, or that you have no responsibility for or connection with something
+- They were quick to disavow the rumour.
+- She tried to disavow her past.
+- Not wanting others to criticize her, she disavowed any involvement in the company's hiring scandal.
+
+**23. Bilk** /bɪlk/ (v): to get money from someone unfairly or dishonestly
+- He bilked clients out of tens of millions of dollars.
+- The lawyer discovered that this firm had bilked several clients out of thousands of dollars.
+
+**24. Promptness** /ˈprɑːmpt.nəs/ (n): the quality of doing something quickly and without delay, or at the arranged time
+- The company should pay suppliers with reasonable promptness.
