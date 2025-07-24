@@ -139,3 +139,45 @@
 **21. Withold** /wɪðˈhoʊld/ (v): to refuse to give something or to keep back something
 - To withhold information/support
 - During the trial, the **prosecution** (truy tố) was **accused** (bị buộc tội) of withholding crucial evidence from the **defence** (phòng thủ).
+
+**22. Endure** /ɪnˈdʊr/ (v) [EXPERIENCE]: to suffer something difficult, unpleasant, or painful
+- We had to endure a nine-hour delay at the airport
+- She's already had to endure three painful operations on her leg.
+
+**23. Endure** /ɪnˈdʊr/ (v) [CONTINUE]: to continue to exist for a long time
+- The political system established in 1400 endured until about 1650.
+
+**24. Deliberate** /dɪˈlɪb.ə.reɪt/ (v): to think or talk seriously and carefully about something
+- **deliberate on** The **jury** (bồi thẩm đoàn) took five days to deliberate on the case.
+- The **committee** (ủy ban) has deliberated the question at great length.
+
+**25. Deter** /dɪˈtɝː/ (v): to prevent someone from doing something or to make someone less enthusiastic about doing something by making it difficult for that person to do it or by threatening bad results if they do it
+- These measures are designed to deter an enemy attack.
+- **deter someone from doing something** High prices are deterring many young people from buying houses.
+
+**26. Commit** /kəˈmɪt/ (v) [CRIME]: to do something illegal or something that is considered wrong
+- He was sent to prison for a crime that he didn't commit.
+- To commit adultery/murder
+- To commit an offence
+
+**27. Commit** /kəˈmɪt/ (v) [PROMISE]: to promise or give your loyalty, time, or money to a particular principle, person, or plan of action
+- **commit yourself to something** Like so many men, he has problems committing himself to a relationship
+- The government must commit itself to improving healthcare.
+
+**28. Commit** /kəˈmɪt/ (v) [SEND]: Perhaps we should commit these ideas to paper before we forget them
+- **be committed to** He was committed to prison for **fraud** (gian lận).
+- **commit someone to something** She was afraid doctors were going to commit her to a psychiatric (thuộc về tâm thần) **institution** (trại).
+- **be committed for** Three men were yesterday committed for trial on conspiracy charges.
+
+**29. Expose** /ɪkˈspoʊz/ (v) [BE SEEN]: to make something covered or hidden able to be seen
+- The plaster was removed to expose the original brick wall.
+
+**30. Expose** /ɪkˈspoʊz/ (v) [SHOW THE TRUTH]: to publicly show that someone or something is bad or dishonest
+- He was exposed as a fraud and a liar.
+
+**31. Expose** /ɪkˈspoʊz/ (v) [BE HARMED]: to create a situation or a condition that makes someone likely to be harmed
+- His behavior on the Senate floor exposed him to **ridicule** (sự chế giễu).
+- Be sure your child wears sunscreen whenever she’s exposed to the sun.
+
+**32. Expose** /ɪkˈspoʊz/ (v) [GIVE OPPOTURNITY]: to create conditions that allow someone to have the opportunity to learn or experience new things
+- Kate was exposed to new ideas when she went to college.

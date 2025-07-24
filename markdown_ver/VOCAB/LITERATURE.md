@@ -28,24 +28,12 @@
 - Their writing styles show remarkable parallelism.
 
 **8. Bombastic** /bɑːmˈbæs.tɪk/ (adj): forceful and confident in a way that is intended to be very powerful and impressive, but may not have much real meaning or effect
-
-<audio controls>
-  <source src="https://dictionary.cambridge.org/media/english/us_pron/u/usb/usbof/usboff_018.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
 - His bombastic behavior is a front to hide that he is actually quite insecure.
 - A bombastic **preacher** (người thuyết giáo).
 - A bombastic **statement** (tuyên bố).
 
 
 **9. Sublime** /səˈblaɪm/ (adj): extremely good, beautiful, or enjoyable
-
-<audio controls>
-  <source src="https://dictionary.cambridge.org/media/english/us_pron/s/sub/subli/sublime.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
 - Sublime beauty
 - The book has sublime **descriptive** (mô tả) passages.
 - He possesses sublime self-confidence.
@@ -53,11 +41,30 @@
 
 **10. Sublime** /səˈblaɪm/ (n): something that is sublime
 
-<audio controls>
-  <source src="https://dictionary.cambridge.org/media/english/us_pron/s/sub/subli/sublime.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
 - A great deal of literature is only the obvious transformed into the sublime
 
 **11. Sublime** /səˈblaɪm/ (v): to change a solid directly into a gas without the solid first becoming a liquid, or to be changed in this way.
+
+**12. Invective** /ɪnˈvek.tɪv/ (n): criticism that is very forceful, unkind, and often rude
+- A stream of invective from some sectors of the press continues to **assail** (nhắm vào) the government.
+- After his **furious** (giận dữ) invective when the water dropped soup on him, the man apologized **profusely** (rất nhiều) for overreacting.
+
+**13. Laconic** /ləˈkɑː.nɪk/ (adj): using very few words to express what you mean
+- She had a laconic **wit** (kiểu hài hước)
+- “I might,” was the laconic reply.
+- The author's laconic style has won him many followers who dislike **wordiness** (sự dài dòng).
+
+**14. Analogy** /əˈnæl.ə.dʒi/ (n): a comparison between things that have similar features, often used to help explain a principle or idea
+- He **drew** an analogy **between** the brain and a vast computer
+- It is sometimes easier to illustrate an abstract concept by analogy with (= by comparing it with) something **concrete** (cụ thể).
+- He used an analogy to explain the concept.
+
+**15. Rife** /raɪf/ (adj): If something unpleasant is rife, it is very common or happens a lot
+- **Dysentery** (Bệnh kiết lỵ) and **malaria** (bệnh sốt rét) are rife in the **refugee** (người tị nạn) camps.
+- Surprisingly, the famous novelist's writing was rife with spelling errors.
+
+**16. Discordant** /dɪˈskɔːr.dənt/ (adj): used to describe something that is not in agreement with something else
+- **discordant opinions** Discordant opinions **prevail** (chiếm ưu thế) even among good judges.
+- The girls' **sobs** (tiếng nức nở) were a discordant sound **amid** (giữa) the general laughter that filled the restaurant.
+
+

@@ -84,3 +84,11 @@
 **18. Spotty** /ˈspɑː.t̬i/ (adj) [NOT ALWAYS GOOD]: bad in some parts
 - She has a fairly spotty work record.
 - Sales have picked up a little but they're still spotty.
+
+**19. Deliberate** /dɪˈlɪb.ɚ.ət/ (adj): (often of something bad) intentional or planned
+- A deliberate attack/insult/lie
+- We made a deliberate decision to live apart for a while.
+
+**20. Restorative** /rɪˈstɔːr.ə.t̬ɪv/ (adj): making you feel better or more energetic if you are feeling tired or ill
+- Ginseng is used as a restorative and preventive remedy.
+- He's a great believer in the restorative power of long walks.

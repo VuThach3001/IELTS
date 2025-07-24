@@ -97,3 +97,13 @@
 **26. Off the hook**: having escaped from a difficult situation or punishment
 - **be/get off the hook** Don't think you're off the hook on taxes just because you were paid in cash.
 - **get/let sb off the hook** The minister was last night under fire for letting the big banks off the hook.
+
+**27. Commit yourself**: to express an opinion or to make a decision that you tell people about
+- I think I can come but I won't commit myself till I know for sure.
+- It's fine to discuss some ideas, but don't commit yourself at this stage.
+
+**28. Commit something to memory**: to make certain that you remember something
+- She listened carefully to the music, as if she were committing it to memory.
+
+**29. Commit something to paper**: to write something down
+- Perhaps we should commit these ideas to paper before we forget them
