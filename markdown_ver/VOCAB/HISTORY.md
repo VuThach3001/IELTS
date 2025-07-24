@@ -73,3 +73,26 @@
 - The government has turned a minor local problem into a full-blown regional conflagration.
 
 **15. Multiculturalism** /ˌmʌl.tiˈkʌl.tʃɚ.əl.ɪ.zəm/ (n): the belief that different cultures within a society should all be given importance
+
+**16. Impregnable** /ɪmˈpreɡ.nə.bəl/ (adj): A building or other place that is impregnable is so strongly built and/or defended that it cannot be entered by force
+- Despite burglar alarms and window locks, homes are never impregnable against determined thieves.
+- An impregnable fortress
+- Though the invaders used **battering rams** (ram phá thành), **catapults** (máy bắn đá), and rain dances, the fortress proved impregnable and resisted all attack.
+
+**17. Inquisitor** /ɪnˈkwɪz.ɪ.t̬ɚ/ (n): someone who asks a lot of questions
+- The **prime minister** (thủ tướng) found himself **arraigned** (bị buộc tội) before the media inquisitors.
+- But burning was an **admission** (sự thừa nhận) of defeat by the inquisitors.
+- The inquisitor was instructed to knock on every door in town in order to find the **fugitive** (kẻ chạy trốn).
+
+**18. Vestige** /ˈves.tɪdʒ/ (n): a small part or amount of something larger, stronger, or more important that still exists from something that existed in the past
+- **last vestige of** These old buildings are the last vestiges of a **colonial** (thuộc địa) past.
+- **vestige of** There is now no vestige of hope that the missing children will be found alive.
+
+**19. Absolution** /ˌæb.səˈluː.ʃən/ (n): the act of forgiving someone, especially in the Christian religion, for something bad that they have done or thought
+- She was granted/given absolution.
+- Once all the facts were known, the **jury** (bồi thẩm đoàn) gave Angela absolution by giving a **verdict** (phán quyết) of not guilty.
+
+**20. Relativity** /ˌrel.əˈtɪv.ə.t̬i/ (n) [IN PHYSICS]: either of two theories of physics giving the relationship between space, time, and energy, especially for two objects moving in different ways
+
+**21. Relativity** /ˌrel.əˈtɪv.ə.t̬i/ (n) [STATE OF BEING RELATIVE]: the state of being judged in comparison with other things and not by itself
+- The theory of relativity revolutionized our understanding of the universe.
