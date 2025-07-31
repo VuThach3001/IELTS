@@ -58,3 +58,11 @@
 **15. Rancid** /ˈræn.sɪd/ (adj): (of butter, oil, etc.) tasting or smelling unpleasant because of not being fresh
 - Rob was double-dog-dared (thử thách gấp đôi) to eat the rancid egg salad sandwich.
 
+**16. Nutritious** /nuːˈtrɪʃ.əs/ (adj): containing many of the substances needed for life and growth
+- A nutritious diet
+- Raw **spinach** (rau chân vịt) is especially nutritious.
+- Thai food's nutritious as well as being delicious.
+
+**17. Nutritive** /ˈnuːtrə.t̬ɪv/ (adj): relating to nutrition (= **Nutritious**)
+- Ingredients with a high nutritive value
+- Vegetables are very nutritive
