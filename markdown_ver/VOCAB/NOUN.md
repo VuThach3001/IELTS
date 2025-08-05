@@ -80,3 +80,30 @@
 
 **19. Restorative** /rɪˈstɔːr.ə.t̬ɪv/ (n): something that makes you feel better or more energetic if you are feeling tired or ill
 - After a hard day at the office, a hot bath is a welcome restorative.
+
+**20. Authenticity** /ˌɑː.θenˈtɪs.ə.t̬i/ (n): the quality of being real or true
+- The poems are supposed to be by Sappho, but they are actually of doubtful authenticity.
+- The authenticity of her story is **beyond doubt** (không thể nghi ngờ).
+
+**21. Accumulation** /əˌkjuː.mjəˈleɪ.ʃən/ (n): an amount of something that has been collected
+- Despite this accumulation of evidence, the government persisted in doing nothing
+- Accumulations of sand can be formed by the action of waves on coastal beaches.
+- The document warned of "an accumulation of massive financial liabilities to pay for future retiree health benefits".
+
+**22. Slip** /slɪp/ (n): a small piece of paper
+- **slip of paper** When I have an idea, I write it on a slip of paper and put it in this box.
+- If you want to order a book fill out the green slip
+
+**23. Want**  /wɑːnt/ (n): a lack of something
+- **for want of** For want of anything better to do I watched television for a while.
+- If we fail it won't be for want of trying (= we have tried even if we fail).
+
+**24. Wants** (n): needs
+- Our wants are few
+
+**25. Void** /vɔɪd/ (n): a large hole or empty space
+- She stood at the edge of the **chasm** (hang sâu) and stared into the void.
+- Before Einstein, space was regarded as a formless void.
+
+**a feeling of unhappiness because someone or something is missing**
+- **fill the void left** They tried to describe their attempts to fill the void left by their son's death

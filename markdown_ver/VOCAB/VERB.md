@@ -181,3 +181,38 @@
 
 **32. Expose** /ɪkˈspoʊz/ (v) [GIVE OPPOTURNITY]: to create conditions that allow someone to have the opportunity to learn or experience new things
 - Kate was exposed to new ideas when she went to college.
+
+**33. Slip** /slɪp/ (v) [SLIDE]: to slide without intending to
+- She slipped on the ice.
+- Careful you don't slip - there's water on the floor.
+
+**to move out of the correct position**
+- Her hat had slipped over one eye.
+- He could feel the rope slipping out of his **grasp** (nắm bắt)
+
+**34. Slip** /slɪp/ (v) [DO QUICKLY]: to go somewhere or put something somewhere quickly, often so that you are not noticed
+- **slip out of** Just slip out of the room while nobody's looking
+- **slip between** She slipped between the cool cotton sheets and was soon asleep
+- **slip something into something** He slipped a piece of paper into my hand with his address on it.
+- **[ + two objects ]** If you slip the waiter some money/slip some money to the waiter he'll give you the best table.
+
+**35. Slip** /slɪp/ (v) [GET WORSE]: to go into a worse state, often because of lack of control or care
+- Productivity in the factory has slipped noticeably in the last year
+- The schedule has started to slip (= things are happening later than planned).
+- I don't know what went wrong, I must be slipping.
+
+**35. Slip** /slɪp/ (v) [VALUE]: to go down in value
+- s**lip against** The dollar slipped against the Japanese yen.
+
+**36. Assimilate** /əˈsɪm.ə.leɪt/ (v) [JOIN]: to become part of a group, country, society, etc., or to make someone or something become part of a group, country, society, etc.
+- The European Union should remain flexible enough to assimilate more countries quickly.
+- You shouldn't expect immigrants to assimilate into an alien culture immediately
+
+**37. Assimilate** /əˈsɪm.ə.leɪt/ (v) [LEARN]: to understand and remember new information and make it part of your basic knowledge so that you can use it as your own
+- It's hard to assimilate so much information.
+
+**38. Assimilate** /əˈsɪm.ə.leɪt/ (v) [ABSORB]: to absorb food or a substance into the tissue of a living organism
+- In this form vitamins can be easily assimilated by the body.
+
+**39. Compartmentalize** /kɑːm.ˌpɑːrtˈmen.t̬əl.aɪz/ (v): to separate something into parts and not allow those parts to mix together
+- His life was carefully compartmentalized, with his work in one city and his social life in another

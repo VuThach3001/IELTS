@@ -107,3 +107,6 @@
 
 **29. Commit something to paper**: to write something down
 - Perhaps we should commit these ideas to paper before we forget them
+
+**30. Dress/look/act the part**: to look suitable or behave in a suitable way for a particular situation
+- If you're going to be a high-powered businesswoman, you've got to look the part.

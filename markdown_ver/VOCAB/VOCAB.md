@@ -417,12 +417,12 @@ Said when you are judging one thing in comparison with other things
 - **Foster something in someone**: They were discussing the best way to foster **democracy** (nền dân chủ) and **prosperity** (sự phồn vinh) in the former **communist** (Cộng Sản) countries.
 - I’m trying to foster an interest in classical music in my children.
 
-**83.	Foster** /ˈfɑː.stɚ/ (adj) [before noun]: used to refer to someone or something connected with the care of children, usually for a limited time, by someone who is not the child's legal parent
+**83. Foster** /ˈfɑː.stɚ/ (adj) [before noun]: used to refer to someone or something connected with the care of children, usually for a limited time, by someone who is not the child's legal parent
 - **Foster father**: I had a really good relationship with my foster father.
 - **Foster mother**: The boy’s foster mother refused to be interviewed.
 - **Foster home**: The child was placed in a foster home.
 
-**84.	Remain** /rɪˈmeɪn/ (v): to stay in the same place or in the same condition
+**84. Remain** /rɪˈmeɪn/ (v): to stay in the same place or in the same condition
 - The doctor ordered him to remain in bed for a few days.
 - Most **commentators** (các nhà bình luận) expect the basic rate of tax to remain at 25 percent.
 - **[+ to infinitive]** A great many things remain to be done (= have not yet been done).

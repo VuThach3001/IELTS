@@ -92,3 +92,20 @@
 **20. Restorative** /rɪˈstɔːr.ə.t̬ɪv/ (adj): making you feel better or more energetic if you are feeling tired or ill
 - Ginseng is used as a restorative and preventive remedy.
 - He's a great believer in the restorative power of long walks.
+
+**21. Formative** /ˈfɔːr.mə.t̬ɪv/ (adj): relating to the time when someone or something is starting to develop in character, and having an important influence on how they develop
+- **formative years** She spent her formative years in Africa.
+- Those early years were very formative for me and helped to mould me into who I am today.
+- **formative influence** His English teacher at school was a formative influence on him.
+
+**22. Queer** /kwɪr/ (adj) [SEX AND GENDER]: having or relating to a gender identity or a sexuality that does not fit society's traditional ideas about gender or sexuality
+- He says they use the word "queer" to include anyone who wants to be included (gay, bi, trans, whatever).
+- They strongly identify with queer culture
+
+**23. Queer** /kwɪr/ (adj) [STRANGE]: strange, unusual, or not expected
+- What a queer thing to say!
+- I'm feeling rather queer (= ill), may I sit down?
+
+**24. Neurodivergent** /ˌnʊr.oʊ.dɪˈvɝː.dʒənt/ (adj): having or related to a type of brain that is often considered as different from what is usual, for example that of someone who has autism
+- The report claimed that around 20% of high school students in America are neurodivergent.
+- There are many different types of developmental neurodivergent conditions. 
