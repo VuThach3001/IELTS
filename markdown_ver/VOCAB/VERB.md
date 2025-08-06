@@ -181,3 +181,74 @@
 
 **32. Expose** /ɪkˈspoʊz/ (v) [GIVE OPPOTURNITY]: to create conditions that allow someone to have the opportunity to learn or experience new things
 - Kate was exposed to new ideas when she went to college.
+
+**33. Slip** /slɪp/ (v) [SLIDE]: to slide without intending to
+- She slipped on the ice.
+- Careful you don't slip - there's water on the floor.
+
+**to move out of the correct position**
+- Her hat had slipped over one eye.
+- He could feel the rope slipping out of his **grasp** (nắm bắt)
+
+**34. Slip** /slɪp/ (v) [DO QUICKLY]: to go somewhere or put something somewhere quickly, often so that you are not noticed
+- **slip out of** Just slip out of the room while nobody's looking
+- **slip between** She slipped between the cool cotton sheets and was soon asleep
+- **slip something into something** He slipped a piece of paper into my hand with his address on it.
+- **[ + two objects ]** If you slip the waiter some money/slip some money to the waiter he'll give you the best table.
+
+**35. Slip** /slɪp/ (v) [GET WORSE]: to go into a worse state, often because of lack of control or care
+- Productivity in the factory has slipped noticeably in the last year
+- The schedule has started to slip (= things are happening later than planned).
+- I don't know what went wrong, I must be slipping.
+
+**35. Slip** /slɪp/ (v) [VALUE]: to go down in value
+- s**lip against** The dollar slipped against the Japanese yen.
+
+**36. Assimilate** /əˈsɪm.ə.leɪt/ (v) [JOIN]: to become part of a group, country, society, etc., or to make someone or something become part of a group, country, society, etc.
+- The European Union should remain flexible enough to assimilate more countries quickly.
+- You shouldn't expect immigrants to assimilate into an alien culture immediately
+
+**37. Assimilate** /əˈsɪm.ə.leɪt/ (v) [LEARN]: to understand and remember new information and make it part of your basic knowledge so that you can use it as your own
+- It's hard to assimilate so much information.
+
+**38. Assimilate** /əˈsɪm.ə.leɪt/ (v) [ABSORB]: to absorb food or a substance into the tissue of a living organism
+- In this form vitamins can be easily assimilated by the body.
+
+**39. Compartmentalize** /kɑːm.ˌpɑːrtˈmen.t̬əl.aɪz/ (v): to separate something into parts and not allow those parts to mix together
+- His life was carefully compartmentalized, with his work in one city and his social life in another
+
+**40. Peer** /pɪr/ (v): to look carefully or with difficulty
+- **peer through** When no one answered the door, she peered through the window to see if anyone was there.
+- The driver was peering into the distance trying to read the road sign.
+
+**41. Weave** /wiːv/ (v) [MAKE]: to make cloth by repeatedly crossing a single thread through two sets of long threads on a loom (= special frame)
+- **be woven into** This type of wool is woven into fabric which will make jackets.
+
+**to twist long objects together, or to make something by doing this**
+- **weave something together** We were shown how to roughly weave ferns and grass together to make a temporary shelter.
+- **weave something from/out of something** It takes great skill to weave a basket from/out of rushes.
+
+**to form something from several different things or to combine several different things, in a complicated or skilled way**
+- be woven from The biography is woven from the many accounts which exist of things she did.
+
+**41. Weave** /wiːv/ (v) [MOVE QUICKLY]: to go or make a path by moving quickly and changing direction often, especially to avoid hitting things
+- **weave through/between/in and out of** The boy weaved through/between/in and out of stationary traffic on a bicycle.
+
+**42. Polarize** /ˈpoʊ.lə.raɪz/ (v) [DIVIDE]: to cause something, especially something that contains different people or opinions, to divide into two completely opposing groups
+- The issue has polarized the nation.
+- Two developments have polarized the debate.
+
+**43. Polarize** /ˈpoʊ.lə.raɪz/ (v) [LIGHT]: to make light waves move in one direction only, or mainly in one direction
+- To polarize the light there is a screen directly in front of the projector.
+- A polarizing filter is a filter which transmits only light polarized in a specific dimension.
+
+**to treat glass with a substance that reduces the amount of reflected light**
+- Car manufacturers do not polarize the glass in windscreens for safety reasons.
+
+**44. Season** /ˈsiː.zən/ (v) [FLAVOUR]: to improve the flavour of savoury food by adding salt, herbs, or spices when cooking or preparing it:
+- Drain the rice, stir in the salmon and season to taste (= so that it has the taste you like).
+
+**to make wood hard by drying it gradually, in order to make it ready for use**
+
+**to put oil or fat onto a pan and then bake it in order to create a good surface for cooking and to prevent rust**
+- Cast iron pans need to be seasoned before the first use.
