@@ -109,3 +109,7 @@
 **24. Neurodivergent** /ˌnʊr.oʊ.dɪˈvɝː.dʒənt/ (adj): having or related to a type of brain that is often considered as different from what is usual, for example that of someone who has autism
 - The report claimed that around 20% of high school students in America are neurodivergent.
 - There are many different types of developmental neurodivergent conditions. 
+
+**25. Seasoned** /ˈsiː.zənd/ (adj) [EXPERIENCED]: having a lot of experience of doing something and therefore knowing how to do it well
+- A seasoned traveller
+- A seasoned campaigner for human rights
