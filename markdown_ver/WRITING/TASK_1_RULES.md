@@ -133,4 +133,35 @@ The process provides information about the steps that need to be taken to produc
 
 **Version 2:** A process of dehydration occurs in the next stage as the freshly shaped bricks lose their water content in a drying oven from one to two days.
 
-The dehydrated bricks are then heated in two different kilns. The first one employes a moderate level of heat, ranging from 200 to 980 degree Celsius, while the second one uses a much higher level from 870 to 1300 degree Celsius. In the second kiln, the colore of the bricks taks on a much bringter hue. After being heated, the bricks are then allowed to cool down in a cooling chamber from two to three days.
+The dehydrated bricks are then heated in two different kilns. The first one employ a moderate level of heat, ranging from 200 to 980 degree Celsius, while the second one uses a much higher level from 870 to 1300 degree Celsius. In the second kiln, the color of the bricks takes on a much brighter hue. After being heated, the bricks are then allowed to cool down in a cooling chamber from two to three days.
+
+**Paragraph 3:**
+
+In the last stage, the bricks are then packaged into large prism blocks before being transported to consumers by a truck.
+
+---
+
+**Version without advanced vocabularies**
+
+In the first stage, clay is extracted from the ground by a digger before being sifted on a metal grid. The clay breaks down and is conveyed on a roller before it is mixed with sand and water. This mixture eventually takes on the shape of bricks by using a mould or a wire cutter.
+
+The second stage begins with the dehydration of freshly shaped bricks in an oven from one to two days. They are then treated by heating in two kilns. The first one has a temperature level from 200 to 980 degrees Celsius, while the second one utilizes a higher level of 870 to 1300 degrees Celsius. In the last chamber, the bricks are left to cool down from two to three days.
+
+In the last steps, the bricks are then packaged together before being transported to consumers by a truck.
+
+---
+
+**4. Maps**
+
+![alt text](image-3.png)
+
+**Overview:**
+
+Overall, a prominent area at the bottom of the map has its size reduced to accommodate more teaching facilities. Also, a conventional teaching facility on the left side of the map has been upgraded with modernized equipment.
+
+One of the most remarkable changes in the map is that the playing fields have their sizes reduced by roughly 50%. This reduction allows the construction of a classrooms block, a pool, and a fitness center on the left side. On the right side, a new storey has been added to the existing block, while another block has been built closer to the playing fields.
+
+Importantly, the library and its surrounding components have also changed drastically. This learning facility has become a learning resources center with a built-in computer room.
+
+The car park has also been altered. Its shape has changed from being rectangular to more globular. while the middle route previously connecting it with the playing fields has been removed.
+
