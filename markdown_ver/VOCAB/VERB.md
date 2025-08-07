@@ -252,3 +252,6 @@
 
 **to put oil or fat onto a pan and then bake it in order to create a good surface for cooking and to prevent rust**
 - Cast iron pans need to be seasoned before the first use.
+
+**45. Flatter** /ˈflæt̬.ɚ/ (v): to praise someone in order to make them feel attractive or important, sometimes in a way that is not sincere
+- I knew he was only flattering me because he wanted to borrow some money

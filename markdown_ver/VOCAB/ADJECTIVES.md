@@ -113,3 +113,17 @@
 **25. Seasoned** /ˈsiː.zənd/ (adj) [EXPERIENCED]: having a lot of experience of doing something and therefore knowing how to do it well
 - A seasoned traveller
 - A seasoned campaigner for human rights
+
+**26. Complementary** /ˌkɑːm.pləˈmen.t̬ɚ.i/ (adj) [GOOD TOGETHER]: useful or attractive together
+- My family and my job both play an important part in my life, fulfilling separate but complementary needs.
+- Complementary colours/flavours/skills
+- Artists began to note that shadows are the complementary colour of the light that throws them, so yellow sunlight throws a violet shadow.
+
+**27. Muted** /ˈmjuː.t̬ɪd/ (adj): not loud
+- There was polite, muted applause when I finished speaking.
+
+**28. Muted** /ˈmjuː.t̬ɪd/ (adj): showing little enthusiasm
+- The idea received a muted response.
+
+**29. Muted** /ˈmjuː.t̬ɪd/ (adj): A muted colour is not bright
+- She was dressed in muted **shades** (sắc thái) of blue.
