@@ -126,4 +126,4 @@
 - The idea received a muted response.
 
 **29. Muted** /ˈmjuː.t̬ɪd/ (adj): A muted colour is not bright
-- She was dressed in muted **shades** (sắc thái) of blue.
+- She was dressed in muted **shades** (sắc thái) of blue.j
