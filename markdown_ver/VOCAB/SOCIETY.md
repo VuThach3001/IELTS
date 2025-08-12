@@ -125,7 +125,7 @@
 
 **24. Punitive** /ˈpjuː.nə.t̬ɪv/ (adj): intended as a punishment
 - Punitive action
-- The UN has **imposed** (áp đặt) punitive **sanctions** (lệnh trừng phạt) on the **invading** (xâm lược) country.
+- The UN has **imposed** (áp đặt) **punitive** (mang tính trừng phạt) **sanctions** (lệnh trừng phạt) on the **invading** (xâm lược) country.
 - She is **suing** (kiện tụng) the newspaper for $5 million punitive damages, claiming they knew the article about her was untrue.
 - If caught smoking in the boys' room, the punitive result is immediate **expulsion** (trục xuất) from school.
 
