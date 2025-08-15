@@ -73,3 +73,53 @@ On the other hand, opponents of the previous view claim that private houses on t
 **Closing**
 
 In conclusion, **although there are mixed opinions on determining the best forms of accommodation**,  I believe that the ultimate decision needs to be made according to the demand and financial conditions of each household. If a family values privacy and has an interest in investment, a private house on the street is a superior option. In contrast, the lower cost of living associated with apartments is inevitably the best option for people with lower levels of income.
+
+---
+---
+
+**3. Nowadays, some nations tax sugar more heavily to help citizens eat healthily.**
+
+**Do the advantages outweigh the disadvantages?**
+
+**Opening**
+
+**Thach:** In this day and age, in order to navigate the dwellers to a healthy and hygiene dietary regimen, a number of countries impose more tax on sugar in a severe way. In this essay, I would examine the benefits and drawbacks of this development before proposing which side is more prominent.
+
+**Huy Forum:** In this day and age, taxing sugar more heavily to make people's diets healthier has become an approach that some nations have adopted. In this essay, I would evaluate both the pros and cons before proposing whether or not the positive aspect overperform its drawbacks.
+
+**Main**
+
+[Nói ra những vấn đề liên quan đến **chủ thể (ở đây là sugar)**] -> [Nêu ra những hậu quả mà nó mang lại, cho ví dụ cụ thể] -> [Vì vậy, đưa ra solution để khác phục tình trạng này] -> [Đưa ra benefits]
+
+**Paragraph 1:** Tích cực
+
+On the one hand, there are some benefits associated with imposing a higher tax level on sugar to improve the diets of citizens. As sugar is highly affordable and can enhance the taste of many dishes, it is virtually present in many parts of our diets, causing excessive accumulation of fats that lead to healthy problems, ranging from obesity to cardiovascular diseases. If the price of sugar is made more expensive, its consumption may plunge, helping people eat better and avoid health issues. This would relieve a lot of burden on each citizen and the whole healthcare system. 
+
+**Paragraph 2:** Tiêu cực
+
+**Option 1:** Đi trực tiếp -> nói là cái measure này sẽ dẫn đến problem gì
+
+**Option 2:** Vẫn thừa nhận nó hiệu quả, nhưng việc áp dụng nó sẽ không thực tế hoặc khó khăn **(recommend)**
+
+On the other hand, this measure would have some problematic implications that should receive more attention. Sugar has been an important part of our diets for many centuries as it exists in various forms and in many types of food, which ultimately gives us energy to function. When the price of sugar increases, many food that has moderate amounts of it would have the price surged according, casuing problems for people's accessibility to food and prompting backlashs from general consumers.
+
+**Closing**
+
+In conclusion, after assessing both the positive and negative implication of the measure that imposes higher tax on sugare to improve people's diets, I think that the benefits outweigh the negative aspects. As many food producers over-ultilize sugar and are directly responsible for causing more health problems for consumers, sugar has long been a part of our diets. As a result, imposing higher tax should only be applied for food that has unacceptable sugar content.
+
+---
+---
+
+**4. In this era, technology has replaced a lot of humans at work.**
+
+**Why? What are the solution?**
+
+**Opening:** Viết lại đề sau đó trả lời câu hỏi 1 cách ngắn gọn
+
+**Thach:** In this day and age, many occupations have been replaced by technological advancements, increasing the unemployment rate. In this essay, I would explain the reasons behind this tendency before proposing what should be done to effectively remedy this.
+
+**Huy Forum:** In this day and age, many occupations have been replaced by technological advancements, increasing the unemployment rate. In this essay, I would explain the reasons leading to this tendency before proposing some effective solutions.
+
+**Main**
+
+There are some major reasons that explain why technology has replaced many humans at work. First and foremost, machines have the ability to function continuously without the need of break time, which is an inevitable requirement for human workers. Second, technological advancements have equipped machines ưith the ability to make decisions, moderate their actions, and improve the accuracy level to a point that con not be matched by humans. Thus, many jobs have been replaced, and the tendency does not show any sign of stopping.
