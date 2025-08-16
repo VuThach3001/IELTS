@@ -11,7 +11,7 @@
 
 **Opening:** Viết lại đề sau đó trả lời câu hỏi 1 cách ngắn gọn
 
-Some individuals are of claim that providing university education without any cost that students must bear is highly beneficial and should be implemented by the government. **[Topic sentence] Personally, I totally/partly agree/disagree with this suggestion based on some major reasons that are explain in this essay.**
+Some individuals are of claim that providing university education without any cost that students must bear is highly beneficial and should be implemented by the government. **[Topic sentence] Personally, I totally/partly agree/disagree with this suggestion based on some major reasons that are explained in this essay.**
 
 **Main**
 
@@ -126,4 +126,4 @@ There are some major reasons that explain why technology has replaced many human
 
 Despite the severity of this development, governmental intervention along with raising the awareness of each individual could effectively mitigate it. There should be a regulation from the government to better protect the benefits of employees, especially ones that are prone to be replaced by technology. The government should require a specific number of human workers at a factory site, acting a supervisor of machinery works. Also, each citizen must equip themselves with sufficient knowledge to better adapt to changes brought about by technology, which could help them find jobs in novel job markets, such as computer science or machinery design.
 
-In conclusion, many people are losing their jobs due to the higher level of efficiency and effectiveness that technological advancements have brought about. However, the government can still mitigate this by issuing new regulations to protect workers' benefits and provide more education for people to find employment opportunities in novel job markets.
+In conclusion, many people are losing their jobs due to the higher level of efficiency and effectiveness that technological advancements have brought about. However, the government can still mitigate this by issuing new regulations to protect workers' benefits and provide morje education for people to find employment opportunities in novel job markets.
