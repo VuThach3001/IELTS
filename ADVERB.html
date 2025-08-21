@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Vocabulary TTS</title>
+</head>
+<body>
+  <h1>Vocabulary List</h1>
+
+  <button onclick="playAll()" style="font-size:18px; padding:10px; margin-top:20px;">🔊 Play All Words</button>
+
+  <script>
+    function playAll() {
+      const entries = ["Comparatively, adverb. as compared to something else"];
+
+      let index = 0;
+      function speakNext() {
+        if (index < entries.length) {
+          const utterance = new SpeechSynthesisUtterance(entries[index]);
+          utterance.lang = "en-US";
+          utterance.onend = () => {
+            index++;
+            speakNext();
+          };
+          speechSynthesis.speak(utterance);
+        }
+      }
+
+      speakNext();
+    }
+  </script>
+  
+  <pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
+- Comparatively (adverb)
+  </pre>
+
+</body>
+</html>

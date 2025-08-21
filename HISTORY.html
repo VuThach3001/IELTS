@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Vocabulary TTS</title>
+</head>
+<body>
+  <h1>Vocabulary List</h1>
+
+  <button onclick="playAll()" style="font-size:18px; padding:10px; margin-top:20px;">🔊 Play All Words</button>
+
+  <script>
+    function playAll() {
+      const entries = ["Antiquated, adjective. old-fashioned or unsuitable for modern society", "Polytheism, noun. belief in many different gods", "Resurgent, adjective. increasing again, or becoming popular again", "Sacrosanct, adjective. thought to be too important or too special to be changed", "Subjugate, verb. to defeat people or a country and rule them in a way that allows them no freedom", "Subjugate, verb. to treat yourself, your wishes, or your beliefs as being less important than other people or their wishes or beliefs", "Aggregate, noun. something formed by adding together several amounts or things", "Aggregate, noun. small stones used in building", "Aggregate, adjective. total", "Aggregate, verb. to combine into a single group or total", "Partisan, adjective. strongly supporting a person, principle, or political party, often without considering or judging the matter very carefully", "Partisan, noun. someone who supports a person, principle, or political party", "Potentate, noun. a ruler who has a lot of power, especially one whose power is not limited, for example by the existence of a parliament", "Originate, verb. to come from a particular place, time, situation, etc.", "Conflagration, noun. a large fire that causes a lot of damage", "Multiculturalism, noun. the belief that different cultures within a society should all be given importance", "Impregnable, adjective. A building or other place that is impregnable is so strongly built and/or defended that it cannot be entered by force", "Inquisitor, noun. someone who asks a lot of questions", "Vestige, noun. a small part or amount of something larger, stronger, or more important that still exists from something that existed in the past", "Absolution, noun. the act of forgiving someone, especially in the Christian religion, for something bad that they have done or thought", "Relativity, noun. either of two theories of physics giving the relationship between space, time, and energy, especially for two objects moving in different ways", "Relativity, noun. the state of being judged in comparison with other things and not by itself"];
+
+      let index = 0;
+      function speakNext() {
+        if (index < entries.length) {
+          const utterance = new SpeechSynthesisUtterance(entries[index]);
+          utterance.lang = "en-US";
+          utterance.onend = () => {
+            index++;
+            speakNext();
+          };
+          speechSynthesis.speak(utterance);
+        }
+      }
+
+      speakNext();
+    }
+  </script>
+  
+  <pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
+- Antiquated (adjective)
+- Polytheism (noun)
+- Resurgent (adjective)
+- Sacrosanct (adjective)
+- Subjugate (verb)
+- Subjugate (verb)
+- Aggregate (noun)
+- Aggregate (noun)
+- Aggregate (adjective)
+- Aggregate (verb)
+- Partisan (adjective)
+- Partisan (noun)
+- Potentate (noun)
+- Originate (verb)
+- Conflagration (noun)
+- Multiculturalism (noun)
+- Impregnable (adjective)
+- Inquisitor (noun)
+- Vestige (noun)
+- Absolution (noun)
+- Relativity (noun)
+- Relativity (noun)
+  </pre>
+
+</body>
+</html>
