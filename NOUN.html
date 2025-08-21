@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Vocabulary TTS</title>
+</head>
+<body>
+  <h1>Vocabulary List</h1>
+
+  <button onclick="playAll()" style="font-size:18px; padding:10px; margin-top:20px;">🔊 Play All Words</button>
+
+  <script>
+    function playAll() {
+      const entries = ["Norm, noun. an accepted standard or a way of behaving or doing things that most people agree with", "Hook, noun. a curved device used for catching or holding things, especially one attached to a surface for hanging things on", "Hook, noun. a shot depended on what materials you use, can be a bat, a punch", "Hook, noun. a repeated part of a song or piece of music that is particularly pleasing and easy to remember", "Hook, noun. something that is used to attract customers' attention, and encourage them to buy a product or service", "Pursuit, noun. an activity that you spend time doing, usually when you are not working", "Pursuit, noun. the act of following someone or something to try to catch him, her, or it", "Pursuit, noun. the act of trying to achieve a plan, activity, or situation, usually over a long period of time", "Endorsement, noun. the act of saying that you approve of or support something or someone", "Peril, noun. great danger, or something that is very dangerous", "Triumph, noun. a very great success, achievement, or victory (= when you win a war, fight, or competition), or a feeling of great satisfaction or pleasure caused by this", "Auction, noun. a usually public sale of goods or property, where people make higher and higher bids (= offers of money) for each thing, until the thing is sold to the person who will pay most", "Mediation, noun. the process of talking to two separate people or groups involved in a disagreement to try to help them to agree or find a solution to their problems", "Offender, noun. a person who is guilty of a crime", "Imprisonment, noun. the act of putting someone in prison or the condition of being kept in prison", "Rehabilitation, noun. the process of returning to a healthy or good way of life, or the process of helping someone to do this after they have been in prison, been very ill, etc.", "Exposé, noun. a public report about a situation that is shocking or that has been kept secret", "Restorative justice, noun. a way of dealing with crime that emphasizes taking responsibility for the effect of your crime on others, and trying to do something that makes things better for the victims", "Restorative, noun. something that makes you feel better or more energetic if you are feeling tired or ill", "Authenticity, noun. the quality of being real or true", "Accumulation, noun. an amount of something that has been collected", "Slip, noun. a small piece of paper", "Want, noun. a lack of something", "Wants, noun. needs", "Void, noun. a large hole or empty space", "Peer, noun. a person who is the same age or has the same social position or the same abilities as other people in a group", "Weave, verb. the way in which cloth has been woven, for example with the threads pulled firmly together, or the pattern produced by this process", "Gravitas, noun. seriousness and importance of manner, causing feelings of respect and trust in others", "Credibility, noun. the fact that someone or something can be believed or trusted", "Clarity, noun. the quality of being clear and easy to understand"];
+
+      let index = 0;
+      function speakNext() {
+        if (index < entries.length) {
+          const utterance = new SpeechSynthesisUtterance(entries[index]);
+          utterance.lang = "en-US";
+          utterance.onend = () => {
+            index++;
+            speakNext();
+          };
+          speechSynthesis.speak(utterance);
+        }
+      }
+
+      speakNext();
+    }
+  </script>
+  
+  <pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
+- Norm (noun)
+- Hook (noun)
+- Hook (noun)
+- Hook (noun)
+- Hook (noun)
+- Pursuit (noun)
+- Pursuit (noun)
+- Pursuit (noun)
+- Endorsement (noun)
+- Peril (noun)
+- Triumph (noun)
+- Auction (noun)
+- Mediation (noun)
+- Offender (noun)
+- Imprisonment (noun)
+- Rehabilitation (noun)
+- Exposé (noun)
+- Restorative justice (noun)
+- Restorative (noun)
+- Authenticity (noun)
+- Accumulation (noun)
+- Slip (noun)
+- Want (noun)
+- Wants (noun)
+- Void (noun)
+- Peer (noun)
+- Weave (verb)
+- Gravitas (noun)
+- Credibility (noun)
+- Clarity (noun)
+  </pre>
+
+</body>
+</html>

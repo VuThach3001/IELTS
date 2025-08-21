@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Vocabulary TTS</title>
+</head>
+<body>
+  <h1>Vocabulary List</h1>
+
+  <button onclick="playAll()" style="font-size:18px; padding:10px; margin-top:20px;">🔊 Play All Words</button>
+
+  <script>
+    function playAll() {
+      const entries = ["Superintend, verb. to be in charge of something", "Foresight, noun. the ability to judge correctly what is going to happen in the future and plan your actions based on this knowledge", "Logistical, adjective. relating to the careful organization of a complicated activity", "Proprietorship, noun. the situation of owning something", "Well-to-do, adjective. rich", "Alignment, noun. an arrangement in which two or more things are positioned in a straight line or parallel to each other", "Alignment, noun. an agreement between a group of countries, political parties, or people who want to work together because of shared interests or aims", "Extension, noun. the fact of reaching, stretching, or continuing; the act of adding to something in order to make it bigger or longer", "Extension, noun. any of two or more phones in the same house that share the same number, or any of a number of phones connected to a switchboard in a large building such as an office", "Extension, noun. the last part of the name of a computer file, which comes after a (.) and shows what type of file it is", "Extension, noun. a piece of hair that is added to a person's own hair or eyelashes in order to make it or them longer", "Abscission, noun. the separation or falling off of part of a plant", "Interim, adjective. temporary and intended to be used or accepted until something permanent exists", "Enthusiasm, noun. a feeling of energetic interest in a particular subject or activity and an eagerness to be involved in it", "Buttress, verb. to build buttresses to support a building or structure", "Buttress, m. a structure made of stone or brick that sticks out from and supports a wall of a building", "Hiatus, noun. a short pause in which nothing happens or is said, or a space where something is missing", "Blueprint, noun. a plan or design that explains how something might be achieved", "Juxtaposition, noun. the fact of putting things that are not similar next to each other", "Ramification, noun. the possible results of an action", "Burgeon, verb. to develop or grow quickly", "Disavow, verb. to say that you know nothing about something, or that you have no responsibility for or connection with something", "Bilk, verb. to get money from someone unfairly or dishonestly", "Promptness, noun. the quality of doing something quickly and without delay, or at the arranged time"];
+
+      let index = 0;
+      function speakNext() {
+        if (index < entries.length) {
+          const utterance = new SpeechSynthesisUtterance(entries[index]);
+          utterance.lang = "en-US";
+          utterance.onend = () => {
+            index++;
+            speakNext();
+          };
+          speechSynthesis.speak(utterance);
+        }
+      }
+
+      speakNext();
+    }
+  </script>
+  
+  <pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
+- Superintend (verb)
+- Foresight (noun)
+- Logistical (adjective)
+- Proprietorship (noun)
+- Well-to-do (adjective)
+- Alignment (noun)
+- Alignment (noun)
+- Extension (noun)
+- Extension (noun)
+- Extension (noun)
+- Extension (noun)
+- Abscission (noun)
+- Interim (adjective)
+- Enthusiasm (noun)
+- Buttress (verb)
+- Buttress (m)
+- Hiatus (noun)
+- Blueprint (noun)
+- Juxtaposition (noun)
+- Ramification (noun)
+- Burgeon (verb)
+- Disavow (verb)
+- Bilk (verb)
+- Promptness (noun)
+  </pre>
+
+</body>
+</html>
