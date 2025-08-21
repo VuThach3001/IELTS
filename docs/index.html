@@ -1,0 +1,642 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Vocabulary Index</title>
+</head>
+<body>
+  <button onclick="playAll()">▶ Play All</button>
+  
+  <script>
+    function playAll() {
+      const entries = [
+  "Volatile, adjective. likely to change suddenly and unexpectedly, especially by getting worse",
+  "Volatile, adjective. A volatile liquid or solid substance will change easily into a gas",
+  "Sullen, adjective. angry and unwilling to smile or be pleasant to people",
+  "Lax, adjective. without much care, attention, or control",
+  "Peerless, adjective. Something that is peerless is better than any other of its type",
+  "Diffusible, adjective. able to be diffused (= spread through or into a surrounding substance)",
+  "Haughty, adjective. unfriendly and seeming to consider yourself better than other people",
+  "Insuperable, adjective. (especially of a problem) so great or severe that it cannot be defeated or dealt with successfully",
+  "Callow, adjective. Someone, especially a young person, who is callow behaves in a way that shows they have little experience, confidence, or judgment",
+  "Halcyon, adjective. tranquil, joyful, and successful",
+  "Detrimental, adjective. causing harm or damage",
+  "Exponential, adjective. An exponential rate of increase becomes quicker and quicker as the thing that increases becomes larger",
+  "Exponential, adjective. containing an exponent (= a number or sign that shows how many times another number is to be multiplied by itself)",
+  "Perilous, adjective. extremely dangerous",
+  "Apprehensive, adjective. feeling worried about something that you are going to do or that is going to happen:",
+  "Sophisticated, adjective. having a good understanding of the way people behave and/or a good knowledge of culture and fashion",
+  "Spotty, adjective. used to describe a person with spots on their skin",
+  "Spotty, adjective. bad in some parts",
+  "Deliberate, adjective. (often of something bad) intentional or planned",
+  "Restorative, adjective. making you feel better or more energetic if you are feeling tired or ill",
+  "Formative, adjective. relating to the time when someone or something is starting to develop in character, and having an important influence on how they develop",
+  "Queer, adjective. having or relating to a gender identity or a sexuality that does not fit society's traditional ideas about gender or sexuality",
+  "Queer, adjective. strange, unusual, or not expected",
+  "Neurodivergent, adjective. having or related to a type of brain that is often considered as different from what is usual, for example that of someone who has autism",
+  "Seasoned, adjective. having a lot of experience of doing something and therefore knowing how to do it well",
+  "Complementary, adjective. useful or attractive together",
+  "Muted, adjective. not loud",
+  "Muted, adjective. showing little enthusiasm",
+  "Muted, adjective. A muted colour is not bright",
+  "Comparatively, adverb. as compared to something else",
+  "Taut, adjective. tight or completely stretched",
+  "Taut, adjective. excited or nervous",
+  "Taut, adjective. Taut writing or speech is controlled, clear, and short",
+  "Symphony, noun. a long piece of music for an orchestra, usually with four movements (= parts). A beautiful combination of musical sounds.",
+  "Monogram, noun. a symbol, usually formed from the first letters of a person's names joined together, that is sewn or printed on clothes or other possessions. Initials combined into a single design",
+  "Globular, adjective. shaped like a ball",
+  "Azure, adjective. having the bright blue colour of the sky on a clear day",
+  "Azure, noun. the bright blue colour of the sky on a clear day",
+  "Inventive, adjective. very good at thinking of new and original ideas",
+  "Philharmonic, adjective. used in the names of musical groups, especially orchestras",
+  "Bric-a-brac, noun. small decorative objects of various types and of no great value",
+  "Incongruous, adjective. unusual or different from what is around or from what is generally happening",
+  "Incongruous, adjective. appearing strange or wrong within a particular situation",
+  "Supple, adjective. bending or able to be bent easily; not stiff",
+  "Supple, adjective. able to change quickly and successfully to suit different situations",
+  "Superintend, verb. to be in charge of something",
+  "Foresight, noun. the ability to judge correctly what is going to happen in the future and plan your actions based on this knowledge",
+  "Logistical, adjective. relating to the careful organization of a complicated activity",
+  "Proprietorship, noun. the situation of owning something",
+  "Well-to-do, adjective. rich",
+  "Alignment, noun. an arrangement in which two or more things are positioned in a straight line or parallel to each other",
+  "Alignment, noun. an agreement between a group of countries, political parties, or people who want to work together because of shared interests or aims",
+  "Extension, noun. the fact of reaching, stretching, or continuing; the act of adding to something in order to make it bigger or longer",
+  "Extension, noun. any of two or more phones in the same house that share the same number, or any of a number of phones connected to a switchboard in a large building such as an office",
+  "Extension, noun. the last part of the name of a computer file, which comes after a (.) and shows what type of file it is",
+  "Extension, noun. a piece of hair that is added to a person's own hair or eyelashes in order to make it or them longer",
+  "Abscission, noun. the separation or falling off of part of a plant",
+  "Interim, adjective. temporary and intended to be used or accepted until something permanent exists",
+  "Enthusiasm, noun. a feeling of energetic interest in a particular subject or activity and an eagerness to be involved in it",
+  "Buttress, verb. to build buttresses to support a building or structure",
+  "Buttress, m. a structure made of stone or brick that sticks out from and supports a wall of a building",
+  "Hiatus, noun. a short pause in which nothing happens or is said, or a space where something is missing",
+  "Blueprint, noun. a plan or design that explains how something might be achieved",
+  "Juxtaposition, noun. the fact of putting things that are not similar next to each other",
+  "Ramification, noun. the possible results of an action",
+  "Burgeon, verb. to develop or grow quickly",
+  "Disavow, verb. to say that you know nothing about something, or that you have no responsibility for or connection with something",
+  "Bilk, verb. to get money from someone unfairly or dishonestly",
+  "Promptness, noun. the quality of doing something quickly and without delay, or at the arranged time",
+  "Ravine, noun. a deep narrow valley with steep sides.",
+  "Quantum leap, noun. a great improvement or important development in something",
+  "Mirage, noun. an image, produced by very hot air, of something that seems to be far away but does not really exist",
+  "Buoyancy, noun. the quality of being able to float",
+  "Buoyancy, noun. the quality of being successful or able to make a profit",
+  "Buoyancy, noun. a happy, positive quality, especially in spite of problems",
+  "Lough, noun. in Ireland, a lake or an inlet",
+  "Sediment, noun. a soft substance that is like a wet powder and consists of very small pieces of a solid material that have fallen to the bottom of a liquid",
+  "Morass, noun. something that is extremely complicated and difficult to deal with and makes any progress almost impossible",
+  "The foreshore, noun. the part of the land next to the sea that is between the limits reached by high and low **tide** (thủy triều), or any part of this land that does not have grass or buildings on it",
+  "Estuary, noun. the wide part of a river at the place where it joins the sea",
+  "Inlet, noun. a narrow **strip** (dải) of water that goes from a sea or lake into the land or between islands",
+  "Inlet, noun. the part of a machine through which liquid or gas enters",
+  "Ethereality, noun. the quality of being very light and **delicate** (thanh tú), especially in a way that does not seem to come from the real, physical world",
+  "Precipice, noun. a very steep side of a cliff or a mountain",
+  "Islet, noun. a small island",
+  "Islet, noun. one of many groups of cells in the **pancreas** (tuyến tụy) that produce hormones such as insulin",
+  "Deliquesce, verb. When a solid deliquesces, it becomes liquid as it absorbs moisture from the air",
+  "Deliquesce, verb. to gradually disappear or be destroyed",
+  "Touch-and-go, adjective. If a situation is touch-and-go, it is uncertain",
+  "Raincheck, noun. a part of a ticket to a game, activity, etc., that can be used later if bad weather prevents the original event from happening",
+  "Rain check, noun. an offer or request to do or get something at a later time than was originally intended",
+  "Relish, verb. to like or enjoy something",
+  "Relish, noun. a type of sauce that is eaten with food to add flavour to it",
+  "Relish, noun. the enjoyment you get from doing something",
+  "Partible, adjective. Partible land or other property can be divided between two or more people when it is passed from someone after they die",
+  "Raise, verb. to lift something to a higher position",
+  "Raise, verb. to cause something to increase or become bigger, better, higher, etc.",
+  "Raise, verb. to cause to exist",
+  "Raise, verb. to take care of a person, or an animal or plant, until they are completely grown",
+  "Raise, verb. If you raise another player in a game of cards, you risk more money than that player has risked",
+  "Raise, verb. to end or stop",
+  "Raise, verb. to communicate with someone, especially by phone or radio",
+  "Raise, noun. an increase in the amount that you are paid for the work you do",
+  "Granulate, verb. to turn or to make something turn into granules (= small pieces like grains)",
+  "Granulate, verb. (of injured skin or tissue) to form many small **lumps** (cục u) as part of the healing process (= the process of becoming healthy again)",
+  "Granulate, noun. a substance consisting of granules (= small pieces like grains)",
+  "Meager, adjective. very small in amount or number; only as much or not as much as is needed or thought to be suitable",
+  "Palatable, adjective. Palatable food or drink has a pleasant taste",
+  "Palatable, adjective. acceptable",
+  "Rancid, adjective. (of butter, oil, etc.) tasting or smelling unpleasant because of not being fresh",
+  "Nutritious, adjective. containing many of the substances needed for life and growth",
+  "Nutritive, adjective. relating to nutrition (= **Nutritious**)",
+  "Antiquated, adjective. old-fashioned or unsuitable for modern society",
+  "Polytheism, noun. belief in many different gods",
+  "Resurgent, adjective. increasing again, or becoming popular again",
+  "Sacrosanct, adjective. thought to be too important or too special to be changed",
+  "Subjugate, verb. to defeat people or a country and rule them in a way that allows them no freedom",
+  "Subjugate, verb. to treat yourself, your wishes, or your beliefs as being less important than other people or their wishes or beliefs",
+  "Aggregate, noun. something formed by adding together several amounts or things",
+  "Aggregate, noun. small stones used in building",
+  "Aggregate, adjective. total",
+  "Aggregate, verb. to combine into a single group or total",
+  "Partisan, adjective. strongly supporting a person, principle, or political party, often without considering or judging the matter very carefully",
+  "Partisan, noun. someone who supports a person, principle, or political party",
+  "Potentate, noun. a ruler who has a lot of power, especially one whose power is not limited, for example by the existence of a parliament",
+  "Originate, verb. to come from a particular place, time, situation, etc.",
+  "Conflagration, noun. a large fire that causes a lot of damage",
+  "Multiculturalism, noun. the belief that different cultures within a society should all be given importance",
+  "Impregnable, adjective. A building or other place that is impregnable is so strongly built and/or defended that it cannot be entered by force",
+  "Inquisitor, noun. someone who asks a lot of questions",
+  "Vestige, noun. a small part or amount of something larger, stronger, or more important that still exists from something that existed in the past",
+  "Absolution, noun. the act of forgiving someone, especially in the Christian religion, for something bad that they have done or thought",
+  "Relativity, noun. either of two theories of physics giving the relationship between space, time, and energy, especially for two objects moving in different ways",
+  "Relativity, noun. the state of being judged in comparison with other things and not by itself",
+  "Pedantic, adjective. giving too much attention to formal rules or small details",
+  "Synonym, noun. a word or phrase that has the same or nearly the same meaning as another word or phrase in the same language",
+  "Dramatist, noun. a person who writes plays",
+  "Rote, noun. learning something in order to be able to repeat it from memory, rather than in order to understand it",
+  "Interrogative, noun. a word, phrase, or sentence used when asking a question",
+  "Belle, noun. a beautiful and attractive woman or one who is beautifully dressed",
+  "Parallelism, noun. the use of matching sentence structure, phrases, or longer parts so as to balance ideas of equal importance",
+  "Bombastic, adjective. forceful and confident in a way that is intended to be very powerful and impressive, but may not have much real meaning or effect",
+  "Sublime, adjective. extremely good, beautiful, or enjoyable",
+  "Sublime, noun. something that is sublime",
+  "Sublime, verb. to change a solid directly into a gas without the solid first becoming a liquid, or to be changed in this way.",
+  "Invective, noun. criticism that is very forceful, unkind, and often rude",
+  "Laconic, adjective. using very few words to express what you mean",
+  "Analogy, noun. a comparison between things that have similar features, often used to help explain a principle or idea",
+  "Rife, adjective. If something unpleasant is rife, it is very common or happens a lot",
+  "Discordant, adjective. used to describe something that is not in agreement with something else",
+  "Vitality, adjective. energy and strength",
+  "Deleterious, adjective. harmful",
+  "Hygiene, noun. the degree to which people keep themselves or their environment clean, especially to prevent disease",
+  "Abrasion, noun. the process of rubbing away the surface of something",
+  "Gastric, adjective. relating to the stomach",
+  "Facial, adjective. of or on the face",
+  "Facial, noun. a beauty treatment that cleans and improves the skin of the face with creams and gentle rubbing",
+  "Chronic, adjective. (especially of a disease or something bad) continuing for a long time",
+  "Diaphragm, noun. the muscle that separates the chest from the lower part of the body",
+  "Diaphragm, noun. a circular rubber device that a woman puts inside her vagina before having sex, to avoid becoming pregnant",
+  "Diaphragm, noun. any thin piece of material stretched across an opening",
+  "Patent, noun. the official legal right to make or sell an invention for a particular number of years",
+  "Patent, verb. to get the official legal right to make or sell an invention",
+  "Patent, adjective. very obvious",
+  "Lucid, adjective. clearly expressed and easy to understand, or (of a person) thinking or speaking clearly",
+  "Remedy, noun. a successful way of curing an illness or dealing with a problem or difficulty",
+  "Remedy, verb. to do something to correct or improve something that is wrong",
+  "Efficacious, adjective. able to produce the intended result",
+  "Adipose, adjective. relating to animal fat",
+  "Bladder, noun. an organ like a bag inside the body of a person or animal, where urine is stored before it leaves the body",
+  "Air sac, noun. a space filled with air that continues from a bird's lungs into one of its bones or another body area, used in breathing",
+  "Norm, noun. an accepted standard or a way of behaving or doing things that most people agree with",
+  "Hook, noun. a curved device used for catching or holding things, especially one attached to a surface for hanging things on",
+  "Hook, noun. a shot depended on what materials you use, can be a bat, a punch",
+  "Hook, noun. a repeated part of a song or piece of music that is particularly pleasing and easy to remember",
+  "Hook, noun. something that is used to attract customers' attention, and encourage them to buy a product or service",
+  "Pursuit, noun. an activity that you spend time doing, usually when you are not working",
+  "Pursuit, noun. the act of following someone or something to try to catch him, her, or it",
+  "Pursuit, noun. the act of trying to achieve a plan, activity, or situation, usually over a long period of time",
+  "Endorsement, noun. the act of saying that you approve of or support something or someone",
+  "Peril, noun. great danger, or something that is very dangerous",
+  "Triumph, noun. a very great success, achievement, or victory (= when you win a war, fight, or competition), or a feeling of great satisfaction or pleasure caused by this",
+  "Auction, noun. a usually public sale of goods or property, where people make higher and higher bids (= offers of money) for each thing, until the thing is sold to the person who will pay most",
+  "Mediation, noun. the process of talking to two separate people or groups involved in a disagreement to try to help them to agree or find a solution to their problems",
+  "Offender, noun. a person who is guilty of a crime",
+  "Imprisonment, noun. the act of putting someone in prison or the condition of being kept in prison",
+  "Rehabilitation, noun. the process of returning to a healthy or good way of life, or the process of helping someone to do this after they have been in prison, been very ill, etc.",
+  "Exposé, noun. a public report about a situation that is shocking or that has been kept secret",
+  "Restorative justice, noun. a way of dealing with crime that emphasizes taking responsibility for the effect of your crime on others, and trying to do something that makes things better for the victims",
+  "Restorative, noun. something that makes you feel better or more energetic if you are feeling tired or ill",
+  "Authenticity, noun. the quality of being real or true",
+  "Accumulation, noun. an amount of something that has been collected",
+  "Slip, noun. a small piece of paper",
+  "Want, noun. a lack of something",
+  "Wants, noun. needs",
+  "Void, noun. a large hole or empty space",
+  "Peer, noun. a person who is the same age or has the same social position or the same abilities as other people in a group",
+  "Weave, verb. the way in which cloth has been woven, for example with the threads pulled firmly together, or the pattern produced by this process",
+  "Gravitas, noun. seriousness and importance of manner, causing feelings of respect and trust in others",
+  "Credibility, noun. the fact that someone or something can be believed or trusted",
+  "Clarity, noun. the quality of being clear and easy to understand",
+  "Synergize, verb. to combine or work together in order to be more effective, or to make things or people do this",
+  "Multitask, verb. to do more than one thing at a time",
+  "Zen, adjective. relaxed and not worrying about things that you cannot change",
+  "Competency, noun. an important skill that is needed to do a job",
+  "Empath, noun. (especially in science fiction stories) a person who has an unusually strong ability to feel other people's emotional or mental states",
+  "Marginal, adjective. very small in amount or effect",
+  "Dominion, noun. control over a country or people",
+  "Fraternal, adjective. relating to brothers",
+  "Hosiery, noun. a word used especially in shops for things such as socks, tights, and stockings",
+  "Reseat, verb. to arrange for someone to have a new place to sit",
+  "Derelict, adjective. Derelict buildings or places are not cared for and are in bad condition",
+  "Derelict, adjective. failing to do what you should do, especially in your job",
+  "Derelict, noun. a person who has no home or money and often lives outside",
+  "Emblazon, verb. to print or decorate something in a very noticeable way",
+  "Intramural, adjective. happening within or involving the members of one school, college, or university",
+  "Anonymity, noun. the situation in which someone's name is not given or known",
+  "Neuter, adjective. relating to a particular gender (= class of nouns) in some languages",
+  "Neuter, verb. to remove part of an animal's sexual organs, so that it cannot produce young animals",
+  "Admissible, adjective. considered satisfactory and acceptable in a law court",
+  "Well-bred, adjective. coming from a family that has a high social position",
+  "Well-bred, adjective. (of horses, dogs, etc.) bred from parents who are both considered to be good quality animals",
+  "Commitment, noun. a promise or firm decision to do something",
+  "Reciprocal, adjective. A reciprocal action or arrangement involves two people or groups of people who behave in the same way or agree to help each other and give each other advantages",
+  "Divulgence, noun. the act of making known something that was secret",
+  "Secrecy, noun. the state of being secret or of keeping something secret",
+  "Indiscriminately, adverb. in a way that does not show careful choice or planning, usually with harmful results",
+  "Linguist, noun. Someone who knows many languages",
+  "Eclectic, adjective. consisting of a diverse variety of elements.",
+  "Punitive, adjective. intended as a punishment",
+  "Retroactive, adjective. If a law or decision is retroactive, it has effect from a date before it was approved",
+  "Ostensible, adjective. appearing or claiming to be one thing when it is really something else",
+  "Sovereign, noun. a king or queen",
+  "Sovereign, noun. used to describe money that is borrowed or invested by national governments",
+  "Sovereign, adjective. having the highest power or being completely independent",
+  "Sovereign, adjective. **sovereign remedy** an extremely successful way of dealing with a problem",
+  "Zealot, noun. a person who has very strong opinions about something, and tries to make other people have them too",
+  "Arable, adjective. Arable farming land is used for, or is suitable for, growing crops",
+  "Onerous, adjective. difficult to do or needing a lot of effort",
+  "Expedient, adjective. helpful or useful in a particular situation, but sometimes not morally acceptable",
+  "Expedient, adjective. an action that is expedient",
+  "Propel. to push or move something somewhere, often with a lot of force",
+  "Intercept. to stop and catch something or someone before that thing or person is able to reach a particular place",
+  "Reprove. to tell someone that you disapprove of their bad or silly behaviour",
+  "Retrieve. to find and bring back something",
+  "Impend. If an event impends, usually an event that is unpleasant or unwanted, it is going to happen soon",
+  "Frizzle. to become or make something **crisp** (giòn) (= pleasantly dry and hard) or slightly burned by frying or grilling:",
+  "Accustom. to make someone familiar with new conditions",
+  "Relish. to like or enjoy something",
+  "Domesticate. to bring animals or plants under human control in order to provide food, power, or company",
+  "Reciprocate. to share the same feelings as someone else, or to behave in the same way as someone else",
+  "Circumvent. to avoid something, especially cleverly or illegally",
+  "Buttress. to build buttresses to support a building or structure",
+  "Discomfit. to make someone feel uncomfortable, especially mentally",
+  "Abstain. to not do something, especially something enjoyable that you think might be bad",
+  "Abstain. to decide not to use your vote",
+  "Abstain. to stay away from work",
+  "Annul. to officially announce that something such as a law, agreement, or marriage no longer exists",
+  "Regurgitate. to bring back swallowed food into the mouth",
+  "Venerate. to honour or very much respect a person or thing",
+  "Wane. to become weaker in strength or influence",
+  "Adopt. to legally take another person's child into your own family and take care of him or her as your own child",
+  "Adopt. to accept or start to use something new",
+  "Adopt. to choose someone or something or take something as your own",
+  "Emerge. to appear by coming out of something or out from behind something",
+  "Emerge. to become known, especially as a result of examining something or asking questions about it",
+  "Hook. to fasten something with a hook, hang something on a hook, or catch something with a hook",
+  "Deplete. to reduce something in size or amount, especially supplies of energy, money, etc.",
+  "Auction. to sell something in a public auction",
+  "Withold. to refuse to give something or to keep back something",
+  "Endure. to suffer something difficult, unpleasant, or painful",
+  "Endure. to continue to exist for a long time",
+  "Deliberate. to think or talk seriously and carefully about something",
+  "Deter. to prevent someone from doing something or to make someone less enthusiastic about doing something by making it difficult for that person to do it or by threatening bad results if they do it",
+  "Commit. to do something illegal or something that is considered wrong",
+  "Commit. to promise or give your loyalty, time, or money to a particular principle, person, or plan of action",
+  "Commit. Perhaps we should commit these ideas to paper before we forget them",
+  "Expose. to make something covered or hidden able to be seen",
+  "Expose. to publicly show that someone or something is bad or dishonest",
+  "Expose. to create a situation or a condition that makes someone likely to be harmed",
+  "Expose. to create conditions that allow someone to have the opportunity to learn or experience new things",
+  "Slip. to slide without intending to",
+  "Slip. to go somewhere or put something somewhere quickly, often so that you are not noticed",
+  "Slip. to go into a worse state, often because of lack of control or care",
+  "Slip. to go down in value",
+  "Assimilate. to become part of a group, country, society, etc., or to make someone or something become part of a group, country, society, etc.",
+  "Assimilate. to understand and remember new information and make it part of your basic knowledge so that you can use it as your own",
+  "Assimilate. to absorb food or a substance into the tissue of a living organism",
+  "Compartmentalize. to separate something into parts and not allow those parts to mix together",
+  "Peer. to look carefully or with difficulty",
+  "Weave. to make cloth by repeatedly crossing a single thread through two sets of long threads on a loom (= special frame)",
+  "Weave. to go or make a path by moving quickly and changing direction often, especially to avoid hitting things",
+  "Polarize. to cause something, especially something that contains different people or opinions, to divide into two completely opposing groups",
+  "Polarize. to make light waves move in one direction only, or mainly in one direction",
+  "Season. to improve the flavour of savoury food by adding salt, herbs, or spices when cooking or preparing it:",
+  "Flatter. to praise someone in order to make them feel attractive or important, sometimes in a way that is not sincere"
+];
+
+      let index = 0;
+      function speakNext() {
+        if (index < entries.length) {
+          const utterance = new SpeechSynthesisUtterance(entries[index]);
+          utterance.lang = "en-US";
+          utterance.onend = () => {
+            index++;
+            speakNext();
+          };
+          speechSynthesis.speak(utterance);
+        }
+      }
+
+      speakNext();
+    }
+  </script>
+  <h1>All Vocabulary</h1>
+  <pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
+- Volatile (adjective)
+- Volatile (adjective)
+- Sullen (adjective)
+- Lax (adjective)
+- Peerless (adjective)
+- Diffusible (adjective)
+- Haughty (adjective)
+- Insuperable (adjective)
+- Callow (adjective)
+- Halcyon (adjective)
+- Detrimental (adjective)
+- Exponential (adjective)
+- Exponential (adjective)
+- Perilous (adjective)
+- Apprehensive (adjective)
+- Sophisticated (adjective)
+- Spotty (adjective)
+- Spotty (adjective)
+- Deliberate (adjective)
+- Restorative (adjective)
+- Formative (adjective)
+- Queer (adjective)
+- Queer (adjective)
+- Neurodivergent (adjective)
+- Seasoned (adjective)
+- Complementary (adjective)
+- Muted (adjective)
+- Muted (adjective)
+- Muted (adjective)
+  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
+- Comparatively (adverb)
+  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
+- Taut (adjective)
+- Taut (adjective)
+- Taut (adjective)
+- Symphony (noun)
+- Monogram (noun)
+- Globular (adjective)
+- Azure (adjective)
+- Azure (noun)
+- Inventive (adjective)
+- Philharmonic (adjective)
+- Bric-a-brac (noun)
+- Incongruous (adjective)
+- Incongruous (adjective)
+- Supple (adjective)
+- Supple (adjective)
+  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
+- Superintend (verb)
+- Foresight (noun)
+- Logistical (adjective)
+- Proprietorship (noun)
+- Well-to-do (adjective)
+- Alignment (noun)
+- Alignment (noun)
+- Extension (noun)
+- Extension (noun)
+- Extension (noun)
+- Extension (noun)
+- Abscission (noun)
+- Interim (adjective)
+- Enthusiasm (noun)
+- Buttress (verb)
+- Buttress (m)
+- Hiatus (noun)
+- Blueprint (noun)
+- Juxtaposition (noun)
+- Ramification (noun)
+- Burgeon (verb)
+- Disavow (verb)
+- Bilk (verb)
+- Promptness (noun)
+  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
+- Ravine (noun)
+- Quantum leap (noun)
+- Mirage (noun)
+- Buoyancy (noun)
+- Buoyancy (noun)
+- Buoyancy (noun)
+- Lough (noun)
+- Sediment (noun)
+- Morass (noun)
+- The foreshore (noun)
+- Estuary (noun)
+- Inlet (noun)
+- Inlet (noun)
+- Ethereality (noun)
+- Precipice (noun)
+- Islet (noun)
+- Islet (noun)
+- Deliquesce (verb)
+- Deliquesce (verb)
+  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
+- Touch-and-go (adjective)
+- Raincheck (noun)
+- Rain check (noun)
+- Relish (verb)
+- Relish (noun)
+- Relish (noun)
+  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
+- Partible (adjective)
+- Raise (verb)
+- Raise (verb)
+- Raise (verb)
+- Raise (verb)
+- Raise (verb)
+- Raise (verb)
+- Raise (verb)
+- Raise (noun)
+- Granulate (verb)
+- Granulate (verb)
+- Granulate (noun)
+- Meager (adjective)
+- Palatable (adjective)
+- Palatable (adjective)
+- Rancid (adjective)
+- Nutritious (adjective)
+- Nutritive (adjective)
+  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
+- Antiquated (adjective)
+- Polytheism (noun)
+- Resurgent (adjective)
+- Sacrosanct (adjective)
+- Subjugate (verb)
+- Subjugate (verb)
+- Aggregate (noun)
+- Aggregate (noun)
+- Aggregate (adjective)
+- Aggregate (verb)
+- Partisan (adjective)
+- Partisan (noun)
+- Potentate (noun)
+- Originate (verb)
+- Conflagration (noun)
+- Multiculturalism (noun)
+- Impregnable (adjective)
+- Inquisitor (noun)
+- Vestige (noun)
+- Absolution (noun)
+- Relativity (noun)
+- Relativity (noun)
+  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
+- Pedantic (adjective)
+- Synonym (noun)
+- Dramatist (noun)
+- Rote (noun)
+- Interrogative (noun)
+- Belle (noun)
+- Parallelism (noun)
+- Bombastic (adjective)
+- Sublime (adjective)
+- Sublime (noun)
+- Sublime (verb)
+- Invective (noun)
+- Laconic (adjective)
+- Analogy (noun)
+- Rife (adjective)
+- Discordant (adjective)
+  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
+- Vitality (adjective)
+- Deleterious (adjective)
+- Hygiene (noun)
+- Abrasion (noun)
+- Gastric (adjective)
+- Facial (adjective)
+- Facial (noun)
+- Chronic (adjective)
+- Diaphragm (noun)
+- Diaphragm (noun)
+- Diaphragm (noun)
+- Patent (noun)
+- Patent (verb)
+- Patent (adjective)
+- Lucid (adjective)
+- Remedy (noun)
+- Remedy (verb)
+- Efficacious (adjective)
+- Adipose (adjective)
+- Bladder (noun)
+- Air sac (noun)
+  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
+- Norm (noun)
+- Hook (noun)
+- Hook (noun)
+- Hook (noun)
+- Hook (noun)
+- Pursuit (noun)
+- Pursuit (noun)
+- Pursuit (noun)
+- Endorsement (noun)
+- Peril (noun)
+- Triumph (noun)
+- Auction (noun)
+- Mediation (noun)
+- Offender (noun)
+- Imprisonment (noun)
+- Rehabilitation (noun)
+- Exposé (noun)
+- Restorative justice (noun)
+- Restorative (noun)
+- Authenticity (noun)
+- Accumulation (noun)
+- Slip (noun)
+- Want (noun)
+- Wants (noun)
+- Void (noun)
+- Peer (noun)
+- Weave (verb)
+- Gravitas (noun)
+- Credibility (noun)
+- Clarity (noun)
+  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
+- Synergize (verb)
+- Multitask (verb)
+- Zen (adjective)
+- Competency (noun)
+- Empath (noun)
+  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
+- Marginal (adjective)
+- Dominion (noun)
+- Fraternal (adjective)
+- Hosiery (noun)
+- Reseat (verb)
+- Derelict (adjective)
+- Derelict (adjective)
+- Derelict (noun)
+- Emblazon (verb)
+- Intramural (adjective)
+- Anonymity (noun)
+- Neuter (adjective)
+- Neuter (verb)
+- Admissible (adjective)
+- Well-bred (adjective)
+- Well-bred (adjective)
+- Commitment (noun)
+- Reciprocal (adjective)
+- Divulgence (noun)
+- Secrecy (noun)
+- Indiscriminately (adverb)
+- Linguist (noun)
+- Eclectic (adjective)
+- Punitive (adjective)
+- Retroactive (adjective)
+- Ostensible (adjective)
+- Sovereign (noun)
+- Sovereign (noun)
+- Sovereign (adjective)
+- Sovereign (adjective)
+- Zealot (noun)
+- Arable (adjective)
+- Onerous (adjective)
+- Expedient (adjective)
+- Expedient (adjective)
+  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
+- Propel
+- Intercept
+- Reprove
+- Retrieve
+- Impend
+- Frizzle
+- Accustom
+- Relish
+- Domesticate
+- Reciprocate
+- Circumvent
+- Buttress
+- Discomfit
+- Abstain
+- Abstain
+- Abstain
+- Annul
+- Regurgitate
+- Venerate
+- Wane
+- Adopt
+- Adopt
+- Adopt
+- Emerge
+- Emerge
+- Hook
+- Deplete
+- Auction
+- Withold
+- Endure
+- Endure
+- Deliberate
+- Deter
+- Commit
+- Commit
+- Commit
+- Expose
+- Expose
+- Expose
+- Expose
+- Slip
+- Slip
+- Slip
+- Slip
+- Assimilate
+- Assimilate
+- Assimilate
+- Compartmentalize
+- Peer
+- Weave
+- Weave
+- Polarize
+- Polarize
+- Season
+- Flatter
+  </pre>
+
+</body>
+</html>
