@@ -86,7 +86,7 @@
 - The best remedy for **grief** (đau buồn) is hard work
 - The natural remedy helped **alleviate** (làm giảm nhẹ) her chronic headaches.
 
-**17. Remedy** /ˈrem.ə.di/ (v): to do something to correct or improve something that is wrong
+**17. Remedy** /ˈrem.ə.di/ (v): to do something to correct or improve something that is wrongter
 - This mistake must be remedied immediately.
 
 **18. Efficacious** /ˌef.əˈkeɪ.ʃəs/ (adj): able to produce the intended result
