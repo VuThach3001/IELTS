@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Vocabulary TTS</title>
+</head>
+<body>
+  <h1>Vocabulary List</h1>
+
+  <button onclick="playAll()" style="font-size:18px; padding:10px; margin-top:20px;">🔊 Play All Words</button>
+
+  <script>
+    function playAll() {
+      const entries = ["Vitality, adjective. energy and strength", "Deleterious, adjective. harmful", "Hygiene, noun. the degree to which people keep themselves or their environment clean, especially to prevent disease", "Abrasion, noun. the process of rubbing away the surface of something", "Gastric, adjective. relating to the stomach", "Facial, adjective. of or on the face", "Facial, noun. a beauty treatment that cleans and improves the skin of the face with creams and gentle rubbing", "Chronic, adjective. (especially of a disease or something bad) continuing for a long time", "Diaphragm, noun. the muscle that separates the chest from the lower part of the body", "Diaphragm, noun. a circular rubber device that a woman puts inside her vagina before having sex, to avoid becoming pregnant", "Diaphragm, noun. any thin piece of material stretched across an opening", "Patent, noun. the official legal right to make or sell an invention for a particular number of years", "Patent, verb. to get the official legal right to make or sell an invention", "Patent, adjective. very obvious", "Lucid, adjective. clearly expressed and easy to understand, or (of a person) thinking or speaking clearly", "Remedy, noun. a successful way of curing an illness or dealing with a problem or difficulty", "Remedy, verb. to do something to correct or improve something that is wrong", "Efficacious, adjective. able to produce the intended result", "Adipose, adjective. relating to animal fat", "Bladder, noun. an organ like a bag inside the body of a person or animal, where urine is stored before it leaves the body", "Air sac, noun. a space filled with air that continues from a bird's lungs into one of its bones or another body area, used in breathing"];
+
+      let index = 0;
+      function speakNext() {
+        if (index < entries.length) {
+          const utterance = new SpeechSynthesisUtterance(entries[index]);
+          utterance.lang = "en-US";
+          utterance.onend = () => {
+            index++;
+            speakNext();
+          };
+          speechSynthesis.speak(utterance);
+        }
+      }
+
+      speakNext();
+    }
+  </script>
+  
+  <pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
+- Vitality (adjective)
+- Deleterious (adjective)
+- Hygiene (noun)
+- Abrasion (noun)
+- Gastric (adjective)
+- Facial (adjective)
+- Facial (noun)
+- Chronic (adjective)
+- Diaphragm (noun)
+- Diaphragm (noun)
+- Diaphragm (noun)
+- Patent (noun)
+- Patent (verb)
+- Patent (adjective)
+- Lucid (adjective)
+- Remedy (noun)
+- Remedy (verb)
+- Efficacious (adjective)
+- Adipose (adjective)
+- Bladder (noun)
+- Air sac (noun)
+  </pre>
+
+</body>
+</html>

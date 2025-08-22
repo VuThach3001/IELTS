@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Vocabulary TTS</title>
+</head>
+<body>
+  <h1>Vocabulary List</h1>
+
+  <button onclick="playAll()" style="font-size:18px; padding:10px; margin-top:20px;">🔊 Play All Words</button>
+
+  <script>
+    function playAll() {
+      const entries = ["Ravine, noun. a deep narrow valley with steep sides.", "Quantum leap, noun. a great improvement or important development in something", "Mirage, noun. an image, produced by very hot air, of something that seems to be far away but does not really exist", "Buoyancy, noun. the quality of being able to float", "Buoyancy, noun. the quality of being successful or able to make a profit", "Buoyancy, noun. a happy, positive quality, especially in spite of problems", "Lough, noun. in Ireland, a lake or an inlet", "Sediment, noun. a soft substance that is like a wet powder and consists of very small pieces of a solid material that have fallen to the bottom of a liquid", "Morass, noun. something that is extremely complicated and difficult to deal with and makes any progress almost impossible", "The foreshore, noun. the part of the land next to the sea that is between the limits reached by high and low **tide** (thủy triều), or any part of this land that does not have grass or buildings on it", "Estuary, noun. the wide part of a river at the place where it joins the sea", "Inlet, noun. a narrow **strip** (dải) of water that goes from a sea or lake into the land or between islands", "Inlet, noun. the part of a machine through which liquid or gas enters", "Ethereality, noun. the quality of being very light and **delicate** (thanh tú), especially in a way that does not seem to come from the real, physical world", "Precipice, noun. a very steep side of a cliff or a mountain", "Islet, noun. a small island", "Islet, noun. one of many groups of cells in the **pancreas** (tuyến tụy) that produce hormones such as insulin", "Deliquesce, verb. When a solid deliquesces, it becomes liquid as it absorbs moisture from the air", "Deliquesce, verb. to gradually disappear or be destroyed"];
+
+      let index = 0;
+      function speakNext() {
+        if (index < entries.length) {
+          const utterance = new SpeechSynthesisUtterance(entries[index]);
+          utterance.lang = "en-US";
+          utterance.onend = () => {
+            index++;
+            speakNext();
+          };
+          speechSynthesis.speak(utterance);
+        }
+      }
+
+      speakNext();
+    }
+  </script>
+  
+  <pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
+- Ravine (noun)
+- Quantum leap (noun)
+- Mirage (noun)
+- Buoyancy (noun)
+- Buoyancy (noun)
+- Buoyancy (noun)
+- Lough (noun)
+- Sediment (noun)
+- Morass (noun)
+- The foreshore (noun)
+- Estuary (noun)
+- Inlet (noun)
+- Inlet (noun)
+- Ethereality (noun)
+- Precipice (noun)
+- Islet (noun)
+- Islet (noun)
+- Deliquesce (verb)
+- Deliquesce (verb)
+  </pre>
+
+</body>
+</html>

@@ -432,19 +432,19 @@ Said when you are judging one thing in comparison with other things
 - After the flood, nothing remained of the village.
 - Only a few hundred of these animals remain today.
 
-85.	Remaining /rɪˈmeɪ·nɪŋ/ (adj):
+**85.	Remaining** /rɪˈmeɪ·nɪŋ/ (adj):
 - Use half the dough (bột nhào) and keep the remaining half covered.
 
-86.	Petroleum /pəˈtrəʊ.li.əm/ (n): a dark, thick oil obtained from under the ground, from which various substances including petrol, paraffin, and diesel oil are produced
+**86.	Petroleum** /pəˈtrəʊ.li.əm/ (n): a dark, thick oil obtained from under the ground, from which various substances including petrol, paraffin, and diesel oil are produced
 - Petro and diesel are produced from petroleum.
 - Petroleum is used to produce fuel for vehicles.
 - “Vaseline” is the commercial name for petroleum jelly.
 
-87.	Notably /ˈnoʊ.t̬ə.bli/ (adv): especially or most importantly
+**87.	Notably** /ˈnoʊ.t̬ə.bli/ (adv): especially or most importantly
 - The company is beginning to attract investors, most notably big Japanese banks.
 To an important degree, or in a way that can or should be noticed
 - The newspapers are notably biased (thiên vị).
-88.	Contribution /ˌkɑːn.trɪˈbjuː.ʃən/ (n): something that you contribute or do to help produce or achieve something together with other people, or to help make something successful
+**88.	Contribution** /ˌkɑːn.trɪˈbjuː.ʃən/ (n): something that you contribute or do to help produce or achieve something together with other people, or to help make something successful
 - All contributions (= presents of money), no matter how small, will be much appreciated.
 - Contribution for: All contributions (= articles to be printed) for the school magazine must be received by 1 August.
 - Make a contribution to: She didn’t make much of a contribution (= she did not say much) at today’s meeting, did she?
@@ -454,51 +454,51 @@ Payments from a company or employee to pay for an employee's benefits such as me
 - He should be investing at least 10% of his salary (including his employer’s contributions).
 - Her plan automatically increases her pension (lương hưu) contributions each year.
 
-89.	Account /əˈkaʊnt/ (n) [BANK]: an arrangement with a bank to keep your money there and to allow you to take it out when you need to
+**89. Account** /əˈkaʊnt/ (n) [BANK]: an arrangement with a bank to keep your money there and to allow you to take it out when you need to
 - Close an account: I withdrew my money and asked the bank to close my account.
 - Open an account: I’ve opened an account with a build society.
 - I paid the money into my account this morning.
 
-90.	Account /əˈkaʊnt/ (n) [REPORT]: a written or spoken description or record of an event
+**90. Account** /əˈkaʊnt/ (n) [REPORT]: a written or spoken description or record of an event
 - Give an account of: She gave a thrilling (ly kì) account of her life in the jungle.
 - Keep an account of: He kept a detailed account of the suspect (kẻ tình nghi)’s movements.
 - Several eyewitnesses’ accounts differed considerably from the official version of events.
 
-91.	Account /əˈkaʊnt/ (n) [REASON]: because of something
+**91. Account**/əˈkaʊnt/ (n) [REASON]: because of something
 - On account of something: He doesn’t drink alcohol on account of his poor health.
 
-92.	Account /əˈkaʊnt/ (n) [BUSINESS]: an agreement with a shop or business that allows you to buy things and pay for them later
+**92. Account** /əˈkaʊnt/ (n) [BUSINESS]: an agreement with a shop or business that allows you to buy things and pay for them later
 - Could you put it on/charge it to my account (= can I pay it later), please?
 - Do you have an account at this store/with us, madam?
 - Settle an account: Could you please settle your account in full (= give us all the money you owe us)?
 A customer who does business with a company
 - If the advertising agency loses this account, it will make a big dent (vết lõm) in their profits.
 
-93.	Account /əˈkaʊnt/ (n) [IMPORTANCE]:
+**93. Account** /əˈkaʊnt/ (n) [IMPORTANCE]:
 - Be of no/little account: to not be important
 - It’s of no account to me whether he comes or not.
 
-94.	Account /əˈkaʊnt/ (v) [JUDGE]: to think of someone or something in the stated way
+**94. Account** /əˈkaʊnt/ (v) [JUDGE]: to think of someone or something in the stated way
 - She was accounted a genius by all who knew her work.
 
-95.	Prominent /ˈprɒm.ɪ.nənt/ (adj) [FAMOUS]: very well known and important
+**95. Prominent** /ˈprɒm.ɪ.nənt/ (adj) [FAMOUS]: very well known and important
 - A prominent Democrat.
 - A prominent member of the Saudi royal family.
 - The government should be playing a more prominent role in promoting human rights.
 
-96.	Prominent /ˈprɒm.ɪ.nənt/ (adj) [NOTICEABLE]: sticking out from a surface
+**96. Prominent** /ˈprɒm.ɪ.nənt/ (adj) [NOTICEABLE]: sticking out from a surface
 - She has a prominent chin (cằm)/nose.
 Something that is in a prominent position can easily be seen or noticed:
 - New books are displayed in a prominent position on tables at the front of the store.
 
-97.	Diversification /dɪˌvɝː.sə.fəˈkeɪ.ʃən/ (n): the process of starting to include more different types or things
+**97. Diversification** /dɪˌvɝː.sə.fəˈkeɪ.ʃən/ (n): the process of starting to include more different types or things
 - Diversification of your investments lowers risk.
 - The policy may also offer improved energy security through diversification of energy sources.
 The process of starting to make new products or offer new services, or an instance of this
 - Diversification into: The government offered help for diversification into new farm products and food processing.
 - For the company, it’s a sensible diversification of their product range.
 
-98.	Immense /ɪˈmens/ (adj): extremely large in size or degree
+**98. Immense** /ɪˈmens/ (adj): extremely large in size or degree
 - Immense wealth/value
 - Immense amount: They spent an immense amount of time getting the engine into perfect condition.
 - He inherited an immense fortune.
@@ -506,7 +506,7 @@ The process of starting to make new products or offer new services, or an instan
 Extremely good
 - He’s an immense goalkeeper.
 
-99.	Harness /ˈhɑːr.nəs/ (n): a piece of equipment with straps and belts, used to control or hold in place a person, animal, or object
+**99. Harness** /ˈhɑːr.nəs/ (n): a piece of equipment with straps and belts, used to control or hold in place a person, animal, or object
 - A safety harness.
 - A baby harness.
 - A parachute harness

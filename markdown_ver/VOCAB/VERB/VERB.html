@@ -1,0 +1,93 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Vocabulary TTS</title>
+</head>
+<body>
+  <h1>Vocabulary List</h1>
+
+  <button onclick="playAll()" style="font-size:18px; padding:10px; margin-top:20px;">🔊 Play All Words</button>
+
+  <script>
+    function playAll() {
+      const entries = ["Propel, verb. to push or move something somewhere, often with a lot of force", "Intercept, verb. to stop and catch something or someone before that thing or person is able to reach a particular place", "Reprove, verb. to tell someone that you disapprove of their bad or silly behaviour", "Retrieve, verb. to find and bring back something", "Impend, verb. If an event impends, usually an event that is unpleasant or unwanted, it is going to happen soon", "Frizzle, verb. to become or make something **crisp** (giòn) (= pleasantly dry and hard) or slightly burned by frying or grilling:", "Accustom, verb. to make someone familiar with new conditions", "Relish, verb. to like or enjoy something", "Domesticate, verb. to bring animals or plants under human control in order to provide food, power, or company", "Reciprocate, verb. to share the same feelings as someone else, or to behave in the same way as someone else", "Circumvent, verb. to avoid something, especially cleverly or illegally", "Buttress, verb. to build buttresses to support a building or structure", "Discomfit, verb. to make someone feel uncomfortable, especially mentally", "Abstain, verb. to not do something, especially something enjoyable that you think might be bad", "Abstain, verb. to decide not to use your vote", "Abstain, verb. to stay away from work", "Annul, verb. to officially announce that something such as a law, agreement, or marriage no longer exists", "Regurgitate, verb. to bring back swallowed food into the mouth", "Venerate, verb. to honour or very much respect a person or thing", "Wane, verb. to become weaker in strength or influence", "Adopt, verb. to legally take another person's child into your own family and take care of him or her as your own child", "Adopt, verb. to accept or start to use something new", "Adopt, verb. to choose someone or something or take something as your own", "Emerge, verb. to appear by coming out of something or out from behind something", "Emerge, verb. to become known, especially as a result of examining something or asking questions about it", "Hook, verb. to fasten something with a hook, hang something on a hook, or catch something with a hook", "Deplete, verb. to reduce something in size or amount, especially supplies of energy, money, etc.", "Auction, verb. to sell something in a public auction", "Withold, verb. to refuse to give something or to keep back something", "Endure, verb. to suffer something difficult, unpleasant, or painful", "Endure, verb. to continue to exist for a long time", "Deliberate, verb. to think or talk seriously and carefully about something", "Deter, verb. to prevent someone from doing something or to make someone less enthusiastic about doing something by making it difficult for that person to do it or by threatening bad results if they do it", "Commit, verb. to do something illegal or something that is considered wrong", "Commit, verb. to promise or give your loyalty, time, or money to a particular principle, person, or plan of action", "Commit, verb. Perhaps we should commit these ideas to paper before we forget them", "Expose, verb. to make something covered or hidden able to be seen", "Expose, verb. to publicly show that someone or something is bad or dishonest", "Expose, verb. to create a situation or a condition that makes someone likely to be harmed", "Expose, verb. to create conditions that allow someone to have the opportunity to learn or experience new things", "Slip, verb. to slide without intending to", "Slip, verb. to go somewhere or put something somewhere quickly, often so that you are not noticed", "Slip, verb. to go into a worse state, often because of lack of control or care", "Slip, verb. to go down in value", "Assimilate, verb. to become part of a group, country, society, etc., or to make someone or something become part of a group, country, society, etc.", "Assimilate, verb. to understand and remember new information and make it part of your basic knowledge so that you can use it as your own", "Assimilate, verb. to absorb food or a substance into the tissue of a living organism", "Compartmentalize, verb. to separate something into parts and not allow those parts to mix together", "Peer, verb. to look carefully or with difficulty", "Weave, verb. to make cloth by repeatedly crossing a single thread through two sets of long threads on a loom (= special frame)", "Weave, verb. to go or make a path by moving quickly and changing direction often, especially to avoid hitting things", "Polarize, verb. to cause something, especially something that contains different people or opinions, to divide into two completely opposing groups", "Polarize, verb. to make light waves move in one direction only, or mainly in one direction", "Season, verb. to improve the flavour of savoury food by adding salt, herbs, or spices when cooking or preparing it:", "Flatter, verb. to praise someone in order to make them feel attractive or important, sometimes in a way that is not sincere"];
+
+      let index = 0;
+      function speakNext() {
+        if (index < entries.length) {
+          const utterance = new SpeechSynthesisUtterance(entries[index]);
+          utterance.lang = "en-US";
+          utterance.onend = () => {
+            index++;
+            speakNext();
+          };
+          speechSynthesis.speak(utterance);
+        }
+      }
+
+      speakNext();
+    }
+  </script>
+  
+  <pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
+- Propel (verb)
+- Intercept (verb)
+- Reprove (verb)
+- Retrieve (verb)
+- Impend (verb)
+- Frizzle (verb)
+- Accustom (verb)
+- Relish (verb)
+- Domesticate (verb)
+- Reciprocate (verb)
+- Circumvent (verb)
+- Buttress (verb)
+- Discomfit (verb)
+- Abstain (verb)
+- Abstain (verb)
+- Abstain (verb)
+- Annul (verb)
+- Regurgitate (verb)
+- Venerate (verb)
+- Wane (verb)
+- Adopt (verb)
+- Adopt (verb)
+- Adopt (verb)
+- Emerge (verb)
+- Emerge (verb)
+- Hook (verb)
+- Deplete (verb)
+- Auction (verb)
+- Withold (verb)
+- Endure (verb)
+- Endure (verb)
+- Deliberate (verb)
+- Deter (verb)
+- Commit (verb)
+- Commit (verb)
+- Commit (verb)
+- Expose (verb)
+- Expose (verb)
+- Expose (verb)
+- Expose (verb)
+- Slip (verb)
+- Slip (verb)
+- Slip (verb)
+- Slip (verb)
+- Assimilate (verb)
+- Assimilate (verb)
+- Assimilate (verb)
+- Compartmentalize (verb)
+- Peer (verb)
+- Weave (verb)
+- Weave (verb)
+- Polarize (verb)
+- Polarize (verb)
+- Season (verb)
+- Flatter (verb)
+  </pre>
+
+</body>
+</html>
