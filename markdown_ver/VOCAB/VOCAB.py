@@ -16,6 +16,9 @@ POS_MAP = {
 
 # Step 1: Ask user for the markdown file path
 md_path = input("Enter the path of your markdown file: ").strip()
+md_dir = os.path.dirname(md_path)        # ...\markdown_ver\VOCAB\VERB
+category = os.path.basename(md_dir)      # "VERB"
+repo_root = md_path.split("markdown_ver")[0].rstrip("\\/")  # <my_repo>
 
 # Step 2: Read markdown file
 with open(md_path, "r", encoding="utf-8") as f:
@@ -80,7 +83,8 @@ html_template = f"""
 """
 
 # Step 5: Write HTML file in same folder as markdown
-output_path = os.path.splitext(md_path)[0] + ".html"
+# Build docs/<CATEGORY>.html
+output_path = os.path.join(repo_root, "docs", category + ".html")
 with open(output_path, "w", encoding="utf-8") as f:
     f.write(html_template)
 
