@@ -127,3 +127,15 @@ There are some major reasons that explain why technology has replaced many human
 Despite the severity of this development, governmental intervention along with raising the awareness of each individual could effectively mitigate it. There should be a regulation from the government to better protect the benefits of employees, especially ones that are prone to be replaced by technology. The government should require a specific number of human workers at a factory site, acting a supervisor of machinery works. Also, each citizen must equip themselves with sufficient knowledge to better adapt to changes brought about by technology, which could help them find jobs in novel job markets, such as computer science or machinery design.
 
 In conclusion, many people are losing their jobs due to the higher level of efficiency and effectiveness that technological advancements have brought about. However, the government can still mitigate this by issuing new regulations to protect workers' benefits and provide morje education for people to find employment opportunities in novel job markets.
+
+---
+
+**[Giới thiệu 2 tuyệt kĩ viết Writing IELTS của NCS. TS Nguyễn Hoàng Huy | THE FORUM CENTER](https://www.youtube.com/watch?v=jkA2IMFt83w&t=6s)**
+
+**TCA: Temporal Contrast Analysis** - Sử dụng các yếu tố thời gian để giải thích 1 hiện tượng đề cho
+
+In this era, many companies have abandoned the normal hierachial structure and started using a more dynamic one. Why? What is the impact? 
+
+**1. Opening:** Viết lại đề sau đó trả lời câu hỏi 1 cách ngắn gọn
+
+In this day and age, normal hierachial structure have been eliminated in a large number of companies and more dynamic one is being used as the replacement. 
