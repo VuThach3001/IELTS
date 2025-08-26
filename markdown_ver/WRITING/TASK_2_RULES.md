@@ -54,7 +54,7 @@ In conclusion, **although there are mixed opinions on determining whether** the 
 
 **Opening**: Viết lại đề sau đó trả lời câu hỏi 1 cách ngắn gọn
 
-**Thach:** Some individuals claim that owning apartments is more optimal rather than having personal accommodations with a facade, while others oppose this statement. Although both views hold merit, I would evaluate the persuasiveness of each school of thought before proposing my personal opinion.
+**Thach:** Some individuals claim that owning apartments is more optimal rather than having personal accommodations with a facade, while others oppose this statement. Although both views hold merit, I agree more with former/latter perspective based on some reasons that are explained in this essay.
 
 **Huy Forum:** Some individuals are of the opinion that the optimal type of accommodation is apartments. In contrast, others think residing in a private house on the street is a superior option. Although both schools of thought offer merit, I agree more with the view that the final decision should be made based on the actual needs of each household.
 

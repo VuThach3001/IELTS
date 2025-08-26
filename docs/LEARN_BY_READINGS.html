@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Vocabulary TTS</title>
+</head>
+<body>
+  <h1>Vocabulary List</h1>
+
+  <button onclick="playAll()" style="font-size:18px; padding:10px; margin-top:20px;">🔊 Play All Words</button>
+
+  <script>
+    function playAll() {
+      const entries = ["Tenure, noun. a permanent post, especially as a teacher or professor, that guarantees job security until retirement", "Adjunct, noun. a part-time or temporary teacher or professor, often without benefits or long-term job security", "Exigency, noun. an urgent need or demand", "Institutionalised, adjective. established as a formal, accepted, or structured part of an organization", "Recompense, noun. payment or reward for work or effort", "Perpetual, adjective. continuing forever or for a very long time without stopping", "Publish or perish, phrase. the academic pressure to frequently publish work in order to sustain or advance a career", "Grade inflation, noun. the practice of awarding higher academic grades than students deserve", "Intellectual conformity, noun. aligning one’s ideas and research to accepted norms to avoid conflict or criticism", "Autonomy, noun. independence or freedom to make one’s own decisions", "Academic freedom, noun. the right of scholars to pursue research, teaching, and publishing without undue interference", "Upturn, noun. an improvement or increase in economic or business activity", "Downturn, noun. a decline in economic or business activity", "Flow-on effect, noun. a secondary or indirect effect that results from an initial action", "Disengagement, noun. lack of involvement or connection", "Repercussions, noun. unintended consequences or effects of an action", "Pedagogical, adjective. relating to teaching or education methods", "Contractual, adjective. relating to a formal agreement or contract", "Remuneration, noun. payment or compensation for work done", "Scholarship, noun. serious academic study or learning", "Mainstream, adjective. considered normal, conventional, or widely accepted", "Reputational, adjective. relating to the reputation or public perception of someone", "Disagreement, noun. a difference in opinion or conflict", "Marginalisation, noun. the process of being treated as insignificant or peripheral", "Career suicide, noun. an action that could severely damage one’s professional prospects", "Structural pressures, noun. systemic forces or constraints that influence behavior", "Dispute, noun. a disagreement or argument", "Scrape by, phrasal verb. to manage to survive financially with difficulty", "Cosy, adjective. comfortable, safe, or secure", "Whim, noun. a sudden desire or change of mind, often without reason"];
+
+      let index = 0;
+      function speakNext() {
+        if (index < entries.length) {
+          const utterance = new SpeechSynthesisUtterance(entries[index]);
+          utterance.lang = "en-US";
+          utterance.onend = () => {
+            index++;
+            speakNext();
+          };
+          speechSynthesis.speak(utterance);
+        }
+      }
+
+      speakNext();
+    }
+  </script>
+  
+  <pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
+- Tenure (noun)
+- Adjunct (noun)
+- Exigency (noun)
+- Institutionalised (adjective)
+- Recompense (noun)
+- Perpetual (adjective)
+- Publish or perish (phrase)
+- Grade inflation (noun)
+- Intellectual conformity (noun)
+- Autonomy (noun)
+- Academic freedom (noun)
+- Upturn (noun)
+- Downturn (noun)
+- Flow-on effect (noun)
+- Disengagement (noun)
+- Repercussions (noun)
+- Pedagogical (adjective)
+- Contractual (adjective)
+- Remuneration (noun)
+- Scholarship (noun)
+- Mainstream (adjective)
+- Reputational (adjective)
+- Disagreement (noun)
+- Marginalisation (noun)
+- Career suicide (noun)
+- Structural pressures (noun)
+- Dispute (noun)
+- Scrape by (phrasal verb)
+- Cosy (adjective)
+- Whim (noun)
+  </pre>
+
+</body>
+</html>
