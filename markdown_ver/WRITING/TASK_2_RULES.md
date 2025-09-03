@@ -75,7 +75,6 @@ On the other hand, opponents of the previous view claim that private houses on t
 In conclusion, **although there are mixed opinions on determining the best forms of accommodation**,  I believe that the ultimate decision needs to be made according to the demand and financial conditions of each household. If a family values privacy and has an interest in investment, a private house on the street is a superior option. In contrast, the lower cost of living associated with apartments is inevitably the best option for people with lower levels of income.
 
 ---
----
 
 **3. Nowadays, some nations tax sugar more heavily to help citizens eat healthily.**
 
@@ -107,7 +106,6 @@ On the other hand, this measure would have some problematic implications that sh
 
 In conclusion, after assessing both the positive and negative implication of the measure that imposes higher tax on sugare to improve people's diets, I think that the benefits outweigh the negative aspects. As many food producers over-ultilize sugar and are directly responsible for causing more health problems for consumers, sugar has long been a part of our diets. As a result, imposing higher tax should only be applied for food that has unacceptable sugar content.
 
----
 ---
 
 **4. In this era, technology has replaced a lot of humans at work.**
