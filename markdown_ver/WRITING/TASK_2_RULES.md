@@ -130,10 +130,34 @@ In conclusion, many people are losing their jobs due to the higher level of effi
 
 **[Giới thiệu 2 tuyệt kĩ viết Writing IELTS của NCS. TS Nguyễn Hoàng Huy | THE FORUM CENTER](https://www.youtube.com/watch?v=jkA2IMFt83w&t=6s)**
 
-**TCA: Temporal Contrast Analysis** - Sử dụng các yếu tố thời gian để giải thích 1 hiện tượng đề cho
+**TCA: Temporal Contrast Analysis** 
+- Sử dụng các yếu tố thời gian để giải thích 1 hiện tượng đề cho. Đưa ra thông tin trong quá khứ trước.
+- Focus vào những sự thay đổi hiển nhiên trong xã hội để giải thích 1 hiện tượng nào đó.
 
+**Format:** In this past, due to the lack of understanding of humans' biological nature and the causes of health disorders, even a simple infection could effectively be fatal to people, shortening their lives significantly. Fortunately, multiple medical breakthroughs have helped provide treatment options for most health problems, helping people live longer and enhace their quality of living.
+
+---
 In this era, many companies have abandoned the normal hierachial structure and started using a more dynamic one. Why? What is the impact? 
 
 **1. Opening:** Viết lại đề sau đó trả lời câu hỏi 1 cách ngắn gọn
 
-In this day and age, normal hierachial structure have been eliminated in a large number of companies and more dynamic one is being used as the replacement. 
+**Thach:** In this day and age, normal hierachial structure have been eliminated in a large number of companies and more dynamic one is being used as the replacement. In this essay, I would evaluate the reasons behind this tendency before providing what influences it can cause on communities.
+
+**Huy Forum:** In this day and age, the conventional model of work that emphasizes specific roles and the establishment of structure has become less popular, and many firms start using a more disorder structure. In this essay, I would explain the underlying reasons leading to this development before assessing its overall implications on workers, the companies, and soceity as a whole.
+
+**2. Main**
+
+**Paragraph 1: Why?**
+
+**Cấu trúc hierachy có đặc điểm gì?**
+- Sếp, nhân viên - vai trò rõ ràng, phân công trách nhiệm là phải làm theo
+- Phù hợp với kỷ nguyên sản xuất (industrial era)
+
+**Cấu trúc flexible có đặc điểm gì?**
+- Ai cũng đóng góp ý kiến được hết
+- Phù hợp với kỷ nguyên tôn vinh sự sáng tạo, cung cấp dịch vụ tốt nhất cho khách hàng. (technology-driven work environment)
+
+**Xã hội chúng ta (về mặt sản xuất) đã chuyển từ giai đoạn gì sang giai đoạn gì?**
+- Từ kỷ nguyên sản xuất sang kỷ nghuyên tôn vinh sự sáng tạo đòi hỏi phải thay đổi structure trong công ty
+
+There are some reasons that explain waning popularity of the hierachial structure among modern companies.
