@@ -1,4 +1,4 @@
 {
-    "idf.pythonInstallPath": "D:\\Espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.pythonInstallPath": "D:\\ESP-IDF\\Espressif\\tools\\idf-python\\3.11.2\\python.exe",
     "livePreview.defaultPreviewPath": "/markdown_ver/VOCAB/Test_script.html"
 }
