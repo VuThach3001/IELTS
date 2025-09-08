@@ -160,4 +160,41 @@ In this era, many companies have abandoned the normal hierachial structure and s
 **Xã hội chúng ta (về mặt sản xuất) đã chuyển từ giai đoạn gì sang giai đoạn gì?**
 - Từ kỷ nguyên sản xuất sang kỷ nghuyên tôn vinh sự sáng tạo đòi hỏi phải thay đổi structure trong công ty
 
-There are some reasons that explain waning popularity of the hierachial structure among modern companies.
+**Version 1:** There are some reasons that explain waning popularity of the hierachial structure among modern companies. In the past, have a solid work structure provided clear lines of authority and control, which were essential in managing large organizations  effectively, especially in the industrial era. Nowadays, as the largest sector that contributes to many nations' economies has been service-oriented, innovation and creativity are highly valued. By establishing a more flexible structure, companies hope that their employees can be empowered to contribute their ideas, voice their novel suggestions, and give the firms an advantage against other competitors.
+
+**Version 2:** There are some reasons that explain waning popularity of the hierachial structure among modern companies. In the past, our economy revolved around industrial production, which requires a strict adherence to standards and rules. This is why many conpanies chose to establish a rigid work structure, which helped them avoid unexpected errors or problems. However, as our world becomes more servicing-oriented, creative ideas are highly valued than ever before. With a flexible structure, employees are encouraged to be more vocal about their ideas, which can help their firms create innovative solutions and enhance the quality of service.
+
+---
+
+**TCA technique practices**
+
+**1. People nowadays retire much earlier than the past. Why? Is this a positive or negative development?**
+
+- Why do the people want to retire? Is there any criteria that help them retire?
+  - Financial matters
+    - Past: Low income, accumulation of money is hard to reach, resulting in the time to take for the retirement is longer.
+    - Today: High income
+
+**Version 1:** In the past, our excessive reliance on agriculture that drains people's physical power would not help them yield a higher level of income. This slow process of wealth accumulation led to a very delayed point of time whey they could retire and stop working. Fortunately, as our economy has progressed exponentially, people can save enough financial resources for earlier retirement. Once they reach the point of financial stability, they would stop working and focusing more on enjoying their lives.
+
+**Version 2:** It is estimated that our GDP in 1950s was 80% lower than the current levels, which apply for most countries despite their development status. This limited capabilities to make money explained why people in the past usually did not reach the point of financial stability until very late in their lives. Fortunately, the current income can speed up this process, helping people accumulate enough resources that can facilitate earlier retirement.
+
+**2. Nowadays, people often live longer after their retirement.**
+
+- Why do people live longer compared to the past?
+  - Sức khỏe
+    - Past: 
+      - Dịch vụ không bằng
+      - chất lượng đồ ăn kém hơn
+
+---
+
+**CTA - Characteristic Trait Association**
+- Chuyên dùng để giải thích hành vi
+
+**Despite the proven effects of teamwork, many people still want to work alone. Why? Is is positive for people who avoid teamwork?**
+
+- Teamwork - cần phải compromise quan điểm cá nhân, chấp nhận các ý kiến trái chiều. 
+- Mà một số người có cái tôi lớn, thiếu kỹ năng giao tiếp -> Dễ xảy ra mâu thuẫn.
+  - Teamwork requires the ability to compromise with potential different sets of ideas and beliefs, and each member must maintain a high level of social interactions.
+  - Nevertheless, many individuals are introverted, meaning that their ability to socialize with others would have some limits. Also, for ones who are not willing to reconcile with others' opinions, conflicts may occur and bring about detrimental implications.
