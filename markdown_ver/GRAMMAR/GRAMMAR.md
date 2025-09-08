@@ -110,3 +110,9 @@
 
 **30. Dress/look/act the part**: to look suitable or behave in a suitable way for a particular situation
 - If you're going to be a high-powered businesswoman, you've got to look the part.
+
+**31. fix something up**: to arrange a meeting, date, event, etc
+- I'd like to fix up a meeting with you next week sometime.
+
+**to provide someone with something that they need**
+- Fix someone up with something Can he fix us up with somewhere to stay?

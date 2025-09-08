@@ -126,4 +126,8 @@
 - The idea received a muted response.
 
 **29. Muted** /ˈmjuː.t̬ɪd/ (adj): A muted colour is not bright
-- She was dressed in muted **shades** (sắc thái) of blue.j
+- She was dressed in muted **shades** (sắc thái) of blue.
+
+**30. Tedious** /ˈtiː.di.əs/ (adj): boring
+- A tedious job
+- The problem is I find most forms of exercise so tedious

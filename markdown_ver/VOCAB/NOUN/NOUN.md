@@ -127,3 +127,8 @@
 **30. Clarity** (n): the quality of being clear and easy to understand
 - There has been a call for greater clarity in this area of the law.
 - He has shown great clarity of mind.
+
+**31. Therapist** /ˈθer.ə.pɪst/ (n): someone whose job is to treat a particular type of mental or physical illness or disability, usually with a particular type of therapy
+- A speech therapist
+- I'm seeing my therapist on Friday morning.
+- A music/an art therapist
