@@ -45,19 +45,27 @@
 - After a long week of work, I usually unwind by reading a book.  
 - Holidays are the perfect opportunity to unwind and recharge.
 
-**10. Off the beaten track** /ˌɔːf ðə ˌbiː.tən ˈtræk/ (idiom): far from touristy areas, not well known  
+**10. Off the beaten track** /ˌɔːf ðə ˌbiː.tən ˈtræk/ (idiom): far from touristy areas, not well known
 
 - We discovered a beautiful waterfall off the beaten track.  
 - I love traveling to places that are off the beaten track.  
 
-**11. Luxurious** /lʌɡˈʒʊr.i.əs/ (adj): very comfortable, expensive, and high-quality  
+**11. Luxurious** /lʌɡˈʒʊr.i.əs/ (adj): very comfortable, expensive, and high-quality
 
 - They stayed in a luxurious hotel with a private pool.  
 - She enjoys a luxurious lifestyle filled with travel and fine dining.  
 
+**12. Rugged** /ˈrʌɡ.ɪd/ (adj) [NOT EVEN]: (of land) wild and not even; not easy to travel over
+- rugged landscape/terrain/hills/cliffs
 
+(adj) [STRONG]: strong and simple; not delicate
+- Jeeps are rugged vehicles, designed for rough conditions
 
-=
+**13. Slippery** /ˈslɪp.ɚ.i/ (adj): If something is slippery, it is wet or smooth so that it slides easily or causes something to slide
+- Slippery soap
+- A slippery floor
+- The road was wet and slippery.
 
-
-
+**14. Treacherous** /ˈtretʃ.ɚ.əs/ (adj): If the ground or sea is treacherous, it is extremely dangerous, especially because of bad weather conditions
+- Snow and ice have left many roads treacherous, and drivers are warned to use caution
+- Freezing rain made driving treacherous.
