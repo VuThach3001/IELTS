@@ -92,7 +92,7 @@ In conclusion, **although there are mixed opinions on determining the best forms
 
 **Paragraph 1:** Tích cực
 
-On the one hand, there are some benefits associated with imposing a higher tax level on sugar to improve the diets of citizens. As sugar is highly affordable and can enhance the taste of many dishes, it is virtually present in many parts of our diets, causing excessive accumulation of fats that lead to healthy problems, ranging from obesity to cardiovascular diseases. If the price of sugar is made more expensive, its consumption may plunge, helping people eat better and avoid health issues. This would relieve a lot of burden on each citizen and the whole healthcare system. 
+On the one hand, there are some benefits associated with imposing a higher tax level on sugar to improve the diets of citizens. As sugar is highly affordable and can enhance the taste of many dishes, it is virtually present in many parts of our diets, causing excessive accumulation of fats that lead to healthy problems, ranging from obesity to cardiovascular diseases. If the price of sugar is made more expensive, its consumption may plunge, helping people eat better and avoid health issues. This would **relieve** (làm dịu đi) a lot of burden on each citizen and the whole healthcare system. 
 
 **Paragraph 2:** Tiêu cực
 

@@ -116,3 +116,12 @@
 
 **to provide someone with something that they need**
 - Fix someone up with something Can he fix us up with somewhere to stay?
+
+**32. Stave something/someone off**: to stop something bad from happening, or to keep an unwanted situation or person away, usually temporarily
+- We were hoping to stave off these difficult decisions until September.
+
+**33. Mood disorder** /ˈmud dɪˌsɔːr.dɚ/ (n): a problem that affects someone's emotional state, for example depression or changes caused by alcohol or drugs
+- The onset of winter in northern latitudes can cause seasonal affected disorder, a form of mood disorder, in some individuals.
+
+**34. Scepticism** /ˈskep.tɪ.sɪ.zəm/ (n): an attitude that shows you doubt whether something is true or useful
+- The company's environmental claims have been greeted/regarded/treated with scepticism by conservationists.
