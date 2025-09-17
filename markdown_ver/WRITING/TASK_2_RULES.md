@@ -198,3 +198,11 @@ In this era, many companies have abandoned the normal hierachial structure and s
 - Mà một số người có cái tôi lớn, thiếu kỹ năng giao tiếp -> Dễ xảy ra mâu thuẫn.
   - Teamwork requires the ability to compromise with potential different sets of ideas and beliefs, and each member must maintain a high level of social interactions.
   - Nevertheless, many individuals are introverted, meaning that their ability to socialize with others would have some limits. Also, for ones who are not willing to reconcile with others' opinions, conflicts may occur and bring about detrimental implications.
+
+---
+
+**CTA technique practices**
+
+**Young people often do not exercise enough Why?**
+
+Engaging regularly in physical activities requires a degree of discipline along with the time and dedication since each session may exhaust people physically, at least in the beginning. Unfortunately, young people are often occupied with heavy workload or learning schedule, which are very common in the modern world, doing enough physical exercises may not be easy for most of them.
