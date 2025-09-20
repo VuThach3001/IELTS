@@ -60,7 +60,19 @@ It is true that understanding the value of historical or artistic objects requir
 
 **Paragraph 2:** Giải thích tại sao computers không thể thay thế được public museums.
 
-Public museums generally do not display historical objects in isolation. In fact, they often try to provide a comprehensive
+Public museums generally do not display historical objects **in isolation**. In fact, they often try to provide a comprehensive historical story that gradually sheds light on many complex knowledge pieces and **immerse** observers in a completely new **realm**. As a result, rather than **sporadically** viewing each object on computer, people who come to public museums can understand history at a new level, making public museums highly valuable and necessary in this day and age.
+
+**3. Closing**
+
+In conclusion, despite the claim that public museums and art galleries have a diminishing role in helping people experience historical and artistic objects, I strongly disagree with this suggestion. Not only can these places provide a detailed observation of pieces of significant value, but they can also heighten the sensation and feeling of observers, leading to a superior experience.
+
+---
+
+**Too much emphasis is given for the education of students. More government money should be spent on free time activities for young people**
+
+**To what extent do you agree of disagree?**
+
+**1. Opening**
 
 
 
