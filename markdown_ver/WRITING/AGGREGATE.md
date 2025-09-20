@@ -74,7 +74,15 @@ In conclusion, despite the claim that public museums and art galleries have a di
 
 **1. Opening**
 
+Due to the thinking that education of students is being excessively focused on, some people claim that investing more money in improving free time activities for young people is more beneficial. Personally, I totally/partly agree/disagree with this suggestion based on some reasons that are explained in this essay.
 
+**2. Main**
 
+**Paragraph 1:** Liệu giáo dục có bị quá tập trung vào hay không?
 
+First and foremost, it is inaccurate to state that education of students is being overly invested as there are clear flaws that require better investment. In many nations, especially comparatively expensive, making education accessible only to people from advantageous socioeconomic background. This lack of accessibility effectively suppress the productivity of workforce as many people must rely on manual work rather than have the ability to contribute **intellectually** to highly valued fields, such as technology, healthcare, or education.
+
+**Paragraph 2:** Liệu trẻ em có thiếu không gian để giải trí hay không?
+
+On the one hand, young people lack open spaces for physical and social interactions during their spare time as land in many urban areas are used for businesses or residential housing. Furthermore, the hustle and bustle lifestyle often makes it challenging for them to make 
 
