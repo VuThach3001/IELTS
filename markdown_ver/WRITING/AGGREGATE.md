@@ -84,5 +84,9 @@ First and foremost, it is inaccurate to state that education of students is bein
 
 **Paragraph 2:** Liệu trẻ em có thiếu không gian để giải trí hay không?
 
-On the one hand, young people lack open spaces for physical and social interactions during their spare time as land in many urban areas are used for businesses or residential housing. Furthermore, the hustle and bustle lifestyle often makes it challenging for them to make 
+On the one hand, young people lack open spaces for physical and social interactions during their spare time as land in many urban areas are used for businesses or residential housing. Furthermore, the hustle and bustle lifestyle often makes it challenging for them to make friends or engage socially with others. These conditions weaken young people's quality of life and limit their productivity. As a result, if the government can invest more in helping young people with there recreational time, either by constructing more green places or organizing online events for making friends, young people's mental and physical well-being can be maintained better, benefiting society as a whole.
+
+**3. Closing**
+
+In conclusion, although there are mixed opinions on determining whether the focus on education of students is enough or excessive, I believe that investing in education is highly needed due to the lack of accessibility to it in many parts of the world. However, the demand for higher quality activities that young people can engage in recreationally is still needed for their physical and mental health.
 
