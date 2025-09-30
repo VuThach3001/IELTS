@@ -628,6 +628,126 @@ It is often literary, formal, or religious in tone.
 
 **Notes**: Distinguish chord (music/math) vs. cord (rope/anatomy). Anatomy: vocal cords (not *chords*).
 
+**19. <a id="concave"></a>concave** /kɒnˈkeɪv/
+**(adj) [INWARD-CURVING]:** curving inwards like the inside of a bowl
+- A concave mirror focuses light to a point.
+
+**(adj) [DEPRESSED]:** (of a surface) hollowed or sunken
+- The shield had a slightly concave center.
+
+**Structures**
+
+- concave + noun (concave lens / concave mirror / concave surface)
+- be / become / remain + concave
+- slightly / deeply / gently + concave
+
+**Collocations**
+
+- concave mirror; concave lens; concave surface; concave curvature; concave depression
+
+**Examples**
+
+- Lenses or concave mirrors can concentrate the sun's rays.
+- The craftsman polished the concave interior of the bowl.
+- A concave reflective dish intensified the heat.
+
+**Notes**: Opposite: convex. Concave mirrors converge light; concave lenses diverge it. Avoid confusing spelling with "convex".
+
+**20. <a id="percussion"></a>Percussion** /pəˈkʌʃ.ən/
+**(n) [STRIKING ACTION]:** the act of striking one object against another; the process of producing sound or sparks by impact
+- Percussion with flint and steel produces sparks.
+
+**(n) [MUSICAL SECTION]:** musical instruments sounded by being struck, shaken, or scraped collectively; the section of an orchestra comprising such instruments
+- She plays in the percussion of the city orchestra.
+
+**(n) [MEDICAL EXAM]:** a diagnostic technique of tapping the body to evaluate underlying structures
+- Chest percussion revealed dullness over the lower lobe.
+
+**(adj attrib.):** relating to instruments or actions of striking
+- percussion instruments; percussion technique
+
+**Structures**
+
+- percussion + instruments / section / technique / method
+- method of percussion; perform percussion (medicine)
+
+**Collocations**
+
+- percussion method; percussion cap; percussion instrument; orchestral percussion; chest percussion
+
+**Examples**
+
+- Percussion methods of fire‑lighting predate chemical matches.
+- The innovation spread once percussion caps improved firearm ignition.
+- The doctor used gentle percussion over the patient’s lungs.
+
+**Notes**: In historical fire or weapon contexts, "percussion" emphasizes impact ignition. Capitalization only when sentence-initial.
+
+**21. <a id="chip"></a>chip** /tʃɪp/
+**(v) [REMOVE SMALL PIECES]:** to cut or break (a small piece) from a surface with repeated light blows
+- Tool-makers chipped flakes from flint cores.
+
+**(v) [DAMAGE EDGE]:** to break a small piece off (an edge or surface)
+- She chipped a plate washing dishes.
+
+**(n) [SMALL PIECE]:** a small fragment broken off something
+- A chip of stone flew past his face.
+
+**(n) [THIN SLICE FOOD] (BrE also "crisp"):** a thin slice of potato (or other food) fried or baked until crisp (regional variation)
+- He ate a handful of chips.
+
+**(n) [MICROELECTRONICS]:** an integrated circuit (informal, specialized)
+- The new chip doubles processing speed.
+
+**Structures**
+
+- chip + off / away (phrasal)  
+- chip + at + material  
+- chip + object + into + shape  
+- a chip of / from + material  
+- microchip (compound)
+
+**Collocations**
+
+- chip away; paint chipping; stone chip; silicon chip; potato chip; chip fragment
+
+**Examples**
+
+- Chipping flints produced usable cutting edges.
+- The sculptor chipped away at the marble block.
+- A small chip broke off the rim.
+- Engineers demonstrated a faster graphics chip.
+
+**Notes**: "Chipping" in archaeology = controlled removal of flakes (knapping). Distinguish verb (to chip) vs. noun (a chip). Regional food term differences (BrE chip = AmE fry).
+
+**22. <a id="flint"></a>flint** /flɪnt/
+**(n) [HARD STONE]:** a very hard form of quartz that produces sparks when struck with steel
+- Sparks flew from the piece of flint.
+
+**(n) [TOOL MATERIAL]:** stone used prehistorically for tools and weapons
+- Flint tools show sharp conchoidal fractures.
+
+**(adj attrib.):** describing tools/implements made from or containing flint
+- flint blade; flint core
+
+**Structures**
+
+- piece / nodule / core + of flint
+- flint + tool / blade / scraper / flake
+- strike flint (against steel)
+
+**Collocations**
+
+- flint and steel; flint tool; flint flake; flint core; flint striker
+
+**Examples**
+
+- Chipping flints produced sparks and sharp edges.
+- Archaeologists recovered a flint scraper.
+- Early humans struck flint against iron pyrites.
+
+**Notes**: Plural: flints. Do not confuse with "flinch" (withdraw) or "fling" (throw). Spark production relies on shaving off tiny hot metal particles.
+
 ---
 
 ### Notes Section (Main Notes)
@@ -642,9 +762,9 @@ It is often literary, formal, or religious in tone.
 
 How and where man learned how to produce flame [**at will**](#at-will) is unknown. It was probably a secondary invention, accidentally made during [**tool-making**](#tool-making) operations with wood or stone. Studies of [**primitive**](#primitive) societies suggest that the earliest method of making fire was through [**friction**](#friction). European [**peasants**](#peasant) would insert a wooden drill in a round hole and rotate it [**briskly**](#briskly) between their [**palms**](#palm). This process could be speeded up by [**wrapping**](#wrapping) a [**cord**](#cord) around the drill and pulling on each end.
 
-The Ancient Greeks used lenses or concave mirrors to concentrate the sun’s rays and burning glasses were also used by Mexican Aztecs and the Chinese.
+The Ancient Greeks used lenses or [**concave**](#concave) mirrors to concentrate the sun’s rays and burning glasses were also used by Mexican Aztecs and the Chinese.
 
-Percussion methods of firefighting date back to Paleolithic times, when some Stone Age tool-makers discovered that chipping flints produced sparks. The technique became more efficient after the discovery of iron, about 5000 years ago In Arctic North America, the Eskimos produced a slow-burning spark by striking quartz against iron pyrites, a compound that contains sulfur. The Chinese lit their fires by striking porcelain with bamboo. In Europe, the combination of steel, flint, and tinder remained the main method of firefighting until the mid 19th century.
+[**Percussion**](#percussion) methods of firefighting date back to Paleolithic times, when some Stone Age tool-makers discovered that [**chipping**](#chip) [**flints**](#flint) produced sparks. The technique became more efficient after the discovery of iron, about 5000 years ago In Arctic North America, the Eskimos produced a slow-burning spark by striking quartz against iron pyrites, a compound that contains sulfur. The Chinese lit their fires by striking porcelain with bamboo. In Europe, the combination of steel, flint, and tinder remained the main method of firefighting until the mid 19th century.
 
 Fire-lighting was revolutionized by the discovery of phosphorus, isolated in 1669 by a German alchemist trying to transmute silver into gold. Impressed by the element’s combustibility, several 17th-century chemists used it to manufacture fire-lighting devices, but the results were dangerously inflammable. With phosphorus costing the equivalent of several hundred pounds per ounce, the first matches were expensive.
 
