@@ -1,643 +1,2010 @@
-
-
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8">
-  <title>Vocabulary Index</title>
+<title>Bird by bird.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
 </head>
 <body>
-  <button onclick="playAll()">▶ Play All</button>
-  
   <script>
-    function playAll() {
-      const entries = [
-  "Volatile, adjective. likely to change suddenly and unexpectedly, especially by getting worse",
-  "Volatile, adjective. A volatile liquid or solid substance will change easily into a gas",
-  "Sullen, adjective. angry and unwilling to smile or be pleasant to people",
-  "Lax, adjective. without much care, attention, or control",
-  "Peerless, adjective. Something that is peerless is better than any other of its type",
-  "Diffusible, adjective. able to be diffused (= spread through or into a surrounding substance)",
-  "Haughty, adjective. unfriendly and seeming to consider yourself better than other people",
-  "Insuperable, adjective. (especially of a problem) so great or severe that it cannot be defeated or dealt with successfully",
-  "Callow, adjective. Someone, especially a young person, who is callow behaves in a way that shows they have little experience, confidence, or judgment",
-  "Halcyon, adjective. tranquil, joyful, and successful",
-  "Detrimental, adjective. causing harm or damage",
-  "Exponential, adjective. An exponential rate of increase becomes quicker and quicker as the thing that increases becomes larger",
-  "Exponential, adjective. containing an exponent (= a number or sign that shows how many times another number is to be multiplied by itself)",
-  "Perilous, adjective. extremely dangerous",
-  "Apprehensive, adjective. feeling worried about something that you are going to do or that is going to happen:",
-  "Sophisticated, adjective. having a good understanding of the way people behave and/or a good knowledge of culture and fashion",
-  "Spotty, adjective. used to describe a person with spots on their skin",
-  "Spotty, adjective. bad in some parts",
-  "Deliberate, adjective. (often of something bad) intentional or planned",
-  "Restorative, adjective. making you feel better or more energetic if you are feeling tired or ill",
-  "Formative, adjective. relating to the time when someone or something is starting to develop in character, and having an important influence on how they develop",
-  "Queer, adjective. having or relating to a gender identity or a sexuality that does not fit society's traditional ideas about gender or sexuality",
-  "Queer, adjective. strange, unusual, or not expected",
-  "Neurodivergent, adjective. having or related to a type of brain that is often considered as different from what is usual, for example that of someone who has autism",
-  "Seasoned, adjective. having a lot of experience of doing something and therefore knowing how to do it well",
-  "Complementary, adjective. useful or attractive together",
-  "Muted, adjective. not loud",
-  "Muted, adjective. showing little enthusiasm",
-  "Muted, adjective. A muted colour is not bright",
-  "Comparatively, adverb. as compared to something else",
-  "Taut, adjective. tight or completely stretched",
-  "Taut, adjective. excited or nervous",
-  "Taut, adjective. Taut writing or speech is controlled, clear, and short",
-  "Symphony, noun. a long piece of music for an orchestra, usually with four movements (= parts). A beautiful combination of musical sounds.",
-  "Monogram, noun. a symbol, usually formed from the first letters of a person's names joined together, that is sewn or printed on clothes or other possessions. Initials combined into a single design",
-  "Globular, adjective. shaped like a ball",
-  "Azure, adjective. having the bright blue colour of the sky on a clear day",
-  "Azure, noun. the bright blue colour of the sky on a clear day",
-  "Inventive, adjective. very good at thinking of new and original ideas",
-  "Philharmonic, adjective. used in the names of musical groups, especially orchestras",
-  "Bric-a-brac, noun. small decorative objects of various types and of no great value",
-  "Incongruous, adjective. unusual or different from what is around or from what is generally happening",
-  "Incongruous, adjective. appearing strange or wrong within a particular situation",
-  "Supple, adjective. bending or able to be bent easily; not stiff",
-  "Supple, adjective. able to change quickly and successfully to suit different situations",
-  "Superintend, verb. to be in charge of something",
-  "Foresight, noun. the ability to judge correctly what is going to happen in the future and plan your actions based on this knowledge",
-  "Logistical, adjective. relating to the careful organization of a complicated activity",
-  "Proprietorship, noun. the situation of owning something",
-  "Well-to-do, adjective. rich",
-  "Alignment, noun. an arrangement in which two or more things are positioned in a straight line or parallel to each other",
-  "Alignment, noun. an agreement between a group of countries, political parties, or people who want to work together because of shared interests or aims",
-  "Extension, noun. the fact of reaching, stretching, or continuing; the act of adding to something in order to make it bigger or longer",
-  "Extension, noun. any of two or more phones in the same house that share the same number, or any of a number of phones connected to a switchboard in a large building such as an office",
-  "Extension, noun. the last part of the name of a computer file, which comes after a (.) and shows what type of file it is",
-  "Extension, noun. a piece of hair that is added to a person's own hair or eyelashes in order to make it or them longer",
-  "Abscission, noun. the separation or falling off of part of a plant",
-  "Interim, adjective. temporary and intended to be used or accepted until something permanent exists",
-  "Enthusiasm, noun. a feeling of energetic interest in a particular subject or activity and an eagerness to be involved in it",
-  "Buttress, verb. to build buttresses to support a building or structure",
-  "Buttress, m. a structure made of stone or brick that sticks out from and supports a wall of a building",
-  "Hiatus, noun. a short pause in which nothing happens or is said, or a space where something is missing",
-  "Blueprint, noun. a plan or design that explains how something might be achieved",
-  "Juxtaposition, noun. the fact of putting things that are not similar next to each other",
-  "Ramification, noun. the possible results of an action",
-  "Burgeon, verb. to develop or grow quickly",
-  "Disavow, verb. to say that you know nothing about something, or that you have no responsibility for or connection with something",
-  "Bilk, verb. to get money from someone unfairly or dishonestly",
-  "Promptness, noun. the quality of doing something quickly and without delay, or at the arranged time",
-  "Ravine, noun. a deep narrow valley with steep sides.",
-  "Quantum leap, noun. a great improvement or important development in something",
-  "Mirage, noun. an image, produced by very hot air, of something that seems to be far away but does not really exist",
-  "Buoyancy, noun. the quality of being able to float",
-  "Buoyancy, noun. the quality of being successful or able to make a profit",
-  "Buoyancy, noun. a happy, positive quality, especially in spite of problems",
-  "Lough, noun. in Ireland, a lake or an inlet",
-  "Sediment, noun. a soft substance that is like a wet powder and consists of very small pieces of a solid material that have fallen to the bottom of a liquid",
-  "Morass, noun. something that is extremely complicated and difficult to deal with and makes any progress almost impossible",
-  "The foreshore, noun. the part of the land next to the sea that is between the limits reached by high and low **tide** (thủy triều), or any part of this land that does not have grass or buildings on it",
-  "Estuary, noun. the wide part of a river at the place where it joins the sea",
-  "Inlet, noun. a narrow **strip** (dải) of water that goes from a sea or lake into the land or between islands",
-  "Inlet, noun. the part of a machine through which liquid or gas enters",
-  "Ethereality, noun. the quality of being very light and **delicate** (thanh tú), especially in a way that does not seem to come from the real, physical world",
-  "Precipice, noun. a very steep side of a cliff or a mountain",
-  "Islet, noun. a small island",
-  "Islet, noun. one of many groups of cells in the **pancreas** (tuyến tụy) that produce hormones such as insulin",
-  "Deliquesce, verb. When a solid deliquesces, it becomes liquid as it absorbs moisture from the air",
-  "Deliquesce, verb. to gradually disappear or be destroyed",
-  "Touch-and-go, adjective. If a situation is touch-and-go, it is uncertain",
-  "Raincheck, noun. a part of a ticket to a game, activity, etc., that can be used later if bad weather prevents the original event from happening",
-  "Rain check, noun. an offer or request to do or get something at a later time than was originally intended",
-  "Relish, verb. to like or enjoy something",
-  "Relish, noun. a type of sauce that is eaten with food to add flavour to it",
-  "Relish, noun. the enjoyment you get from doing something",
-  "Partible, adjective. Partible land or other property can be divided between two or more people when it is passed from someone after they die",
-  "Raise, verb. to lift something to a higher position",
-  "Raise, verb. to cause something to increase or become bigger, better, higher, etc.",
-  "Raise, verb. to cause to exist",
-  "Raise, verb. to take care of a person, or an animal or plant, until they are completely grown",
-  "Raise, verb. If you raise another player in a game of cards, you risk more money than that player has risked",
-  "Raise, verb. to end or stop",
-  "Raise, verb. to communicate with someone, especially by phone or radio",
-  "Raise, noun. an increase in the amount that you are paid for the work you do",
-  "Granulate, verb. to turn or to make something turn into granules (= small pieces like grains)",
-  "Granulate, verb. (of injured skin or tissue) to form many small **lumps** (cục u) as part of the healing process (= the process of becoming healthy again)",
-  "Granulate, noun. a substance consisting of granules (= small pieces like grains)",
-  "Meager, adjective. very small in amount or number; only as much or not as much as is needed or thought to be suitable",
-  "Palatable, adjective. Palatable food or drink has a pleasant taste",
-  "Palatable, adjective. acceptable",
-  "Rancid, adjective. (of butter, oil, etc.) tasting or smelling unpleasant because of not being fresh",
-  "Nutritious, adjective. containing many of the substances needed for life and growth",
-  "Nutritive, adjective. relating to nutrition (= **Nutritious**)",
-  "Antiquated, adjective. old-fashioned or unsuitable for modern society",
-  "Polytheism, noun. belief in many different gods",
-  "Resurgent, adjective. increasing again, or becoming popular again",
-  "Sacrosanct, adjective. thought to be too important or too special to be changed",
-  "Subjugate, verb. to defeat people or a country and rule them in a way that allows them no freedom",
-  "Subjugate, verb. to treat yourself, your wishes, or your beliefs as being less important than other people or their wishes or beliefs",
-  "Aggregate, noun. something formed by adding together several amounts or things",
-  "Aggregate, noun. small stones used in building",
-  "Aggregate, adjective. total",
-  "Aggregate, verb. to combine into a single group or total",
-  "Partisan, adjective. strongly supporting a person, principle, or political party, often without considering or judging the matter very carefully",
-  "Partisan, noun. someone who supports a person, principle, or political party",
-  "Potentate, noun. a ruler who has a lot of power, especially one whose power is not limited, for example by the existence of a parliament",
-  "Originate, verb. to come from a particular place, time, situation, etc.",
-  "Conflagration, noun. a large fire that causes a lot of damage",
-  "Multiculturalism, noun. the belief that different cultures within a society should all be given importance",
-  "Impregnable, adjective. A building or other place that is impregnable is so strongly built and/or defended that it cannot be entered by force",
-  "Inquisitor, noun. someone who asks a lot of questions",
-  "Vestige, noun. a small part or amount of something larger, stronger, or more important that still exists from something that existed in the past",
-  "Absolution, noun. the act of forgiving someone, especially in the Christian religion, for something bad that they have done or thought",
-  "Relativity, noun. either of two theories of physics giving the relationship between space, time, and energy, especially for two objects moving in different ways",
-  "Relativity, noun. the state of being judged in comparison with other things and not by itself",
-  "Pedantic, adjective. giving too much attention to formal rules or small details",
-  "Synonym, noun. a word or phrase that has the same or nearly the same meaning as another word or phrase in the same language",
-  "Dramatist, noun. a person who writes plays",
-  "Rote, noun. learning something in order to be able to repeat it from memory, rather than in order to understand it",
-  "Interrogative, noun. a word, phrase, or sentence used when asking a question",
-  "Belle, noun. a beautiful and attractive woman or one who is beautifully dressed",
-  "Parallelism, noun. the use of matching sentence structure, phrases, or longer parts so as to balance ideas of equal importance",
-  "Bombastic, adjective. forceful and confident in a way that is intended to be very powerful and impressive, but may not have much real meaning or effect",
-  "Sublime, adjective. extremely good, beautiful, or enjoyable",
-  "Sublime, noun. something that is sublime",
-  "Sublime, verb. to change a solid directly into a gas without the solid first becoming a liquid, or to be changed in this way.",
-  "Invective, noun. criticism that is very forceful, unkind, and often rude",
-  "Laconic, adjective. using very few words to express what you mean",
-  "Analogy, noun. a comparison between things that have similar features, often used to help explain a principle or idea",
-  "Rife, adjective. If something unpleasant is rife, it is very common or happens a lot",
-  "Discordant, adjective. used to describe something that is not in agreement with something else",
-  "Vitality, adjective. energy and strength",
-  "Deleterious, adjective. harmful",
-  "Hygiene, noun. the degree to which people keep themselves or their environment clean, especially to prevent disease",
-  "Abrasion, noun. the process of rubbing away the surface of something",
-  "Gastric, adjective. relating to the stomach",
-  "Facial, adjective. of or on the face",
-  "Facial, noun. a beauty treatment that cleans and improves the skin of the face with creams and gentle rubbing",
-  "Chronic, adjective. (especially of a disease or something bad) continuing for a long time",
-  "Diaphragm, noun. the muscle that separates the chest from the lower part of the body",
-  "Diaphragm, noun. a circular rubber device that a woman puts inside her vagina before having sex, to avoid becoming pregnant",
-  "Diaphragm, noun. any thin piece of material stretched across an opening",
-  "Patent, noun. the official legal right to make or sell an invention for a particular number of years",
-  "Patent, verb. to get the official legal right to make or sell an invention",
-  "Patent, adjective. very obvious",
-  "Lucid, adjective. clearly expressed and easy to understand, or (of a person) thinking or speaking clearly",
-  "Remedy, noun. a successful way of curing an illness or dealing with a problem or difficulty",
-  "Remedy, verb. to do something to correct or improve something that is wrong",
-  "Efficacious, adjective. able to produce the intended result",
-  "Adipose, adjective. relating to animal fat",
-  "Bladder, noun. an organ like a bag inside the body of a person or animal, where urine is stored before it leaves the body",
-  "Air sac, noun. a space filled with air that continues from a bird's lungs into one of its bones or another body area, used in breathing",
-  "Norm, noun. an accepted standard or a way of behaving or doing things that most people agree with",
-  "Hook, noun. a curved device used for catching or holding things, especially one attached to a surface for hanging things on",
-  "Hook, noun. a shot depended on what materials you use, can be a bat, a punch",
-  "Hook, noun. a repeated part of a song or piece of music that is particularly pleasing and easy to remember",
-  "Hook, noun. something that is used to attract customers' attention, and encourage them to buy a product or service",
-  "Pursuit, noun. an activity that you spend time doing, usually when you are not working",
-  "Pursuit, noun. the act of following someone or something to try to catch him, her, or it",
-  "Pursuit, noun. the act of trying to achieve a plan, activity, or situation, usually over a long period of time",
-  "Endorsement, noun. the act of saying that you approve of or support something or someone",
-  "Peril, noun. great danger, or something that is very dangerous",
-  "Triumph, noun. a very great success, achievement, or victory (= when you win a war, fight, or competition), or a feeling of great satisfaction or pleasure caused by this",
-  "Auction, noun. a usually public sale of goods or property, where people make higher and higher bids (= offers of money) for each thing, until the thing is sold to the person who will pay most",
-  "Mediation, noun. the process of talking to two separate people or groups involved in a disagreement to try to help them to agree or find a solution to their problems",
-  "Offender, noun. a person who is guilty of a crime",
-  "Imprisonment, noun. the act of putting someone in prison or the condition of being kept in prison",
-  "Rehabilitation, noun. the process of returning to a healthy or good way of life, or the process of helping someone to do this after they have been in prison, been very ill, etc.",
-  "Exposé, noun. a public report about a situation that is shocking or that has been kept secret",
-  "Restorative justice, noun. a way of dealing with crime that emphasizes taking responsibility for the effect of your crime on others, and trying to do something that makes things better for the victims",
-  "Restorative, noun. something that makes you feel better or more energetic if you are feeling tired or ill",
-  "Authenticity, noun. the quality of being real or true",
-  "Accumulation, noun. an amount of something that has been collected",
-  "Slip, noun. a small piece of paper",
-  "Want, noun. a lack of something",
-  "Wants, noun. needs",
-  "Void, noun. a large hole or empty space",
-  "Peer, noun. a person who is the same age or has the same social position or the same abilities as other people in a group",
-  "Weave, verb. the way in which cloth has been woven, for example with the threads pulled firmly together, or the pattern produced by this process",
-  "Gravitas, noun. seriousness and importance of manner, causing feelings of respect and trust in others",
-  "Credibility, noun. the fact that someone or something can be believed or trusted",
-  "Clarity, noun. the quality of being clear and easy to understand",
-  "Synergize, verb. to combine or work together in order to be more effective, or to make things or people do this",
-  "Multitask, verb. to do more than one thing at a time",
-  "Zen, adjective. relaxed and not worrying about things that you cannot change",
-  "Competency, noun. an important skill that is needed to do a job",
-  "Empath, noun. (especially in science fiction stories) a person who has an unusually strong ability to feel other people's emotional or mental states",
-  "Marginal, adjective. very small in amount or effect",
-  "Dominion, noun. control over a country or people",
-  "Fraternal, adjective. relating to brothers",
-  "Hosiery, noun. a word used especially in shops for things such as socks, tights, and stockings",
-  "Reseat, verb. to arrange for someone to have a new place to sit",
-  "Derelict, adjective. Derelict buildings or places are not cared for and are in bad condition",
-  "Derelict, adjective. failing to do what you should do, especially in your job",
-  "Derelict, noun. a person who has no home or money and often lives outside",
-  "Emblazon, verb. to print or decorate something in a very noticeable way",
-  "Intramural, adjective. happening within or involving the members of one school, college, or university",
-  "Anonymity, noun. the situation in which someone's name is not given or known",
-  "Neuter, adjective. relating to a particular gender (= class of nouns) in some languages",
-  "Neuter, verb. to remove part of an animal's sexual organs, so that it cannot produce young animals",
-  "Admissible, adjective. considered satisfactory and acceptable in a law court",
-  "Well-bred, adjective. coming from a family that has a high social position",
-  "Well-bred, adjective. (of horses, dogs, etc.) bred from parents who are both considered to be good quality animals",
-  "Commitment, noun. a promise or firm decision to do something",
-  "Reciprocal, adjective. A reciprocal action or arrangement involves two people or groups of people who behave in the same way or agree to help each other and give each other advantages",
-  "Divulgence, noun. the act of making known something that was secret",
-  "Secrecy, noun. the state of being secret or of keeping something secret",
-  "Indiscriminately, adverb. in a way that does not show careful choice or planning, usually with harmful results",
-  "Linguist, noun. Someone who knows many languages",
-  "Eclectic, adjective. consisting of a diverse variety of elements.",
-  "Punitive, adjective. intended as a punishment",
-  "Retroactive, adjective. If a law or decision is retroactive, it has effect from a date before it was approved",
-  "Ostensible, adjective. appearing or claiming to be one thing when it is really something else",
-  "Sovereign, noun. a king or queen",
-  "Sovereign, noun. used to describe money that is borrowed or invested by national governments",
-  "Sovereign, adjective. having the highest power or being completely independent",
-  "Sovereign, adjective. **sovereign remedy** an extremely successful way of dealing with a problem",
-  "Zealot, noun. a person who has very strong opinions about something, and tries to make other people have them too",
-  "Arable, adjective. Arable farming land is used for, or is suitable for, growing crops",
-  "Onerous, adjective. difficult to do or needing a lot of effort",
-  "Expedient, adjective. helpful or useful in a particular situation, but sometimes not morally acceptable",
-  "Expedient, adjective. an action that is expedient",
-  "Propel, verb. to push or move something somewhere, often with a lot of force",
-  "Intercept, verb. to stop and catch something or someone before that thing or person is able to reach a particular place",
-  "Reprove, verb. to tell someone that you disapprove of their bad or silly behaviour",
-  "Retrieve, verb. to find and bring back something",
-  "Impend, verb. If an event impends, usually an event that is unpleasant or unwanted, it is going to happen soon",
-  "Frizzle, verb. to become or make something **crisp** (giòn) (= pleasantly dry and hard) or slightly burned by frying or grilling:",
-  "Accustom, verb. to make someone familiar with new conditions",
-  "Relish, verb. to like or enjoy something",
-  "Domesticate, verb. to bring animals or plants under human control in order to provide food, power, or company",
-  "Reciprocate, verb. to share the same feelings as someone else, or to behave in the same way as someone else",
-  "Circumvent, verb. to avoid something, especially cleverly or illegally",
-  "Buttress, verb. to build buttresses to support a building or structure",
-  "Discomfit, verb. to make someone feel uncomfortable, especially mentally",
-  "Abstain, verb. to not do something, especially something enjoyable that you think might be bad",
-  "Abstain, verb. to decide not to use your vote",
-  "Abstain, verb. to stay away from work",
-  "Annul, verb. to officially announce that something such as a law, agreement, or marriage no longer exists",
-  "Regurgitate, verb. to bring back swallowed food into the mouth",
-  "Venerate, verb. to honour or very much respect a person or thing",
-  "Wane, verb. to become weaker in strength or influence",
-  "Adopt, verb. to legally take another person's child into your own family and take care of him or her as your own child",
-  "Adopt, verb. to accept or start to use something new",
-  "Adopt, verb. to choose someone or something or take something as your own",
-  "Emerge, verb. to appear by coming out of something or out from behind something",
-  "Emerge, verb. to become known, especially as a result of examining something or asking questions about it",
-  "Hook, verb. to fasten something with a hook, hang something on a hook, or catch something with a hook",
-  "Deplete, verb. to reduce something in size or amount, especially supplies of energy, money, etc.",
-  "Auction, verb. to sell something in a public auction",
-  "Withold, verb. to refuse to give something or to keep back something",
-  "Endure, verb. to suffer something difficult, unpleasant, or painful",
-  "Endure, verb. to continue to exist for a long time",
-  "Deliberate, verb. to think or talk seriously and carefully about something",
-  "Deter, verb. to prevent someone from doing something or to make someone less enthusiastic about doing something by making it difficult for that person to do it or by threatening bad results if they do it",
-  "Commit, verb. to do something illegal or something that is considered wrong",
-  "Commit, verb. to promise or give your loyalty, time, or money to a particular principle, person, or plan of action",
-  "Commit, verb. Perhaps we should commit these ideas to paper before we forget them",
-  "Expose, verb. to make something covered or hidden able to be seen",
-  "Expose, verb. to publicly show that someone or something is bad or dishonest",
-  "Expose, verb. to create a situation or a condition that makes someone likely to be harmed",
-  "Expose, verb. to create conditions that allow someone to have the opportunity to learn or experience new things",
-  "Slip, verb. to slide without intending to",
-  "Slip, verb. to go somewhere or put something somewhere quickly, often so that you are not noticed",
-  "Slip, verb. to go into a worse state, often because of lack of control or care",
-  "Slip, verb. to go down in value",
-  "Assimilate, verb. to become part of a group, country, society, etc., or to make someone or something become part of a group, country, society, etc.",
-  "Assimilate, verb. to understand and remember new information and make it part of your basic knowledge so that you can use it as your own",
-  "Assimilate, verb. to absorb food or a substance into the tissue of a living organism",
-  "Compartmentalize, verb. to separate something into parts and not allow those parts to mix together",
-  "Peer, verb. to look carefully or with difficulty",
-  "Weave, verb. to make cloth by repeatedly crossing a single thread through two sets of long threads on a loom (= special frame)",
-  "Weave, verb. to go or make a path by moving quickly and changing direction often, especially to avoid hitting things",
-  "Polarize, verb. to cause something, especially something that contains different people or opinions, to divide into two completely opposing groups",
-  "Polarize, verb. to make light waves move in one direction only, or mainly in one direction",
-  "Season, verb. to improve the flavour of savoury food by adding salt, herbs, or spices when cooking or preparing it:",
-  "Flatter, verb. to praise someone in order to make them feel attractive or important, sometimes in a way that is not sincere"
-];
-
-      let index = 0;
-      function speakNext() {
-        if (index < entries.length) {
-          const utterance = new SpeechSynthesisUtterance(entries[index]);
-          utterance.lang = "en-US";
-          utterance.onend = () => {
-            index++;
-            speakNext();
-          };
-          speechSynthesis.speak(utterance);
-        }
-      }
-
-      speakNext();
-    }
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
   </script>
-  <h1>All Vocabulary</h1>
-  <pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
-- Volatile (adjective)
-- Volatile (adjective)
-- Sullen (adjective)
-- Lax (adjective)
-- Peerless (adjective)
-- Diffusible (adjective)
-- Haughty (adjective)
-- Insuperable (adjective)
-- Callow (adjective)
-- Halcyon (adjective)
-- Detrimental (adjective)
-- Exponential (adjective)
-- Exponential (adjective)
-- Perilous (adjective)
-- Apprehensive (adjective)
-- Sophisticated (adjective)
-- Spotty (adjective)
-- Spotty (adjective)
-- Deliberate (adjective)
-- Restorative (adjective)
-- Formative (adjective)
-- Queer (adjective)
-- Queer (adjective)
-- Neurodivergent (adjective)
-- Seasoned (adjective)
-- Complementary (adjective)
-- Muted (adjective)
-- Muted (adjective)
-- Muted (adjective)
-  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
-- Comparatively (adverb)
-  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
-- Taut (adjective)
-- Taut (adjective)
-- Taut (adjective)
-- Symphony (noun)
-- Monogram (noun)
-- Globular (adjective)
-- Azure (adjective)
-- Azure (noun)
-- Inventive (adjective)
-- Philharmonic (adjective)
-- Bric-a-brac (noun)
-- Incongruous (adjective)
-- Incongruous (adjective)
-- Supple (adjective)
-- Supple (adjective)
-  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
-- Superintend (verb)
-- Foresight (noun)
-- Logistical (adjective)
-- Proprietorship (noun)
-- Well-to-do (adjective)
-- Alignment (noun)
-- Alignment (noun)
-- Extension (noun)
-- Extension (noun)
-- Extension (noun)
-- Extension (noun)
-- Abscission (noun)
-- Interim (adjective)
-- Enthusiasm (noun)
-- Buttress (verb)
-- Buttress (m)
-- Hiatus (noun)
-- Blueprint (noun)
-- Juxtaposition (noun)
-- Ramification (noun)
-- Burgeon (verb)
-- Disavow (verb)
-- Bilk (verb)
-- Promptness (noun)
-  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
-- Ravine (noun)
-- Quantum leap (noun)
-- Mirage (noun)
-- Buoyancy (noun)
-- Buoyancy (noun)
-- Buoyancy (noun)
-- Lough (noun)
-- Sediment (noun)
-- Morass (noun)
-- The foreshore (noun)
-- Estuary (noun)
-- Inlet (noun)
-- Inlet (noun)
-- Ethereality (noun)
-- Precipice (noun)
-- Islet (noun)
-- Islet (noun)
-- Deliquesce (verb)
-- Deliquesce (verb)
-  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
-- Touch-and-go (adjective)
-- Raincheck (noun)
-- Rain check (noun)
-- Relish (verb)
-- Relish (noun)
-- Relish (noun)
-  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
-- Partible (adjective)
-- Raise (verb)
-- Raise (verb)
-- Raise (verb)
-- Raise (verb)
-- Raise (verb)
-- Raise (verb)
-- Raise (verb)
-- Raise (noun)
-- Granulate (verb)
-- Granulate (verb)
-- Granulate (noun)
-- Meager (adjective)
-- Palatable (adjective)
-- Palatable (adjective)
-- Rancid (adjective)
-- Nutritious (adjective)
-- Nutritive (adjective)
-  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
-- Antiquated (adjective)
-- Polytheism (noun)
-- Resurgent (adjective)
-- Sacrosanct (adjective)
-- Subjugate (verb)
-- Subjugate (verb)
-- Aggregate (noun)
-- Aggregate (noun)
-- Aggregate (adjective)
-- Aggregate (verb)
-- Partisan (adjective)
-- Partisan (noun)
-- Potentate (noun)
-- Originate (verb)
-- Conflagration (noun)
-- Multiculturalism (noun)
-- Impregnable (adjective)
-- Inquisitor (noun)
-- Vestige (noun)
-- Absolution (noun)
-- Relativity (noun)
-- Relativity (noun)
-  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
-- Pedantic (adjective)
-- Synonym (noun)
-- Dramatist (noun)
-- Rote (noun)
-- Interrogative (noun)
-- Belle (noun)
-- Parallelism (noun)
-- Bombastic (adjective)
-- Sublime (adjective)
-- Sublime (noun)
-- Sublime (verb)
-- Invective (noun)
-- Laconic (adjective)
-- Analogy (noun)
-- Rife (adjective)
-- Discordant (adjective)
-  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
-- Vitality (adjective)
-- Deleterious (adjective)
-- Hygiene (noun)
-- Abrasion (noun)
-- Gastric (adjective)
-- Facial (adjective)
-- Facial (noun)
-- Chronic (adjective)
-- Diaphragm (noun)
-- Diaphragm (noun)
-- Diaphragm (noun)
-- Patent (noun)
-- Patent (verb)
-- Patent (adjective)
-- Lucid (adjective)
-- Remedy (noun)
-- Remedy (verb)
-- Efficacious (adjective)
-- Adipose (adjective)
-- Bladder (noun)
-- Air sac (noun)
-  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
-- Norm (noun)
-- Hook (noun)
-- Hook (noun)
-- Hook (noun)
-- Hook (noun)
-- Pursuit (noun)
-- Pursuit (noun)
-- Pursuit (noun)
-- Endorsement (noun)
-- Peril (noun)
-- Triumph (noun)
-- Auction (noun)
-- Mediation (noun)
-- Offender (noun)
-- Imprisonment (noun)
-- Rehabilitation (noun)
-- Exposé (noun)
-- Restorative justice (noun)
-- Restorative (noun)
-- Authenticity (noun)
-- Accumulation (noun)
-- Slip (noun)
-- Want (noun)
-- Wants (noun)
-- Void (noun)
-- Peer (noun)
-- Weave (verb)
-- Gravitas (noun)
-- Credibility (noun)
-- Clarity (noun)
-  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
-- Synergize (verb)
-- Multitask (verb)
-- Zen (adjective)
-- Competency (noun)
-- Empath (noun)
-  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
-- Marginal (adjective)
-- Dominion (noun)
-- Fraternal (adjective)
-- Hosiery (noun)
-- Reseat (verb)
-- Derelict (adjective)
-- Derelict (adjective)
-- Derelict (noun)
-- Emblazon (verb)
-- Intramural (adjective)
-- Anonymity (noun)
-- Neuter (adjective)
-- Neuter (verb)
-- Admissible (adjective)
-- Well-bred (adjective)
-- Well-bred (adjective)
-- Commitment (noun)
-- Reciprocal (adjective)
-- Divulgence (noun)
-- Secrecy (noun)
-- Indiscriminately (adverb)
-- Linguist (noun)
-- Eclectic (adjective)
-- Punitive (adjective)
-- Retroactive (adjective)
-- Ostensible (adjective)
-- Sovereign (noun)
-- Sovereign (noun)
-- Sovereign (adjective)
-- Sovereign (adjective)
-- Zealot (noun)
-- Arable (adjective)
-- Onerous (adjective)
-- Expedient (adjective)
-- Expedient (adjective)
-  </pre><pre style="font-size:16px; line-height:1.5em; font-weight:bold;">
-- Propel (verb)
-- Intercept (verb)
-- Reprove (verb)
-- Retrieve (verb)
-- Impend (verb)
-- Frizzle (verb)
-- Accustom (verb)
-- Relish (verb)
-- Domesticate (verb)
-- Reciprocate (verb)
-- Circumvent (verb)
-- Buttress (verb)
-- Discomfit (verb)
-- Abstain (verb)
-- Abstain (verb)
-- Abstain (verb)
-- Annul (verb)
-- Regurgitate (verb)
-- Venerate (verb)
-- Wane (verb)
-- Adopt (verb)
-- Adopt (verb)
-- Adopt (verb)
-- Emerge (verb)
-- Emerge (verb)
-- Hook (verb)
-- Deplete (verb)
-- Auction (verb)
-- Withold (verb)
-- Endure (verb)
-- Endure (verb)
-- Deliberate (verb)
-- Deter (verb)
-- Commit (verb)
-- Commit (verb)
-- Commit (verb)
-- Expose (verb)
-- Expose (verb)
-- Expose (verb)
-- Expose (verb)
-- Slip (verb)
-- Slip (verb)
-- Slip (verb)
-- Slip (verb)
-- Assimilate (verb)
-- Assimilate (verb)
-- Assimilate (verb)
-- Compartmentalize (verb)
-- Peer (verb)
-- Weave (verb)
-- Weave (verb)
-- Polarize (verb)
-- Polarize (verb)
-- Season (verb)
-- Flatter (verb)
-  </pre>
+<h1 id="cornell-notes">Cornell Notes</h1>
+<h2 id="topic-a-spark-a-flint-how-fire-leapt-to-life-reading-answers">Topic: A Spark A flint: How Fire Leapt To Life: Reading Answers</h2>
+<h2 id="date-23092025">Date: 23/09/2025</h2>
+<hr>
+<h3 id="cue-column-questions-keywords-or-prompts">Cue Column (Questions, Keywords, or Prompts)</h3>
+<p><strong>1. <a id="towards"></a>towards</strong> /tɔːrdz/ (pre) [MOVEMENT]: in the direction of, or closer to someone or something <a href="#article">↩ back</a></p>
+<ul>
+<li>She stood up and walked towards to him</li>
+<li>He <strong>leaned</strong> (nghiêng người) towards his wife and whispered, &quot;Can we go home soon?&quot;</li>
+</ul>
+<p>(pre) [RELATION]: in relation to something or someone:</p>
+<ul>
+<li>They've always been very friendly towards me.</li>
+<li>There has been a change in government policy towards energy efficiency.</li>
+</ul>
+<p>(pre) [POSITION]: near to, just before, or around a time or place:</p>
+<ul>
+<li>Our seats were towards the back of the theatre.</li>
+<li>I often get hungry towards the middle of the morning.</li>
+</ul>
+<p>(pre) [PURPOSE]: for the purpose of buying or achieving something:</p>
+<ul>
+<li>I'm saving up to buy a car, and Dad has given me some money towards it.</li>
+<li>Would you like to make a contribution (= give some money) towards a present for Linda?</li>
+</ul>
+<p><strong>Grammar:</strong></p>
+<ul>
+<li>
+<p><strong>Verb + towards + noun phrase</strong>: MOVEMENT</p>
+<ul>
+<li>She walked towards the park.</li>
+<li>He leaned towards the window.</li>
+<li>I come towards him and ask for a favor.</li>
+</ul>
+</li>
+<li>
+<p><strong>Verb + towards + gerund (-ing form)</strong> : PURPOSE</p>
+<ul>
+<li>The company is moving towards reducing costs.</li>
+<li>They worked towards improving their skills.</li>
+<li>I am working hard towards paying off my loans.</li>
+</ul>
+</li>
+<li>
+<p><strong>Noun + towards + noun/gerund</strong>: RELATION / PURPOSE</p>
+<ul>
+<li>His attitude towards women is outdated.</li>
+<li>Their progress towards achieving their goals is impressive.</li>
+<li>My efforts towards my goals are valuable.</li>
+</ul>
+</li>
+<li>
+<p><strong>Adjective + towards + noun:</strong></p>
+<ul>
+<li>We use towards with adjectives that describe an attitude, feeling, or behavior directed at someone/something. It emphasizes the <strong>direction of the attitude</strong> rather than just the state.
+<ul>
+<li>She was <strong>kind towards</strong> the children.</li>
+<li>He felt <strong>hostile towards</strong> his rivals.</li>
+<li>She is <strong>angry towards</strong> her partner.</li>
+<li>She is <strong>sympathetic towards</strong> people in need.</li>
+<li>The dog is <strong>aggressive towards</strong> strangers.</li>
+<li>They were <strong>friendly towards</strong> me.</li>
+<li>The public is <strong>negative towards</strong> the proposal.</li>
+</ul>
+</li>
+<li>With adjectives that <strong>show a personal state or simple reaction</strong>, English prefers other prepositions:
+<ul>
+<li>happy with/about (not happy towards)</li>
+<li>proud of (not proud towards)</li>
+<li>afraid of (not afraid towards)</li>
+<li>interested in (not interested towards)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Preposition + towards + noun (less common but possible)</strong></p>
+<ul>
+<li>With respect towards your concerns, we’ll revise the plan.</li>
+<li>By assessing your performance towards company's profit, we decided to keep you with this company.</li>
+</ul>
+</li>
+</ul>
+<p><strong>2. <a id="compound-adjectives"></a>Compound adjectives:</strong> <a href="#article">↩ back</a></p>
+<ul>
+<li>Compound adjectives = <strong>two (or more) words joined together (often with a hyphen) that act as one adjective</strong>.</li>
+<li>They <strong>describe a noun</strong> or appear after a <strong>linking verb</strong>.</li>
+</ul>
+<hr>
+<ul>
+<li><strong>Compound adjectives + noun:</strong>
+<ul>
+<li>A compound adjective always describes a noun (same role as a normal adjective).</li>
+<li><strong>Structure:</strong> Compound adjective + noun</li>
+<li><strong>Examples:</strong>
+<ul>
+<li>a life-enhancing book (= a book that enhances life)</li>
+<li>a well-known actor (= an actor who is well known)</li>
+<li>a time-saving method (= a method that saves time)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<hr>
+<ul>
+<li><strong>Compound adjectives + verb (linking verbs):</strong>
+<ul>
+<li>Adjectives don’t directly attach to verbs. But they can come after a linking verb (be, seem, feel, look, become).</li>
+<li><strong>Structure:</strong> Subject + linking verb + compound adjective</li>
+<li><strong>Examples:</strong>
+<ul>
+<li>That experience was life-enhancing.</li>
+<li>The solution seems time-saving.</li>
+<li>His attitude is narrow-minded.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<hr>
+<ul>
+<li><strong>Compound adjectives formed from verbs:</strong>
+<ul>
+<li>
+<p>Sometimes you make a compound adjective starting with a verb in -ing or -ed form, often joined with another word:</p>
+</li>
+<li>
+<p><strong>Verb-ing based:</strong></p>
+<ul>
+<li>mind-blowing (= blows your mind)</li>
+<li>heart-breaking (= breaks your heart)</li>
+<li>thought-provoking (= provokes thought)</li>
+<li>slow-burning (= burns slowly, develops gradually)</li>
+</ul>
+</li>
+<li>
+<p><strong>Verb-ed based:</strong></p>
+<ul>
+<li>open-minded (= mind is open)</li>
+<li>broken-hearted (= heart is broken)</li>
+<li>sun-dried (= dried in the sun)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<hr>
+<ul>
+<li>
+<p><strong>Common Patterns of Compound Adjectives:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Pattern</th>
+<th>Example</th>
+<th>Meaning / Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Noun + -ing verb</td>
+<td>life-enhancing book</td>
+<td>enhances life</td>
+</tr>
+<tr>
+<td>Noun + -ed verb</td>
+<td>man-made lake</td>
+<td>made by man</td>
+</tr>
+<tr>
+<td>Adj + Noun</td>
+<td>high-speed train</td>
+<td>with high speed</td>
+</tr>
+<tr>
+<td>Adverb + Participle</td>
+<td>well-known actor</td>
+<td>known well</td>
+</tr>
+<tr>
+<td>Number + Noun</td>
+<td>a two-week holiday</td>
+<td>holiday lasting 2 weeks</td>
+</tr>
+<tr>
+<td>Adj + -ing</td>
+<td>good-looking man</td>
+<td>looks good</td>
+</tr>
+<tr>
+<td>Adj + -ed</td>
+<td>short-sighted view</td>
+<td>lacking foresight</td>
+</tr>
+<tr>
+<td>Noun + Noun</td>
+<td>snow-white dress</td>
+<td>white as snow</td>
+</tr>
+<tr>
+<td>Prep + Noun</td>
+<td>over-the-counter drug</td>
+<td>available without prescription</td>
+</tr>
+<tr>
+<td>Noun + Adjective</td>
+<td>world-famous chef</td>
+<td>famous around the world</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<hr>
+<ul>
+<li><strong>Key Notes:</strong>
+<ul>
+<li><strong>Hyphen rule:</strong> Use a hyphen when the compound adjective comes <strong>before a noun</strong>.
+<ul>
+<li>a well-known actor ✅</li>
+<li>The actor is well known ❌ (no hyphen needed after a verb).</li>
+</ul>
+</li>
+<li><strong>Clarity rule:</strong> Always hyphenate when needed to avoid confusion.
+<ul>
+<li>a small-business owner (= owns a small business)</li>
+<li>a small business owner (= a business owner who is physically small).</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>3. <a id="earlyman"></a>To early man:</strong> in relation to prehistoric humans / from the perspective of prehistoric humans. <a href="#article">↩ back</a></p>
+<ul>
+<li><strong>early man</strong>: humans in prehistoric times (e.g., cavemen, before written history)</li>
+<li><strong>Examples:</strong>
+<ul>
+<li>To early man, fire was a source of survival.</li>
+</ul>
+</li>
+</ul>
+<p><strong>4. <a id="divine"></a>Divine</strong> /dɪˈvaɪn/ (adj) [GOD-LIKE]: connected with a god, or like a god: <a href="#article">↩ back</a></p>
+<ul>
+<li>The ancient Greeks believed in many divine beings.</li>
+<li><strong>divine being</strong> Some fans seem to regard the players as divine beings.</li>
+<li><strong>divine intervention</strong> Instead of trying to change the situation, they simply pray for divine intervention (= help from God).</li>
+<li><strong>divine right</strong> Just because you've been promoted, that doesn't give you a divine right (= one like that of a god) to tell us all what to do.</li>
+</ul>
+<p><strong>(adj) [SPLENDID]:</strong> extremely good, pleasant, or enjoyable</p>
+<ul>
+<li>We had a perfectly divine time in Switzerland.</li>
+<li>Their new house is quite divine!</li>
+</ul>
+<p><strong>(v) [GUESS]:</strong> to guess something</p>
+<ul>
+<li><em>[ + that ]</em> I divined from his grim expression that the news was not good.</li>
+<li><strong>divine something from something</strong> Some journalists even tried to divine meaning from the star's body language during the interview.</li>
+</ul>
+<p><strong>(v) [SEARCH]:</strong> to search for water or minerals underground by holding horizontally in your hands a Y-shaped rod or stick, the end of which suddenly points down slightly when water or minerals are below it</p>
+<ul>
+<li><strong>divining rod</strong> They use forked sticks as divining rods for locating buried treasure and underground water.</li>
+</ul>
+<p><strong>Grammar:</strong></p>
+<p>The word <strong>divine</strong> functions as an <strong>adjective, noun, and verb</strong>.<br>
+It is often literary, formal, or religious in tone.</p>
+<hr>
+<p><strong>Adjective: divine</strong></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li><strong>divine + noun</strong></li>
+<li><strong>linking verb + divine</strong> (be, seem, feel, look, taste, sound, etc.)</li>
+<li><strong>noun + of divine + noun</strong> (less common, poetic)</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>She believed in <strong>divine intervention</strong>.</li>
+<li>His voice was simply <strong>divine</strong>.</li>
+<li>The king claimed a <strong>divine right</strong> to rule.</li>
+</ul>
+<p><strong>Common Phrases</strong></p>
+<ul>
+<li><strong>divine right (of kings)</strong></li>
+<li><strong>divine justice</strong></li>
+<li><strong>divine revelation</strong></li>
+<li><strong>divine presence</strong></li>
+</ul>
+<hr>
+<p><strong>Noun: the Divine / a divine</strong></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li><strong>the Divine</strong> (capitalized when referring to God)</li>
+<li><strong>noun + of the Divine</strong> (poetic or religious)</li>
+<li><strong>a divine</strong> (countable, old-fashioned)</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>She prayed to <strong>the Divine</strong> for guidance.</li>
+<li>Philosophers debated the <strong>nature of the Divine</strong>.</li>
+<li>Milton was a great poet and a respected <strong>divine</strong>.</li>
+</ul>
+<hr>
+<p><strong>Verb: to divine</strong></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li><strong>divine + object</strong></li>
+<li><strong>divine + wh-clause</strong></li>
+<li><strong>divine + object + from + source</strong></li>
+<li>(archaic/literary) <strong>divine + that-clause</strong></li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>She tried to <strong>divine his true feelings</strong>.</li>
+<li>He could <strong>divine what the future holds</strong>.</li>
+<li>They attempted to <strong>divine the answer from the stars</strong>.</li>
+<li>The prophet <strong>divined that a great flood was coming</strong>.</li>
+</ul>
+<p><strong>Common Phrases</strong></p>
+<ul>
+<li><strong>divine the future</strong></li>
+<li><strong>divine the truth</strong></li>
+<li><strong>divine one’s intentions</strong></li>
+<li><strong>divine answers from [source]</strong></li>
+</ul>
+<hr>
+<p><strong>Derived Forms &amp; Collocations</strong></p>
+<ul>
+<li><strong>divinity (noun)</strong> → state of being divine, or a god/goddess.
+<ul>
+<li><em>the divinity of Christ, Hindu divinities</em></li>
+</ul>
+</li>
+<li><strong>divinely (adverb)</strong> → in a divine manner.
+<ul>
+<li><em>She sang divinely.</em></li>
+</ul>
+</li>
+<li><strong>divination (noun)</strong> → the practice of seeking knowledge of the future by supernatural means.
+<ul>
+<li><em>ancient divination rituals</em></li>
+</ul>
+</li>
+</ul>
+<hr>
+<p><strong>Tone &amp; Usage Notes</strong></p>
+<ul>
+<li><strong>Religious/theological</strong>: divine = of God (divine power, divine law).</li>
+<li><strong>Literary/poetic</strong>: divine = heavenly, sublime (divine beauty, divine light).</li>
+<li><strong>Everyday informal</strong>: divine = excellent, delightful (That dress looks divine!).</li>
+<li><strong>Verb form</strong> is <strong>literary/formal</strong> (synonyms: infer, deduce, guess).</li>
+<li><strong>Noun form (a divine)</strong> is <strong>archaic/dated</strong>, rarely used outside historical or literary contexts.</li>
+</ul>
+<hr>
+<p><strong>📌 Quick Summary Table</strong></p>
+<table>
+<thead>
+<tr>
+<th>Form</th>
+<th>Structure Example</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Adj</td>
+<td>divine + noun (<em>divine justice</em>)</td>
+<td>holy, heavenly, excellent</td>
+</tr>
+<tr>
+<td>Adj</td>
+<td>linking verb + divine (<em>the meal was divine</em>)</td>
+<td>delightful, heavenly</td>
+</tr>
+<tr>
+<td>Noun</td>
+<td>the Divine (<em>prayer to the Divine</em>)</td>
+<td>God / higher power</td>
+</tr>
+<tr>
+<td>Noun</td>
+<td>a divine (<em>a learned divine</em>)</td>
+<td>theologian (archaic)</td>
+</tr>
+<tr>
+<td>Verb</td>
+<td>divine + object (<em>divine his secret</em>)</td>
+<td>guess, discover</td>
+</tr>
+<tr>
+<td>Verb</td>
+<td>divine + wh-clause (<em>divine what will happen</em>)</td>
+<td>deduce, predict</td>
+</tr>
+<tr>
+<td>Verb</td>
+<td>divine + object + from + source (<em>divine the truth from data</em>)</td>
+<td>infer from evidence</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><strong>5. <a id="lava"></a>lava</strong> /ˈlɑː.və/ (n) [MOLTEN ROCK]: hot liquid rock that comes out of the earth through a volcano, or the solid rock formed when it cools <a href="#article">↩ back</a></p>
+<p><strong>Grammar &amp; Usage</strong></p>
+<ul>
+<li>Uncountable: you do NOT say &quot;a lava&quot;; use &quot;a flow / a stream of lava&quot;.</li>
+</ul>
+<p><strong>Structures</strong></p>
+<ul>
+<li>molten / flowing / cooling + lava</li>
+<li>lava + flow / field / stream / lake / dome</li>
+<li>be covered in lava | solidify into lava rock</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>molten lava; lava flow; lava field; lava rock; lava tube; lava lake</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>The eruption sent molten lava down the mountain.</li>
+<li>Vast lava fields still shape the island's landscape.</li>
+<li>A lava dome formed at the edge of the crater.</li>
+</ul>
+<p><strong>Notes</strong>: Often paired with verbs denoting movement (spew, ooze, pour) and adjectives indicating temperature or viscosity (molten, hot, viscous).</p>
+<p><strong>6. <a id="log"></a>log</strong> /lɑːɡ/
+<strong>(n) [WOOD]:</strong> a thick piece of tree trunk or branch, especially one cut for burning on a fire <a href="#article">↩ back</a></p>
+<ul>
+<li>He threw another log on the fire.</li>
+<li>The cabin was built from rough pine logs.</li>
+</ul>
+<p><strong>(n) [RECORD]:</strong> a full written or digital record of a journey, activity, system events, etc.</p>
+<ul>
+<li>The engineer checked the error log for clues.</li>
+<li>Keep a daily log of your training sessions.</li>
+</ul>
+<p><strong>(n) [NUMBER]:</strong> logarithm (mathematics)</p>
+<ul>
+<li>In this step you take the log of both sides.</li>
+</ul>
+<p><strong>(v) [CUT WOOD]:</strong> cut down trees for timber</p>
+<ul>
+<li>The company logged the northern slope last winter.</li>
+</ul>
+<p><strong>(v) [RECORD]:</strong> enter information formally or digitally</p>
+<ul>
+<li>Please log each transaction before closing the shift.</li>
+</ul>
+<p><strong>Structures (Noun)</strong></p>
+<ul>
+<li>a log of + activity (a log of errors / flight log)</li>
+<li>keep / maintain / compile / consult a log</li>
+<li>data / error / flight / ship / access / activity log</li>
+</ul>
+<p><strong>Structures (Verb)</strong></p>
+<ul>
+<li>log + number/figure (log ten complaints)</li>
+<li>log + object + into system (log data into a database)</li>
+<li>log in / log on (phrasal verb: authenticate)</li>
+<li>log out / log off (end session)</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>fallen log; log cabin; log fire; server log; log entry; log file; log book</li>
+<li>to log hours / results / transactions / progress</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>All access attempts are automatically logged.</li>
+<li>They built a shelter from fallen logs.</li>
+<li>Pilots must log their flight hours accurately.</li>
+<li>Users must log in before accessing the dashboard.</li>
+<li>In mathematics: log₁₀ 100 = 2.</li>
+</ul>
+<p><strong>Notes</strong>: Distinguish physical vs. abstract senses. Tech usage: &quot;log file&quot; (not <em>logging file</em>). In maths, &quot;log&quot; + base sometimes expressed (log base 10 / log₁₀).</p>
+<p><strong>Existing Phrases</strong></p>
+<ul>
+<li><strong>log table</strong> (historical calculation aid)</li>
+<li><strong>keep a log</strong> maintain a record</li>
+</ul>
+<p><strong>Example (existing)</strong> Family members said he had detailed concerns in the log.</p>
+<p><strong>7. <a id="alight"></a>alight</strong> /əˈlaɪt/
+<strong>(v) [DESCEND]:</strong> (formal) to get out of or off (a vehicle, horse) <a href="#article">↩ back</a></p>
+<ul>
+<li>Passengers alighted from the train in silence.</li>
+</ul>
+<p><strong>(v) [SETTLE]:</strong> (of a bird/insect/eye/attention) to come down onto something</p>
+<ul>
+<li>A butterfly alighted on the flower.</li>
+</ul>
+<p><strong>(v) alight on/upon [NOTICE]:</strong> to find or notice suddenly</p>
+<ul>
+<li>She suddenly alighted upon an elegant solution.</li>
+</ul>
+<p><strong>(adj) [BURNING]:</strong> burning; on fire</p>
+<ul>
+<li>Several huts were alight after the storm.</li>
+</ul>
+<p><strong>(adj) [ILLUMINATED]:</strong> lit up with emotion or light</p>
+<ul>
+<li>His face was alight with curiosity.</li>
+</ul>
+<p><strong>Structures</strong></p>
+<ul>
+<li>alight from + vehicle</li>
+<li>alight on/upon + surface / idea</li>
+<li>be alight (no article when adjective)</li>
+<li>alight on a branch / idea / opportunity</li>
+<li>set sth alight (cause to burn)</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>A sparrow alighted on the windowsill.</li>
+<li>The bus stopped and several passengers alighted.</li>
+<li>Her eyes were alight with enthusiasm.</li>
+<li>She suddenly alighted upon an elegant solution.</li>
+<li>Several trees were alight after the lightning strike.</li>
+</ul>
+<p><strong>Notes</strong>: Verb is formal/literary. As adjective, usually after a linking verb (The trees were alight). Not used attributively (<em>an alight building</em> ❌).</p>
+<p><strong>8. <a id="charcoal"></a>charcoal</strong> /ˈtʃɑːr.koʊl/
+<strong>(n) [FUEL]:</strong> a hard, black form of carbon obtained by heating wood without air <a href="#article">↩ back</a></p>
+<ul>
+<li>Charcoal burns hotter than seasoned wood.</li>
+</ul>
+<p><strong>(n) [ART]:</strong> a stick of this material used for drawing; a drawing done with it</p>
+<ul>
+<li>She displayed three charcoals of coastal scenes.</li>
+</ul>
+<p><strong>(adj):</strong> dark gray-black (a charcoal suit)</p>
+<ul>
+<li>He chose a charcoal jacket for the interview.</li>
+</ul>
+<p><strong>Grammar</strong>: Usually uncountable for the substance; countable for a stick or a drawing (two charcoals = two drawings).</p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>charcoal + fire / grill / burner</li>
+<li>draw (a) charcoal portrait | charcoal drawing</li>
+<li>in charcoal (medium)</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>lump charcoal; charcoal briquettes; charcoal sketch; charcoal gray</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>They cooked over glowing charcoal.</li>
+<li>She produced a striking charcoal of the old man.</li>
+<li>He wore a charcoal suit to the interview.</li>
+</ul>
+<p><strong>Notes</strong>: Distinguish &quot;coal&quot; (natural mineral) vs. &quot;charcoal&quot; (processed wood). Same spelling for adjective use.</p>
+<p><strong>9. <a id="pot"></a>pot</strong> /pɒt/
+<strong>(n) [CONTAINER]:</strong> a round deep container used for cooking, storing, or growing plants <a href="#article">↩ back</a></p>
+<ul>
+<li>She stirred the soup in a heavy iron pot.</li>
+</ul>
+<p><strong>(n) [PORTION]:</strong> (BrE) a small sealed container (a pot of yogurt)</p>
+<ul>
+<li>He opened a small pot of raspberry yogurt.</li>
+</ul>
+<p><strong>(v) [PLANT]:</strong> to put a plant into a pot</p>
+<ul>
+<li>We potted the seedlings after the last frost.</li>
+</ul>
+<p><strong>Structures</strong></p>
+<ul>
+<li>pot + of + substance (a pot of stew / a pot of paint)</li>
+<li>cooking / clay / coffee / flower pot</li>
+<li>pot + plant (BrE) vs. potted plant (AmE/BrE)</li>
+<li>pot + up (phrasal verb: repot)</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>earthenware pot; stew pot; melting pot (fig.); pot plant; pot lid</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Leave the sauce to simmer in the pot.</li>
+<li>She bought a pot of Greek yogurt.</li>
+<li>We potted the young herbs last spring.</li>
+<li>He opened a small pot of raspberry jam.</li>
+</ul>
+<p><strong>Notes</strong>: Idioms (sample): go to pot (= deteriorate), pot luck (= shared meal / random chance). Verb mainly for planting (and cue sports: pot a ball).</p>
+<p><strong>10. <a id="at-will"></a>at will</strong> /ət ˈwɪl/
+<strong>(adv phrase):</strong> whenever one wishes; without restriction <a href="#article">↩ back</a></p>
+<ul>
+<li>After the upgrade, users could export data at will.</li>
+</ul>
+<p><strong>Structures</strong></p>
+<ul>
+<li>verb + at will (access / produce / move / reproduce at will)</li>
+<li>appear / disappear at will</li>
+</ul>
+<p><strong>Collocations / Typical Pairings</strong></p>
+<ul>
+<li>produce flame at will; act at will; roam at will</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>They could produce electricity at will after the breakthrough.</li>
+<li>The animals roam at will in the reserve.</li>
+<li>Data could be retrieved at will via the new interface.</li>
+</ul>
+<p><strong>Notes</strong>: Formal/neutral; contrasts with earlier dependence on chance. In US employment law, at-will employment is a fixed phrase (separate concept).</p>
+<p><strong>11. <a id="tool-making"></a>tool-making</strong> /ˈtuːl ˌmeɪ.kɪŋ/
+<strong>(n):</strong> the process or activity of producing tools <a href="#article">↩ back</a></p>
+<ul>
+<li>Tool-making was central to early human innovation.</li>
+</ul>
+<p><strong>(adj):</strong> describing species/techniques engaged in making tools</p>
+<ul>
+<li>Tool-making cultures left characteristic debris fields.</li>
+</ul>
+<p><strong>Structures</strong></p>
+<ul>
+<li>tool-making + techniques / tradition / culture / species</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>advances in tool-making</li>
+<li>early tool-making; stone tool-making; experimental tool-making</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Early tool-making accelerated cognitive development.</li>
+<li>Researchers replicated Neolithic tool-making techniques.</li>
+<li>Tool-making hominins left distinctive flakes behind.</li>
+</ul>
+<p><strong>Notes</strong>: Hyphen retained both as noun modifier and gerund-like noun.</p>
+<p><strong>12. <a id="primitive"></a>primitive</strong> /ˈprɪm.ə.tɪv/
+<strong>(adj) [EARLY]:</strong> relating to an early stage of development; simple; not advanced <a href="#article">↩ back</a></p>
+<ul>
+<li>Primitive stone tools were found near the site.</li>
+</ul>
+<p><strong>(adj) [BASIC]:</strong> crude, unsophisticated</p>
+<ul>
+<li>They slept in a primitive lean-to made of branches.</li>
+</ul>
+<p><strong>(n) (dated / sometimes offensive):</strong> a person from a society perceived (often wrongly) as less advanced</p>
+<ul>
+<li>(dated) The painting depicts &quot;primitives&quot; in an idealized way.</li>
+</ul>
+<p><strong>Structures</strong></p>
+<ul>
+<li>primitive + tools / technology / methods / society / beliefs</li>
+<li>remain / seem / appear + primitive</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>primitive tribe (avoid in modern anthropology) | primitive instinct | primitive hut | primitive life forms</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>They relied on primitive drilling methods.</li>
+<li>Archaeologists uncovered a primitive hearth.</li>
+<li>(dated noun) The text refers to &quot;primitives&quot;—a usage now avoided in academic writing.</li>
+</ul>
+<p><strong>Notes</strong>: Use with caution about people/groups—can carry a negative or outdated tone. Prefer &quot;early&quot; / &quot;pre-industrial&quot; for neutral description.</p>
+<p><strong>13. <a id="friction"></a>friction</strong> /ˈfrɪk.ʃən/
+<strong>(n) [PHYSICS]:</strong> resistance when two surfaces move against each other <a href="#article">↩ back</a></p>
+<ul>
+<li>Less lubrication increased friction in the joint.</li>
+</ul>
+<p><strong>(n) [TENSION]:</strong> conflict or tension between people or groups</p>
+<ul>
+<li>There was growing friction between management and staff.</li>
+</ul>
+<p><strong>Grammar</strong>: Uncountable in both senses (no plural <em>frictions</em> in physics; rare figurative plural &quot;frictions&quot;).</p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>friction between A and B</li>
+<li>reduce / increase / overcome friction</li>
+<li>cause / create friction</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>surface friction; air friction (drag); interpersonal friction; political friction</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Friction generates heat in the drilling process.</li>
+<li>Policy changes created friction between departments.</li>
+<li>Reducing surface friction increased rotational speed.</li>
+</ul>
+<p><strong>Notes</strong>: Physical sense often pairs with verbs &quot;reduce&quot; / &quot;minimize&quot;. Figurative sense overlaps with &quot;tension&quot; and &quot;strain&quot;.</p>
+<p><strong>14. <a id="peasant"></a>peasant</strong> /ˈpez.ənt/
+<strong>(n) [HISTORICAL FARMER]:</strong> a small-scale agricultural laborer, esp. in a pre-industrial/feudal context <a href="#article">↩ back</a></p>
+<ul>
+<li>Medieval peasants often shared tools communally.</li>
+</ul>
+<p><strong>(adj attrib.):</strong> used before a noun (peasant farmers / peasant clothing)</p>
+<ul>
+<li>Peasant households relied on seasonal labor.</li>
+</ul>
+<p><strong>Structures</strong></p>
+<ul>
+<li>peasant + farmer / family / household</li>
+<li>peasant + uprising / revolt</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>peasant class; peasant economy; peasant revolt; peasant communities</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>European peasants preserved embers for kindling.</li>
+<li>The reform altered traditional peasant livelihoods.</li>
+<li>Peasant clothing was coarse yet durable.</li>
+</ul>
+<p><strong>Notes</strong>: Can sound dated or politically loaded. Prefer smallholder / rural farmer where sensitivity needed.</p>
+<p><strong>15. <a id="briskly"></a>briskly</strong> /ˈbrɪsk.li/
+<strong>(adv):</strong> quickly; energetically; with purpose <a href="#article">↩ back</a></p>
+<ul>
+<li>The market opened briskly after the announcement.</li>
+</ul>
+<p><strong>Structures</strong></p>
+<ul>
+<li>move / walk / trade / speak + briskly</li>
+<li>rub / rotate + briskly</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>briskly rotating; briskly walking; briskly rubbing hands</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>He rotated the drill briskly between his palms.</li>
+<li>The nurse walked briskly down the corridor.</li>
+<li>Shares traded briskly after the announcement.</li>
+</ul>
+<p><strong>Notes</strong>: Related adjective brisk (a brisk pace / brisk trade). Rarely intensified (<em>very briskly</em> uncommon).</p>
+<p><strong>16. <a id="palm"></a>palm</strong> /pɑːm/
+<strong>(n) [HAND]:</strong> inner surface of the hand <a href="#article">↩ back</a></p>
+<ul>
+<li>Sweat gathered in the palm of his hand.</li>
+</ul>
+<p><strong>(n) [TREE]:</strong> a palm tree</p>
+<ul>
+<li>A line of palms bordered the shore.</li>
+</ul>
+<p><strong>(v):</strong> conceal in the hand (to palm a coin) — advanced / optional</p>
+<ul>
+<li>The magician palmed the card flawlessly.</li>
+</ul>
+<p><strong>Structures</strong></p>
+<ul>
+<li>the palm of one’s hand</li>
+<li>hold sth in the palm (of your hand)</li>
+<li>palm + tree / oil / frond</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>sweaty palm(s); open palm; palm oil; palm grove; palm leaf</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>He pressed the drill between his palms.</li>
+<li>She hid the note in her palm.</li>
+<li>The oasis was ringed with tall palm trees.</li>
+<li>The magician palmed the coin without anyone noticing.</li>
+</ul>
+<p><strong>Notes</strong>: Plural meaning depends on context (palms of hands vs. palm trees). Verb specialised (magic / deception).</p>
+<p><strong>17. <a id="wrapping"></a>wrapping</strong> /ˈræp.ɪŋ/
+<strong>(n):</strong> material used to cover or protect something (or the act itself) <a href="#article">↩ back</a></p>
+<ul>
+<li>Remove the outer wrapping before heating.</li>
+</ul>
+<p><strong>(adj attrib.):</strong> wrapping paper / wrapping film</p>
+<ul>
+<li>She chose gold wrapping paper for the gift.</li>
+</ul>
+<p><strong>Grammar</strong>: Countable for a single piece (a plastic wrapping); uncountable generally.</p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>remove / tear / strip + the wrapping</li>
+<li>protective / outer / plastic wrapping</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>food wrapping; gift wrapping; tight wrapping</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>They removed the protective wrapping before use.</li>
+<li>Gift wrapping is optional at checkout.</li>
+<li>Remove the outer plastic wrapping before microwaving.</li>
+</ul>
+<p><strong>Notes</strong>: Base verb wrap doubles consonant (wrap → wrapping). Use specifically for packaging (not every kind of covering).</p>
+<p><strong>18. <a id="cord"></a>cord</strong> /kɔːrd/
+<strong>(n) [THICK STRING]:</strong> strong, thick string or thin rope of twisted strands <a href="#article">↩ back</a></p>
+<ul>
+<li>He tied the bundle with a length of cord.</li>
+</ul>
+<p><strong>(n) [ANATOMY]:</strong> used in compounds (spinal cord, vocal cords, umbilical cord)</p>
+<ul>
+<li>Damage to the spinal cord can impair movement.</li>
+</ul>
+<p><strong>(v) (rare):</strong> to bind or pile (cord wood) — specialised</p>
+<ul>
+<li>They corded the firewood behind the shed.</li>
+</ul>
+<p><strong>Structures</strong></p>
+<ul>
+<li>cord + of + material (cord of hemp)</li>
+<li>tie / pull / wrap + a cord</li>
+<li>extension / power / charging cord</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>extension cord; drawstring cord; braided cord; cotton cord</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>They wrapped a cord around the drill to spin it faster.</li>
+<li>The device uses a short charging cord.</li>
+<li>Injury to the spinal cord can cause paralysis.</li>
+</ul>
+<p><strong>Notes</strong>: Distinguish chord (music/math) vs. cord (rope/anatomy). Anatomy: vocal cords (not <em>chords</em>).</p>
+<p><strong>19. <a id="concave"></a>concave</strong> /kɒnˈkeɪv/
+<strong>(adj) [INWARD-CURVING]:</strong> curving inwards like the inside of a bowl <a href="#article">↩ back</a></p>
+<ul>
+<li>A concave mirror focuses light to a point.</li>
+</ul>
+<p><strong>(adj) [DEPRESSED]:</strong> (of a surface) hollowed or sunken</p>
+<ul>
+<li>The shield had a slightly concave center.</li>
+</ul>
+<p><strong>Structures</strong></p>
+<ul>
+<li>concave + noun (concave lens / concave mirror / concave surface)</li>
+<li>be / become / remain + concave</li>
+<li>slightly / deeply / gently + concave</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>concave mirror; concave lens; concave surface; concave curvature; concave depression</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Lenses or concave mirrors can concentrate the sun's rays.</li>
+<li>The craftsman polished the concave interior of the bowl.</li>
+<li>A concave reflective dish intensified the heat.</li>
+</ul>
+<p><strong>Notes</strong>: Opposite: convex. Concave mirrors converge light; concave lenses diverge it. Avoid confusing spelling with &quot;convex&quot;.</p>
+<p><strong>20. <a id="percussion"></a>Percussion</strong> /pəˈkʌʃ.ən/
+<strong>(n) [STRIKING ACTION]:</strong> the act of striking one object against another; the process of producing sound or sparks by impact <a href="#article">↩ back</a></p>
+<ul>
+<li>Percussion with flint and steel produces sparks.</li>
+</ul>
+<p><strong>(n) [MUSICAL SECTION]:</strong> musical instruments sounded by being struck, shaken, or scraped collectively; the section of an orchestra comprising such instruments</p>
+<ul>
+<li>She plays in the percussion of the city orchestra.</li>
+</ul>
+<p><strong>(n) [MEDICAL EXAM]:</strong> a diagnostic technique of tapping the body to evaluate underlying structures</p>
+<ul>
+<li>Chest percussion revealed dullness over the lower lobe.</li>
+</ul>
+<p><strong>(adj attrib.):</strong> relating to instruments or actions of striking</p>
+<ul>
+<li>percussion instruments; percussion technique</li>
+</ul>
+<p><strong>Structures</strong></p>
+<ul>
+<li>percussion + instruments / section / technique / method</li>
+<li>method of percussion; perform percussion (medicine)</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>percussion method; percussion cap; percussion instrument; orchestral percussion; chest percussion</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Percussion methods of fire‑lighting predate chemical matches.</li>
+<li>The innovation spread once percussion caps improved firearm ignition.</li>
+<li>The doctor used gentle percussion over the patient’s lungs.</li>
+</ul>
+<p><strong>Notes</strong>: In historical fire or weapon contexts, &quot;percussion&quot; emphasizes impact ignition. Capitalization only when sentence-initial.</p>
+<p><strong>21. <a id="chip"></a>chip</strong> /tʃɪp/
+<strong>(v) [REMOVE SMALL PIECES]:</strong> to cut or break (a small piece) from a surface with repeated light blows <a href="#article">↩ back</a></p>
+<ul>
+<li>Tool-makers chipped flakes from flint cores.</li>
+</ul>
+<p><strong>(v) [DAMAGE EDGE]:</strong> to break a small piece off (an edge or surface)</p>
+<ul>
+<li>She chipped a plate washing dishes.</li>
+</ul>
+<p><strong>(n) [SMALL PIECE]:</strong> a small fragment broken off something</p>
+<ul>
+<li>A chip of stone flew past his face.</li>
+</ul>
+<p><strong>(n) [THIN SLICE FOOD] (BrE also &quot;crisp&quot;):</strong> a thin slice of potato (or other food) fried or baked until crisp (regional variation)</p>
+<ul>
+<li>He ate a handful of chips.</li>
+</ul>
+<p><strong>(n) [MICROELECTRONICS]:</strong> an integrated circuit (informal, specialized)</p>
+<ul>
+<li>The new chip doubles processing speed.</li>
+</ul>
+<p><strong>Structures</strong></p>
+<ul>
+<li>chip + off / away (phrasal)</li>
+<li>chip + at + material</li>
+<li>chip + object + into + shape</li>
+<li>a chip of / from + material</li>
+<li>microchip (compound)</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>chip away; paint chipping; stone chip; silicon chip; potato chip; chip fragment</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Chipping flints produced usable cutting edges.</li>
+<li>The sculptor chipped away at the marble block.</li>
+<li>A small chip broke off the rim.</li>
+<li>Engineers demonstrated a faster graphics chip.</li>
+</ul>
+<p><strong>Notes</strong>: &quot;Chipping&quot; in archaeology = controlled removal of flakes (knapping). Distinguish verb (to chip) vs. noun (a chip). Regional food term differences (BrE chip = AmE fry).</p>
+<p><strong>22. <a id="flint"></a>flint</strong> /flɪnt/
+<strong>(n) [HARD STONE]:</strong> a very hard form of quartz that produces sparks when struck with steel <a href="#article">↩ back</a></p>
+<ul>
+<li>Sparks flew from the piece of flint.</li>
+</ul>
+<p><strong>(n) [TOOL MATERIAL]:</strong> stone used prehistorically for tools and weapons</p>
+<ul>
+<li>Flint tools show sharp conchoidal fractures.</li>
+</ul>
+<p><strong>(adj attrib.):</strong> describing tools/implements made from or containing flint</p>
+<ul>
+<li>flint blade; flint core</li>
+</ul>
+<p><strong>Structures</strong></p>
+<ul>
+<li>piece / nodule / core + of flint</li>
+<li>flint + tool / blade / scraper / flake</li>
+<li>strike flint (against steel)</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>flint and steel; flint tool; flint flake; flint core; flint striker</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Chipping flints produced sparks and sharp edges.</li>
+<li>Archaeologists recovered a flint scraper.</li>
+<li>Early humans struck flint against iron pyrites.</li>
+</ul>
+<p><strong>Notes</strong>: Plural: flints. Do not confuse with &quot;flinch&quot; (withdraw) or &quot;fling&quot; (throw). Spark production relies on shaving off tiny hot metal particles.</p>
+<p><strong>23. <a id="alchemist"></a>alchemist</strong> /ˈæl.kə.mɪst/
+<strong>(n):</strong> a historical practitioner of alchemy seeking to transmute metals or discover universal cures/elixirs. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>medieval / Arab / Chinese + alchemist</li>
+<li>alchemist + sought / attempted + to + verb</li>
+<li>alchemist + believed / claimed + that-clause</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>alchemist’s laboratory; wandering alchemist; court alchemist; alchemical texts; proto-scientific alchemist</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>The alchemist sought a way to turn base metal into gold.</li>
+<li>Royal patrons funded alchemists in pursuit of an elixir of life.</li>
+<li>The manuscript describes an Arab alchemist refining distillation.</li>
+</ul>
+<p><strong>Notes</strong>: Term is historical; modern chemistry arose from separating empirical methods from mystical aims of alchemy. Avoid using for contemporary chemists.</p>
+<p><strong>24. <a id="transmute"></a>transmute</strong> /trænsˈmjuːt/
+<strong>(v):</strong> to change or transform in form, nature, or substance (historically: turn base metal into gold). <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>transmute + A + into + B</li>
+<li>transmute + substance / energy / element</li>
+<li>attempt / seek / strive to transmute</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>transmute lead into gold; transmute matter; alchemically transmute; transmute energy; transmute base metals</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Alchemists tried to transmute lead into gold.</li>
+<li>Modern reactors can transmute certain radioactive isotopes.</li>
+<li>The process symbolically transmuted suffering into resilience.</li>
+</ul>
+<p><strong>Notes</strong>: Scientific usage now limited (e.g., nuclear transmutation). Figurative sense: profound change in quality or character.</p>
+<p><strong>25. <a id="inflammable"></a>inflammable</strong> /ɪnˈflæm.ə.bəl/
+<strong>(adj):</strong> easily set on fire; flammable (modern usage prefers 'flammable' to avoid confusion). <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>highly / extremely / readily inflammable</li>
+<li>inflammable + material / liquid / gas</li>
+<li>keep + inflammable + noun + away from heat</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>inflammable materials; inflammable vapors; inflammable solvents; inflammable storage cabinet; highly inflammable liquid</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>The solvent is highly inflammable and must be stored in a ventilated cabinet.</li>
+<li>Labels were updated to replace ‘inflammable’ with ‘flammable’ to reduce accidents.</li>
+<li>In confined spaces, inflammable vapors can ignite explosively.</li>
+</ul>
+<p><strong>Notes</strong>: 'Inflammable' and 'flammable' mean the same; 'non-flammable' is the antonym. Safety standards increasingly discourage 'inflammable' to avoid misreading as 'not flammable'.</p>
+<p><strong>26. <a id="combustibility"></a>combustibility</strong> /kəmˌbʌstəˈbɪl.ə.ti/
+<strong>(n):</strong> the quality of a substance that allows it to catch fire and burn. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>high / low / increased + combustibility</li>
+<li>assess / test / reduce + combustibility</li>
+<li>combustibility + of + material</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>high combustibility; combustibility rating; combustibility test; material combustibility</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>The high combustibility of early match coatings made them dangerous to store.</li>
+<li>Regulations require labeling when a solvent exhibits high combustibility.</li>
+<li>Researchers reduced combustibility by altering the chemical binder.</li>
+</ul>
+<p><strong>Notes</strong>: Technical/fire-safety term; overlaps with flammability (often preferred in modern standards). Spelling consistent (no 'combustable' form).</p>
+<p><strong>27. <a id="ounce"></a>ounce</strong> /aʊns/
+<strong>(n):</strong> a unit of weight equal to 28.35 grams (avoirdupois system). <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>ounce of + substance (an ounce of gold)</li>
+<li>cost + per ounce; weigh + X + ounces</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>troy ounce (precious metals); fluid ounce (volume); ounce of prevention (idiom)</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Phosphorus once cost several pounds per ounce.</li>
+<li>The sample weighed less than an ounce.</li>
+<li>Traders quoted the metal in dollars per troy ounce.</li>
+</ul>
+<p><strong>Notes</strong>: Distinguish weight (oz) vs. fluid ounce (fl oz) for volume. Idiom: an ounce of prevention is worth a pound of cure.</p>
+<p><strong>28. <a id="phosphoric"></a>phosphoric</strong> /fɒsˈfɒr.ɪk/
+<strong>(adj):</strong> relating to or containing phosphorus, especially in oxidized (acid) forms. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>phosphoric + acid / compound</li>
+<li>phosphoric + coating / mixture</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>phosphoric acid; phosphoric coating; phosphoric treatment</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Early devices used a phosphoric mixture to generate light.</li>
+<li>Phosphoric acid appears in some industrial processes.</li>
+<li>The phosphoric coating degraded with moisture.</li>
+</ul>
+<p><strong>Notes</strong>: Not interchangeable with 'phosphorous' (different oxidation state nuance). Context here: name of early match device.</p>
+<p><strong>29. <a id="ethereal"></a>ethereal</strong> /ɪˈθɪə.ri.əl/
+<strong>(adj):</strong> extremely delicate, light, or refined; seeming not of this world. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>ethereal + light / glow / quality</li>
+<li>appear / seem / feel + ethereal</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>ethereal glow; ethereal beauty; ethereal quality</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Marketers named it the Ethereal Match for its faint glow.</li>
+<li>The compound produced an ethereal blue flame.</li>
+<li>An ethereal light shimmered inside the glass tube.</li>
+</ul>
+<p><strong>Notes</strong>: Literary/register; contrasts with practical industrial terminology.</p>
+<p><strong>30. <a id="sealed"></a>sealed</strong> /siːld/
+<strong>(adj):</strong> closed tightly so that no air, liquid, or gas can enter or escape. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>sealed + tube / container / envelope</li>
+<li>remain / keep + sealed</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>sealed glass tube; hermetically sealed; sealed ampoule</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>A sealed tube prevented premature ignition.</li>
+<li>The chemicals were stored in sealed containers.</li>
+<li>It remained sealed until the moment of use.</li>
+</ul>
+<p><strong>Notes</strong>: Past participle adjective from 'seal'. Opposite: unsealed.</p>
+<p><strong>31. <a id="twist"></a>twist</strong> /twɪst/
+<strong>(n):</strong> a spiral or coiled piece of material; an act of twisting. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>twist of + paper / wire / cloth</li>
+<li>add / give + a twist</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>a twist of paper; plot twist (figurative); twist tie</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>A twist of paper held the reactive substance.</li>
+<li>He inserted a twist of fibre as tinder.</li>
+<li>The design added a simple twist of waxed paper.</li>
+</ul>
+<p><strong>Notes</strong>: Many figurative uses (plot twist); here literal physical coil.</p>
+<p><strong>32. <a id="tipped"></a>tipped</strong> /tɪpt/
+<strong>(adj):</strong> having a pointed or coated end. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>tipped + with + substance (tipped with sulphur)</li>
+<li>metal / sulphur / wax-tipped</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>sulphur-tipped match; potassium-chlorate-tipped splint; rubber-tipped tool</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>The splint was tipped with a phosphorous compound.</li>
+<li>Workers produced thousands of sulphur-tipped matches daily.</li>
+<li>Each stick was carefully tipped before drying.</li>
+</ul>
+<p><strong>Notes</strong>: Derived participle; hyphenation common in compound adjectives (sulphur-tipped).</p>
+<p><strong>33. <a id="phosphorus"></a>phosphorus</strong> /ˈfɒs.fə.rəs/
+<strong>(n):</strong> a reactive non-metal element (P) existing in several allotropes (white, red, etc.). <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>white / red / elemental + phosphorus</li>
+<li>isolate / ignite / handle + phosphorus</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>white phosphorus; red phosphorus; phosphorus allotrope; phosphorus vapour</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>White phosphorus glows faintly in air.</li>
+<li>Red phosphorus improved match safety.</li>
+<li>Early experiments wasted expensive phosphorus.</li>
+</ul>
+<p><strong>Notes</strong>: White form toxic and pyrophoric; red form safer and stable. Do not confuse with 'phosphorous' (adjective) or 'phosphate' (compound ion).</p>
+<p><strong>34. <a id="splint"></a>splint</strong> /splɪnt/
+<strong>(n):</strong> a thin strip of wood or similar material; also a support for an injured limb. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>wooden / chemical-treated + splint</li>
+<li>ignite / insert / dip + splint</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>wooden splint; testing splint; sulphur-coated splint</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>A treated splint ignited on contact with air.</li>
+<li>Laboratory tests used a glowing splint.</li>
+<li>They dipped splints into the reactive slurry.</li>
+</ul>
+<p><strong>Notes</strong>: In lab context, a glowing splint test checks for oxygen presence.</p>
+<p><strong>35. <a id="shilling"></a>shilling</strong> /ˈʃɪl.ɪŋ/
+<strong>(n):</strong> a former British coin equal to 12 old pence (1/20 of a pound pre-decimalization). <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>cost + a shilling; pay + a few shillings</li>
+<li>shilling + coin / piece</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>a shilling a box; old shilling; two-shilling piece</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Early boxes sold for a shilling.</li>
+<li>A shilling price restricted demand.</li>
+<li>Collectors still trade shilling coins.</li>
+</ul>
+<p><strong>Notes</strong>: Obsolete UK currency (pre-1971). Historical economic context.</p>
+<p><strong>36. <a id="potassium"></a>potassium</strong> /pəˈtæs.i.əm/
+<strong>(n):</strong> a soft, highly reactive alkali metal element (K), used in many compounds. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>potassium + chlorate / nitrate / carbonate</li>
+<li>potassium + content / level</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>potassium compound; potassium levels; potassium salt</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Potassium chlorate increased oxidizing power.</li>
+<li>They sourced potassium salts locally.</li>
+<li>High potassium content affected burn rate.</li>
+</ul>
+<p><strong>Notes</strong>: Element not used in pure form in match heads (dangerous). Appears in oxidizing salts.</p>
+<p><strong>37. <a id="chlorate"></a>chlorate</strong> /ˈklɔː.reɪt/
+<strong>(n):</strong> a salt of chloric acid containing the anion ClO₃⁻, strong oxidizer. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>potassium / sodium + chlorate</li>
+<li>chlorate + mixture / crystals</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>chlorate compound; chlorate-based formula; chlorate oxidizer</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Chlorate mixtures made ignition more reliable.</li>
+<li>They handled chlorate crystals with care.</li>
+<li>A chlorate-based head flared suddenly.</li>
+</ul>
+<p><strong>Notes</strong>: Strong oxidizer; replaced partly by safer compositions in modern matches.</p>
+<p><strong>38. <a id="substitute"></a>substitute</strong> /ˈsʌb.stɪ.tuːt/ (v)
+<strong>(v):</strong> to replace one thing with another; put (something) in place of another. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>substitute + A + for + B</li>
+<li>substitute + B + with / by + A (less common variant)</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>substitute white phosphorus for chlorate; substitute material; substitute ingredient</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>They attempted to substitute white phosphorus for the earlier oxidizer.</li>
+<li>Manufacturers substituted safer components over time.</li>
+<li>You can’t simply substitute one oxidizer for another without tests.</li>
+</ul>
+<p><strong>Notes</strong>: Preposition pattern: substitute A for B (A replaces B). Noun form also common (a substitute).</p>
+<p><strong>39. <a id="fume"></a>fume</strong> /fjuːm/ (usually plural fumes)
+<strong>(n):</strong> strong-smelling or dangerous gas/vapour emitted by a substance. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>toxic / choking / noxious + fumes</li>
+<li>inhale / be exposed to + fumes</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>phosphorus fumes; chemical fumes; rising fumes</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Workers inhaled phosphorus fumes during dipping.</li>
+<li>Ventilation reduced toxic fumes.</li>
+<li>Persistent fumes led to illness.</li>
+</ul>
+<p><strong>Notes</strong>: Often used in plural; verb form (to fume) different meaning (be angry / emit smoke).</p>
+<p><strong>40. <a id="succumb"></a>succumb</strong> /səˈkʌm/
+<strong>(v):</strong> to yield, be overcome, or die from (illness, pressure, or force). <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>succumb + to + disease / injuries / temptation</li>
+<li>finally / eventually + succumb</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>succumb to necrosis; succumb to pressure; succumb to fumes</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Workers sometimes succumbed to phosphorus poisoning.</li>
+<li>He refused to succumb to commercial pressure.</li>
+<li>Some eventually succumbed to chronic illness.</li>
+</ul>
+<p><strong>Notes</strong>: Formal register. Distinct from 'surrender' (choice emphasis); 'succumb' implies inability to resist.</p>
+<p><strong>41. <a id="necrosis"></a>necrosis</strong> /nəˈkroʊ.sɪs/
+<strong>(n):</strong> localized death of tissue in a living organism. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>necrosis of + tissue / bone</li>
+<li>develop / suffer + necrosis</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>jaw necrosis; bone necrosis; tissue necrosis</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Phosphorus exposure caused jaw necrosis.</li>
+<li>The report documented necrosis of facial bone.</li>
+<li>Necrosis progressed despite treatment.</li>
+</ul>
+<p><strong>Notes</strong>: Medical term; in match industry history, “phossy jaw” (phosphorus necrosis of the jaw).</p>
+<p><strong>42. <a id="jaw-bone"></a>jaw-bone</strong> /ˈdʒɔːˌboʊn/
+<strong>(n):</strong> the bone forming the jaw (mandible or maxilla); informal variant of jawbone. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>lower / upper + jaw-bone</li>
+<li>damage / disease of the jaw-bone</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>decaying jaw-bone; jaw-bone necrosis</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Necrosis destroyed parts of the jaw-bone.</li>
+<li>Pain centered in the lower jaw-bone.</li>
+<li>The diseased jaw-bone had to be removed.</li>
+</ul>
+<p><strong>Notes</strong>: Hyphenated form acceptable; 'jawbone' also standard. Medical literature prefers mandible/maxilla.</p>
+<p><strong>43. <a id="compatriot"></a>compatriot</strong> /kəmˈpætri.ət/
+<strong>(n):</strong> a fellow citizen or person from one’s own country. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>compatriot + inventor / scientist</li>
+<li>support / assist + compatriots</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>Swedish compatriot; fellow compatriot; compatriot researcher</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>His compatriot advanced the safer match design.</li>
+<li>Compatriots collaborated across Europe.</li>
+<li>A compatriot scientist verified the results.</li>
+</ul>
+<p><strong>Notes</strong>: Neutral; often used in historical or formal narration.</p>
+<p><strong>44. <a id="lag"></a>lag</strong> /læɡ/
+<strong>(v):</strong> to fall behind in progress, development, or speed. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>lag behind + competitor / region</li>
+<li>lag in + area (lag in safety)</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>lag behind standards; lag economically; lag significantly</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Domestic production lagged behind demand.</li>
+<li>The nation lagged in adopting safer matches.</li>
+<li>They lagged behind European rivals.</li>
+</ul>
+<p><strong>Notes</strong>: Noun form 'time lag' = delay. Avoid redundancy (<em>lag behind behind</em>).</p>
+<p><strong>45. <a id="prevailing"></a>prevailing</strong> /prɪˈveɪ.lɪŋ/
+<strong>(adj):</strong> existing or most common at a particular time; predominant. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>prevailing + conditions / winds / attitudes</li>
+<li>under prevailing + circumstances</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>prevailing market rate; prevailing climate; prevailing belief</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>The formula failed in the prevailing humidity.</li>
+<li>Prevailing conditions required adjustments.</li>
+<li>They modified it for prevailing market demands.</li>
+</ul>
+<p><strong>Notes</strong>: Often precedes singular noun. Related verb: prevail.</p>
+<p><strong>46. <a id="pioneer"></a>pioneer</strong> /ˌpaɪ.əˈnɪr/ (v)
+<strong>(v):</strong> to develop or be the first to use or apply (a new method, idea, or technology). <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>pioneer + method / technology / approach</li>
+<li>be pioneered by + researcher/company</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>pioneer techniques; pioneer development; pioneer research</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>The company pioneered book matches.</li>
+<li>Scientists pioneered safer compositions.</li>
+<li>She pioneered a novel ignition process.</li>
+</ul>
+<p><strong>Notes</strong>: Noun form (a pioneer) = originator; avoid overuse as marketing buzzword.</p>
+<p><strong>47. <a id="brewery"></a>brewery</strong> /ˈbruː.ə.ri/
+<strong>(n):</strong> a place where beer is commercially produced. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>regional / local / large + brewery</li>
+<li>brewery + launched / sponsored + campaign</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>brewery promotion; craft brewery; brewery advertising</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>A brewery advertised on early matchbooks.</li>
+<li>The brewery launched a national campaign.</li>
+<li>Craft breweries used promotional matches.</li>
+</ul>
+<p><strong>Notes</strong>: Distinguish brewery (plant/business) vs. brewpub (restaurant brewery).</p>
+<p><strong>48. <a id="smoulder"></a>smoulder</strong> /ˈsmoʊl.dər/
+<strong>(v):</strong> to burn slowly with smoke but no flame; (figurative) to exist in a suppressed state. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>smoulder + slowly / quietly</li>
+<li>smoulder + after + verb (smoulder after ignition)</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>smoulder for hours; smouldering remains; smouldering wick</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>The match continued to smoulder after blowing out.</li>
+<li>Embers smouldered beneath the ash.</li>
+<li>A smouldering tip caused accidental fires.</li>
+</ul>
+<p><strong>Notes</strong>: BrE spelling smoulder / AmE smolder. Figurative: smouldering resentment.</p>
+<p><strong>49. <a id="substituting"></a>substituting</strong> /ˈsʌb.stɪ.tuː.tɪŋ/
+<strong>(v gerund):</strong> the act of replacing one component with another. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>substituting + A + for + B</li>
+<li>risk / effect of substituting</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>substituting safer materials; substituting components; unintended effects of substituting</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Substituting white phosphorus increased toxicity.</li>
+<li>They studied the effects of substituting ingredients.</li>
+<li>Careless substituting led to instability.</li>
+</ul>
+<p><strong>Notes</strong>: Gerund form; often appears in technical process discussions.</p>
+<p><strong>50. <a id="phosphoric-candle"></a>Phosphoric Candle</strong> /fɒsˈfɒr.ɪk ˈkæn.dəl/
+<strong>(n):</strong> an early match device consisting of a sealed tube with phosphorus-tipped paper. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>ignite / use + Phosphoric Candle</li>
+<li>design of the Phosphoric Candle</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>early Phosphoric Candle; fragile Phosphoric Candle</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>The Phosphoric Candle ignited spontaneously when opened.</li>
+<li>Collectors described an intact Phosphoric Candle.</li>
+<li>The Phosphoric Candle design proved fragile.</li>
+</ul>
+<p><strong>Notes</strong>: Proper noun phrase; retains capitalization.</p>
+<p><strong>51. <a id="ethereal-match"></a>Ethereal Match</strong> /ɪˈθɪə.ri.əl mætʃ/
+<strong>(n):</strong> historical name for a fragile early self-igniting match device. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>light / store + an Ethereal Match</li>
+<li>Ethereal Match + design / failure</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>early Ethereal Match; risky Ethereal Match</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>The Ethereal Match often shattered on handling.</li>
+<li>An Ethereal Match provided brief luminosity.</li>
+<li>Reports criticized Ethereal Match safety.</li>
+</ul>
+<p><strong>Notes</strong>: Treated as a product name; capitalization preserved.</p>
+<p><strong>52. <a id="phosphorous"></a>phosphorous</strong> /ˈfɒs.fər.əs/
+<strong>(adj):</strong> containing or relating to phosphorus (lower oxidation state); often confused with 'phosphoric'. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>phosphorous + compound / material</li>
+<li>release / handle + phosphorous + fumes</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>phosphorous residue; phosphorous compound; phosphorous vapour</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Phosphorous residues persisted after ignition.</li>
+<li>A phosphorous compound coated the splints.</li>
+<li>Mislabelled phosphorous mixture caused confusion.</li>
+</ul>
+<p><strong>Notes</strong>: Contrast: phosphorous (adj) vs phosphorus (noun) vs phosphoric (adj acid-related).</p>
+<p><strong>53. <a id="potassium-chlorate"></a>potassium chlorate</strong> /pəˈtæs.i.əm ˈklɔː.reɪt/
+<strong>(n):</strong> an oxidizing chemical (KClO₃) historically used in match heads. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>mix / add + potassium chlorate</li>
+<li>potassium chlorate + composition</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>potassium chlorate mixture; potassium chlorate-based igniter</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Potassium chlorate enabled rapid ignition.</li>
+<li>Later formulas reduced potassium chlorate content.</li>
+<li>Handling potassium chlorate required caution.</li>
+</ul>
+<p><strong>Notes</strong>: Powerful oxidizer; replaced in part by safer alternatives in safety matches.</p>
+<p><strong>54. <a id="quartz"></a>quartz</strong> /kwɔːrts/
+<strong>(n):</strong> a hard crystalline mineral (silicon dioxide) common in rocks; used in glassmaking and electronic oscillators. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>quartz + crystal / fragment / vein</li>
+<li>contain + quartz; quartz + component</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>quartz crystal; quartz vein; finely ground quartz; clear quartz</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>The spark came from striking quartz against pyrite.</li>
+<li>Clear quartz crystals amplified the watch signal.</li>
+<li>A quartz vein cut through the host rock.</li>
+</ul>
+<p><strong>Notes</strong>: Piezoelectric (produces voltage when stressed). Not to confuse with &quot;quarts&quot; (measure).</p>
+<p><strong>55. <a id="pyrite"></a>pyrite</strong> /ˈpaɪ.raɪt/
+<strong>(n):</strong> iron disulfide mineral (FeS₂) with a metallic luster; sparks when struck; called “fool’s gold.” <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>pyrite + nodule / fragment / surface</li>
+<li>strike + pyrite (against quartz/steel)</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>pyrite inclusion; pyrite crystal; weathered pyrite</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>They struck pyrite against quartz to make sparks.</li>
+<li>Pyrite crystals resembled gold nuggets.</li>
+<li>Weathered pyrite produced a sulphur smell.</li>
+</ul>
+<p><strong>Notes</strong>: Oxidizes to form sulfuric acid drainage. Do not confuse with pirate (pronunciation difference in second vowel).</p>
+<p><strong>56. <a id="lit"></a>lit</strong> /lɪt/
+<strong>(adj / past &amp; pp of light):</strong> (1) illuminated; (2) ignited; (3 informal) excellent / exciting (slang). <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>be / remain + lit</li>
+<li>lit + room / area / path</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>dimly lit room; well-lit street; lit tip; lit candle</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>The fire was lit with a porcelain–bamboo strike.</li>
+<li>A dimly lit chamber stored embers.</li>
+<li>He kept the wick lit during travel.</li>
+</ul>
+<p><strong>Notes</strong>: Base verb: light (light–lit–lit or lighted). Avoid slang sense in academic writing.</p>
+<p><strong>57. <a id="porcelain"></a>porcelain</strong> /ˈpɔːr.səl.ɪn/ <audio src="https://dictionary.cambridge.org/media/english/us_pron/p/por/porce/porcelain.mp3" preload="none" controls style="height:1.6em;vertical-align:middle;" title="Pronunciation: porcelain"></audio>
+<strong>(n):</strong> a hard, white, translucent ceramic fired at high temperatures. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>porcelain + shard / bowl / surface</li>
+<li>strike + porcelain (against + material)</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>fine porcelain; porcelain fragment; porcelain insulator</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>The Chinese struck porcelain with bamboo to light fires.</li>
+<li>A porcelain fragment produced a sharp edge.</li>
+<li>Porcelain bowls stored glowing charcoal.</li>
+</ul>
+<p><strong>Notes</strong>: Distinguished from earthenware (lower firing temp) and stoneware (more opaque). Pronounce with silent second 'e'.</p>
+<p><strong>58. <a id="drill"></a>drill</strong> /drɪl/
+<strong>(n):</strong> (1) a tool with a rotating shaft for boring holes; (2) repeated training exercise; (v): to make a hole; to train by repetition. <a href="#article">↩ back</a></p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>hand / bow + drill; drill + into + material</li>
+<li>drill + recruits / students (in + skill)</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>fire drill; manual drill; drill bit; drill technique</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>A wooden drill rotated rapidly to generate heat.</li>
+<li>They performed a safety drill each month.</li>
+<li>Ancestors drilled into dry wood to start embers.</li>
+</ul>
+<p><strong>Notes</strong>: Verb past = drilled. Different from &quot;thrill&quot; (emotion) or &quot;trill&quot; (vocal sound). In archaeology: bow-drill apparatus.</p>
+<p><strong>59. <a id="patent"></a>patent</strong> /ˈpæt.ənt/ (n, v, adj)
+<strong>(n):</strong> an official right granting exclusive use of an invention for a period. <a href="#article">↩ back</a><br>
+<strong>(v):</strong> to obtain a patent for (an invention).<br>
+<strong>(adj):</strong> (formal) obvious / evident (patent error).</p>
+<p><strong>Structures</strong></p>
+<ul>
+<li>file / obtain / hold + patent (on/for)</li>
+<li>patent + application / protection</li>
+<li>patent + infringement / law</li>
+</ul>
+<p><strong>Collocations</strong></p>
+<ul>
+<li>patent application; patent holder; patented process; patent rights</li>
+</ul>
+<p><strong>Examples</strong></p>
+<ul>
+<li>Walker never patented his friction match.</li>
+<li>The company filed a patent application.</li>
+<li>A patented process improved safety.</li>
+</ul>
+<p><strong>Notes</strong>: Past tense/past participle: patented (/ˈpæt.ən.tɪd/). Do not confuse with &quot;patience&quot;. Adj sense rare in technical writing.</p>
+<hr>
+<h3 id="notes-section-main-notes">Notes Section (Main Notes)</h3>
+<p><a id="article"></a>
+<strong>A Spark A flint: How Fire Leapt To Life</strong></p>
+<p><em>The control of fire was the first and perhaps greatest of humanity’s steps <a href="#towards"><strong>towards</strong></a> a <a href="#compound-adjectives"><strong>life-enhancing</strong></a> technology.</em></p>
+<p><img src="image.png" alt="alt text"></p>
+<p><a href="#earlyman"><strong>To early man</strong></a>, the fire was a <a href="#divine"><strong>divine</strong></a> gift randomly delivered in the form of lightning, forest fire, or burning <a href="#lava"><strong>lava</strong></a>. Unable to make flame for themselves, the earliest peoples probably stored fire by keeping <a href="#compound-adjectives"><strong>slow-burning</strong></a> <a href="#log"><strong>logs</strong></a> <a href="#alight"><strong>alight</strong></a> or by carrying <a href="#charcoal"><strong>charcoal</strong></a> in <a href="#pot"><strong>pots</strong></a>.</p>
+<p>How and where man learned how to produce flame <a href="#at-will"><strong>at will</strong></a> is unknown. It was probably a secondary invention, accidentally made during <a href="#tool-making"><strong>tool-making</strong></a> operations with wood or stone. Studies of <a href="#primitive"><strong>primitive</strong></a> societies suggest that the earliest method of making fire was through <a href="#friction"><strong>friction</strong></a>. European <a href="#peasant"><strong>peasants</strong></a> would insert a wooden <a href="#drill"><strong>drill</strong></a> in a round hole and rotate it <a href="#briskly"><strong>briskly</strong></a> between their <a href="#palm"><strong>palms</strong></a>. This process could be speeded up by <a href="#wrapping"><strong>wrapping</strong></a> a <a href="#cord"><strong>cord</strong></a> around the <a href="#drill"><strong>drill</strong></a> and pulling on each end.</p>
+<p>The Ancient Greeks used lenses or <a href="#concave"><strong>concave</strong></a> mirrors to concentrate the sun’s rays and burning glasses were also used by Mexican Aztecs and the Chinese.</p>
+<p><a href="#percussion"><strong>Percussion</strong></a> methods of firefighting date back to Paleolithic times, when some Stone Age tool-makers discovered that <a href="#chip"><strong>chipping</strong></a> <a href="#flint"><strong>flints</strong></a> produced sparks. The technique became more efficient after the discovery of iron, about 5000 years ago In Arctic North America, the Eskimos produced a slow-burning spark by striking <a href="#quartz"><strong>quartz</strong></a> against iron <a href="#pyrite"><strong>pyrites</strong></a>, a compound that contains sulfur. The Chinese <a href="#lit"><strong>lit</strong></a> their fires by striking <a href="#porcelain"><strong>porcelain</strong></a> with bamboo. In Europe, the combination of steel, flint, and tinder remained the main method of firefighting until the mid 19th century.</p>
+<p>Fire-lighting was revolutionized by the discovery of phosphorus, isolated in 1669 by a German <a href="#alchemist"><strong>alchemist</strong></a> trying to <a href="#transmute"><strong>transmute</strong></a> silver into gold. Impressed by the element’s <a href="#combustibility"><strong>combustibility</strong></a>, several 17th-century chemists used it to manufacture fire-lighting devices, but the results were dangerously <a href="#inflammable"><strong>inflammable</strong></a>. With phosphorus costing the equivalent of several hundred pounds per <a href="#ounce"><strong>ounce</strong></a>, the first matches were expensive.</p>
+<p>The quest for a practical match really began after 1781 when a group of French chemists came up with the <a href="#phosphoric"><strong>Phosphoric</strong></a> Candle or <a href="#ethereal"><strong>Ethereal</strong></a> Match, a <a href="#sealed"><strong>sealed</strong></a> glass tube containing a <a href="#twist"><strong>twist</strong></a> of paper <a href="#tipped"><strong>tipped</strong></a> with <a href="#phosphorus"><strong>phosphorus</strong></a>. When the tube was broken, air rushed in, causing the phosphorus to self-combust. An even more hazardous device, popular in America, was the Instantaneous LightBox — a bottle filled with sulphuric acid into which <a href="#splint"><strong>splints</strong></a> treated with chemicals were dipped.</p>
+<p>The first matches resembling those used today were made in 1827 by John Walker, an English pharmacist who borrowed the formula from a military rocket-maker called Congreve. Costing a <a href="#shilling"><strong>shilling</strong></a> a box, Congreves were <a href="#splint"><strong>splints</strong></a> coated with sulphur and <a href="#tipped"><strong>tipped</strong></a> with <a href="#potassium"><strong>potassium</strong></a> <a href="#chlorate"><strong>chlorate</strong></a>. To light them, the user drew them quickly through folded glass paper.</p>
+<p>Walker never <a href="#patent"><strong>patented</strong></a> his invention, and three years later it was copied by a Samuel Jones, who marketed his product as Lucifers. About the same time, a French chemistry student called Charles Sauria produced the first “strike-anywhere” match by <a href="#substitute"><strong>substituting</strong></a> white phosphorus for the potassium chlorate in the Walker formula. However, since white phosphorus is a deadly poison, from 1845 match-makers exposed to its <a href="#fume"><strong>fumes</strong></a> <a href="#succumb"><strong>succumbed</strong></a> to <a href="#necrosis"><strong>necrosis</strong></a>, a disease that eats away <a href="#jaw-bone"><strong>jaw-bones</strong></a>. It wasn’t until 1906 that the substance was eventually banned.</p>
+<p>That was 62 years after a Swedish chemist called Pasch had discovered non-toxic red or amorphous phosphorus, a development exploited commercially by Pasch’s <a href="#compatriot"><strong>compatriot</strong></a> J E Lundstrom in 1885. Lundstrom’s safety matches were safe because the red phosphorus was non-toxic; it was painted onto the striking surface instead of the match tip, which contained potassium chlorate with a relatively high ignition temperature of 182 degrees centigrade.</p>
+<p>America <a href="#lag"><strong>lagged</strong></a> behind Europe in match technology and safety standards. It wasn’t until 1900 that the Diamond Match Company bought a French patent for safety matches — but the formula did not work properly in the different climatic conditions <a href="#prevailing"><strong>prevailing</strong></a> in America and it was another 11 years before scientists finally adapted the French patent for the US.</p>
+<p>The Americans, however, can claim several “firsts” in match technology and marketing. In 1892 the Diamond Match Company <a href="#pioneer"><strong>pioneered</strong></a> book matches. The innovation didn’t catch on until after 1896 when a <a href="#brewery"><strong>brewery</strong></a> had the novel idea of advertising its product in matchbooks. Today book matches are the most widely used type in the US, with 90 percent handed out free by hotels, restaurants, and others.</p>
+<p>Other American innovations include an anti-afterglow solution to prevent the match from <a href="#smoulder"><strong>smouldering</strong></a> after it has been blown out; and the waterproof match, which lights after eight hours in water.</p>
+<hr>
+<h3 id="summary-section-summary-of-notes">Summary Section (Summary of Notes)</h3>
+<p><a href="https://ieltsprogress.com/ielts-academic-reading-practice-tests/">190+ IELTS ACADEMIC READING PRACTICE TESTS 2025</a></p>
+<p><code>&lt;a id=&quot;towards&quot;&gt;&lt;/a&gt;</code></p>
 
 </body>
 </html>
