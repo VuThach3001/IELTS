@@ -1339,7 +1339,7 @@ It is often literary, formal, or religious in tone.
 
 **Notes**: Base verb: light (light–lit–lit or lighted). Avoid slang sense in academic writing.
 
-**57. <a id="porcelain"></a>porcelain** /ˈpɔːr.səl.ɪn/ [🔈](https://dictionary.cambridge.org/media/english/us_pron/p/por/porce/porcelain.mp3 "Pronunciation: porcelain")
+**57. <a id="porcelain"></a>porcelain** /ˈpɔːr.səl.ɪn/ <audio src="https://dictionary.cambridge.org/media/english/us_pron/p/por/porce/porcelain.mp3" preload="none" controls style="height:1.6em;vertical-align:middle;" title="Pronunciation: porcelain"></audio>
 **(n):** a hard, white, translucent ceramic fired at high temperatures. [↩ back](#article)
 
 **Structures**
