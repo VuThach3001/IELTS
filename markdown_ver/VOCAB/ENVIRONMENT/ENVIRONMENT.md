@@ -90,3 +90,78 @@
 **20. Deliquesce** /ˌdelɪˈkwes/ (v) [DISAPPEAR]: to gradually disappear or be destroyed
 - The mirage was already was beginning to deliquesce.
 - The **apparatus** (thiết bị) of control, the State, continues to deliquesce.
+
+**21. Soggy** /ˈsɑː.ɡi/ (adj): (of things that can absorb water, especially food) unpleasantly wet and soft:
+- soggy ground
+- I hate it when cereal goes soggy.
+- They played on a wet, soggy field.
+
+**22. Degraded** /dɪˈɡreɪ.dɪd/ (adj)  
+*damaged in quality or condition, often because of human activity.*  
+
+- degraded environment  
+- The soil has become degraded due to over-farming.  
+- Many rivers are badly degraded by industrial waste.  
+
+**23. Irreversible** /ˌɪr.ɪˈvɜːr.sə.bəl/ (adj)  
+*impossible to change back to a previous condition or state.*  
+
+- irreversible damage  
+- Climate change may cause irreversible harm to ecosystems.  
+- Cutting down rainforests often leads to irreversible losses in biodiversity.  
+
+**24. Depleted** /dɪˈpliː.tɪd/ (adj)  
+*reduced greatly in number, amount, or strength.*  
+
+- depleted resources
+- The country’s forests are severely depleted after years of logging.  
+- Fossil fuels are rapidly being depleted.  
+
+**25. Vulnerable** /ˈvʌl.nər.ə.bəl/ (adj)  
+*weak and easily harmed, especially by environmental changes.*  
+
+- vulnerable species  
+- Coral reefs are extremely vulnerable to rising sea temperatures.  
+- Some coastal cities are vulnerable to flooding.  
+
+**26. Contaminated** /kənˈtæm.ɪ.neɪ.tɪd/ (adj)  
+*made impure or harmful by dangerous substances.*  
+
+- contaminated water  
+- The river was contaminated by toxic chemicals.  
+- Many people became ill after drinking contaminated water.  
+
+**27. Unsustainable** /ˌʌn.səˈsteɪ.nə.bəl/ (adj)  
+*not able to continue at the same rate without causing damage.*  
+
+- unsustainable lifestyle  
+- Overfishing is creating an unsustainable situation for marine life.  
+- This level of energy consumption is completely unsustainable.  
+
+**28. Hazardous** /ˈhæz.ɚ.dəs/ (adj)  
+*dangerous, especially to people’s health or safety.*  
+
+- hazardous waste  
+- Workers were exposed to hazardous chemicals.  
+- The disposal of hazardous materials must be strictly controlled.  
+
+**29. Toxic** /ˈtɑːk.sɪk/ (adj)  
+*poisonous and harmful to people, animals, or the environment.*  
+
+- toxic fumes  
+- The lake is polluted with toxic substances.  
+- Breathing toxic air can cause serious health problems.  
+
+**30. Ecological** /ˌiː.kəˈlɑː.dʒɪ.kəl/ (adj)  
+*related to the relationship between living things and their environment.*  
+
+- ecological balance  
+- Building dams can disturb the ecological system.  
+- The government is trying to find ecological solutions to pollution.  
+
+**31. Biodiverse** /ˌbaɪ.oʊ.daɪˈvɝːs/ (adj)  
+*rich in the variety of plants and animals in an area.*  
+
+- biodiverse rainforest  
+- The Amazon is one of the most biodiverse regions on Earth.  
+- Protecting biodiverse habitats is crucial for the planet’s future.  

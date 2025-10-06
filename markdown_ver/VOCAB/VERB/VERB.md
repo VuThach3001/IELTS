@@ -255,3 +255,17 @@
 
 **45. Flatter** /ˈflæt̬.ɚ/ (v): to praise someone in order to make them feel attractive or important, sometimes in a way that is not sincere
 - I knew he was only flattering me because he wanted to borrow some money
+
+**46. Immerse** /ɪˈmɝːs/ (v): to put something or someone completely under the surface of a liquid
+- **immerse something/someone in something** He immersed his hands in the warm water.
+- **immerse something/someone** The shellfish are immersed in boiling water.
+- **be immersed in** The shells should be immersed in boiling water for two minutes.
+
+**To involve someone completely in an activity:**
+- She got some books out of the library and immersed herself in Jewish history and culture.
+
+**Synonym:** dip, plunge, submerge, dunk, soak, drench
+
+**47. Diminish** /dɪˈmɪn.ɪʃ/ (v): to reduce or be reduced in size or importance'
+- I don't want to diminish her achievements, but she did have a lot of help.
+- These memories will not be diminished by time

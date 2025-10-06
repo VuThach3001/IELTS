@@ -127,3 +127,25 @@
 **30. Clarity** (n): the quality of being clear and easy to understand
 - There has been a call for greater clarity in this area of the law.
 - He has shown great clarity of mind.
+
+**31. Therapist** /ˈθer.ə.pɪst/ (n): someone whose job is to treat a particular type of mental or physical illness or disability, usually with a particular type of therapy
+- A speech therapist
+- I'm seeing my therapist on Friday morning.
+- A music/an art therapist
+
+**32. Realm** /relm/ (n): an area of interest or activity
+- Her interests are in the realm of practical politics.
+- My superior realm is the technology industry.
+- The issue of climate change is now within the realms of possibility.
+
+**Indiom: beyond/within the realms of possibility**: if something is beyond the realms of possibility, it is impossible; if it is within the realms of possibility, it is possible
+- The idea that the government will lower taxes is beyond the realms of possibility.
+
+**Synonym:** area, field, sphere, domain, discipline, subject, topic, territory, province, department, sector, milieu, environment, setting, world, universe, cosmos, dimension
+
+**33. Isolation** /ˌaɪ.səlˈeɪ.ʃən/ (n): the condition of being alone, especially when this makes you feel unhappy
+- **in isolation** The prisoner had been kept in isolation for three days.
+- After all the visitors had left, she experienced a feeling of complete isolation.
+
+**the fact that something is separate and not connected to other things**
+- **in isolation** I can't think about it in isolation (= separately) - I need some examples of the problem.
